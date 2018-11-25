@@ -276,18 +276,18 @@
 <item component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}" drawable="phone" />
 <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
 
-<!---sms_alt_three-->
-<item component=":SMS" drawable="sms_alt_three" />
-<item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="sms_alt_three" />
-<item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="sms_alt_three" />
-<item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="sms_alt_three" />
-<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="sms_alt_three" />
-<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="sms_alt_three" />
-<item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="sms_alt_three" />
-<item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="sms_alt_three" />
-<item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="sms_alt_three" />
-<item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="sms_alt_three" />
-<item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="sms_alt_three" />
+<!---messages-->
+<item component=":SMS" drawable="messages" />
+<item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages" />
+<item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages" />
+<item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="messages" />
+<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="messages" />
+<item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages" />
+<item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="messages" />
+<item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="messages" />
+<item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages" />
+<item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="messages" />
+<item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="messages" />
 
 <!---skrwt-->
 <item component="ComponentInfo{accky.kreved.skrwt.skrwt/accky.kreved.skrwt.skrwt.LaunchScreenActivity}" drawable="skrwt"/>
@@ -510,7 +510,7 @@
 <item component="ComponentInfo{com.tpcstld.twozerogame/com.tpcstld.twozerogame.MainActivity}" drawable="twothousandfortyeight" />
 
 <!---aosp_browser-->
-<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="aosp_browser" />
+<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
 
 <!---bubble_u_pn_p-->
 <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="bubble_u_pn_p" />
@@ -522,7 +522,7 @@
 <item component="ComponentInfo{com.android.development/com.android.development.Development}" drawable="dev_tools" />
 
 <!---documents-->
-<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.DocumentsActivity}" drawable="documents" />
+<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.DocumentsActivity}" drawable="google_docs" />
 
 <!---downloads-->
 <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="downloads" />
@@ -615,6 +615,12 @@
 <item component="ComponentInfo{com.intellectualflame.ledflashlight.washer/com.intellectualflame.ledflashlight.washer.FlashlightActivity}" drawable="flashlight" />
 <item component="ComponentInfo{com.surpax.ledflashlight.panel/com.surpax.ledflashlight.FlashlightActivity}" drawable="flashlight" />
 
+<!-- Pocketcamp -->
+<item component="ComponentInfo{com.nintendo.zaca/com.snslinkage.dena.snslinkageunityplugin.SnsLinkageSafeUnityPlayerNativeActivity}" drawable="pocketcamp" />
+
+<!-- GroupMe -->
+<item component="ComponentInfo{com.groupme.android/com.groupme.android.HomeActivity}" drawable="groupme" />
+
 <!---terminal-->
 <item component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}" drawable="terminal"/>
 <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="terminal"/>
@@ -698,7 +704,7 @@
 <item component="ComponentInfo{com.aol.mobile.altomail/com.aol.mobile.mail.ui.StartActivity}" drawable="alto" />
 
 <!---business_calendar-->
-<item component="ComponentInfo{com.appgenix.bizcal/com.appgenix.bizcal.LaunchActivity}" drawable="business_calendar" />
+<item component="ComponentInfo{com.appgenix.bizcal/com.appgenix.bizcal.LaunchActivity}" drawable="calendar" />
 
 <!---apple_music-->
 <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="apple_music"/>
@@ -1123,7 +1129,7 @@
 <item component="ComponentInfo{com.ebay.kijiji.ca/com.ebay.app.common.activities.SplashScreenActivity}" drawable="kijiji" />
 
 <!---ebay_kleinanzeigen-->
-<item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.home.HomeActivity}" drawable="ebay_kleinanzeigen"/>
+<item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.home.HomeActivity}" drawable="ebay"/>
 
 <!---ebay-->
 <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.eBay}" drawable="ebay"/>
@@ -1152,7 +1158,7 @@
 <item component="ComponentInfo{com.eset.ems2.gp/com.eset.ems2.gui.MainActivity}" drawable="mobile_security"/>
 
 <!---wave_calendar-->
-<item component="ComponentInfo{com.esites.ecal/com.esites.ecal.EcalActivity}" drawable="wave_calendar" />
+<item component="ComponentInfo{com.esites.ecal/com.esites.ecal.EcalActivity}" drawable="calendar" />
 
 <!---espn_fantasy-->
 <item component="ComponentInfo{com.espn.fantasy.lm.football/com.espn.fantasy.lm.Launcher}" drawable="espn_fantasy"/>
@@ -2189,9 +2195,9 @@
 <!---patreon-->
 <item component="ComponentInfo{com.patreon.android/com.patreon.app.RootActivity}" drawable="patreon"/>
 
-<!---pay_pal-->
-<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}" drawable="pay_pal"/>
-<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="pay_pal"/>
+<!---paypal-->
+<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}" drawable="paypal"/>
+<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
 
 <!---p_tracker-->
 <item component="ComponentInfo{com.period.tracker.deluxe/com.period.tracker.activity.ActivitySplash}" drawable="p_tracker" />
@@ -3306,11 +3312,11 @@
 <item component="ComponentInfo{org.wikipedia/org.wikipedia.WikipediaActivity}" drawable="wikipedia"/>
 
 <!---a_calendar-->
-<item component="ComponentInfo{org.withouthat.acalendar/org.withouthat.acalendar.ACalendar}" drawable="a_calendar" />
-<item component="ComponentInfo{org.withouthat.acalendarplus.x/org.withouthat.acalendar.ACalendar}" drawable="a_calendar" />
-<item component="ComponentInfo{org.withouthat.acalendarplus/org.withouthat.acalendar.ACalendar}" drawable="a_calendar" />
-<item component="ComponentInfo{org.withouthat.acalendarplus/org.withouthat.acalendar.tasks.TasksActivity}" drawable="a_calendar" />
-<item component="ComponentInfo{org.withouthat.acalendarplus/org.withouthat.acalendarplus.ACalendarPlus}" drawable="a_calendar" />
+<item component="ComponentInfo{org.withouthat.acalendar/org.withouthat.acalendar.ACalendar}" drawable="calendar" />
+<item component="ComponentInfo{org.withouthat.acalendarplus.x/org.withouthat.acalendar.ACalendar}" drawable="calendar" />
+<item component="ComponentInfo{org.withouthat.acalendarplus/org.withouthat.acalendar.ACalendar}" drawable="calendar" />
+<item component="ComponentInfo{org.withouthat.acalendarplus/org.withouthat.acalendar.tasks.TasksActivity}" drawable="calendar" />
+<item component="ComponentInfo{org.withouthat.acalendarplus/org.withouthat.acalendarplus.ACalendarPlus}" drawable="calendar" />
 
 <!---word_press-->
 <item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="word_press"/>
