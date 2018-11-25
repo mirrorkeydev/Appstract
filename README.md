@@ -1,4 +1,4 @@
-# Appstract
+# Appstract Icon Pack
 
 An Android icon pack based on the principles of artistic abstraction. Built on [Blueprint Dashboard](https://github.com/jahirfiquitiva/Blueprint). Available on the [Play Store](https://play.google.com/store/apps/details?id=com.melon.appstract).
 
