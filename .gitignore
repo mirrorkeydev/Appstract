@@ -25,6 +25,7 @@ bin/
 local.properties
 .settings/
 .loadpath
+*.png
 
 # External tool builders
 .externalToolBuilders/
