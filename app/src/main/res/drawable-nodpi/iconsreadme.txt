@@ -1,0 +1,1 @@
+Appstract's icons have been .gitignore'd to prevent infringement
