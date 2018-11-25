@@ -19,10 +19,10 @@
 
 <!-- This is for Atom Launcher -->
 <themeInfo>
-    <packageName>jahirfiquitiva.apps.iconshowcase.demo</packageName>
-    <versionName>1.0</versionName>
-    <versionCode>1</versionCode>
-    <themeName>IconShowcase Dashboard</themeName>
+    <packageName>com.melon.appstract</packageName>
+    <versionName>2.0</versionName>
+    <versionCode>2</versionCode>
+    <themeName>Appstract Icon Pack</themeName>
     <!-- Default Component Color -->
     <themePointColor>#00b0ff</themePointColor>
     <themePreview img1="preview1" />

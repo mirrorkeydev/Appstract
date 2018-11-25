@@ -15,9 +15,10 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.0.0" />
-    <item text="Initial Changelog" />
-    <item text="Bullet point here" />
-    <item text="More points" />
+    <version title="v2.0.0" />
+    <item text="Switched to Blueprint Dashboard" />
+    <item text="x new icons(!)" />
+    <item text="All icons now have black line elements" />
+    <item text="Fixed broken links and emails" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

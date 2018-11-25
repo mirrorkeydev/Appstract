@@ -17,11 +17,11 @@
 <!--suppress CheckTagEmptyBody -->
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Icon Pack designer/owner e-mail -->
-    <string name="email">someone@email.com</string>
+    <string name="email">mirrorkeydev@gmail.com</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
-    <string name="email_subject">Blueprint</string>
-    <string name="request_title">Blueprint Icon Request</string>
+    <string name="email_subject">Appstract</string>
+    <string name="request_title">Appstract Icon Request</string>
 
     <!-- Strings for Wallpapers and Requests -->
     <string name="request_save_location">%1$s/Blueprint/Requests/</string>
