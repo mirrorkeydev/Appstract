@@ -5525,13 +5525,13 @@
 <!---robinhood_alt-->
 <item component="ComponentInfo{com.robinhood.android/com.robinhood.android.activity.WelcomeActivity}" drawable="robinhood_alt" />
 
-    <!-- depop -->
+<!-- depop -->
 <item component="ComponentInfo{com.depop/com.depop._v2.app.splash.SplashActivity}" drawable="depop" />
 
-    <!-- clue -->
+<!-- clue -->
 <item component="ComponentInfo{com.clue.android/com.biowink.clue.activity.WheelActivity_Launcher}" drawable="clue"/>
 
-    <!-- messages-->
+<!-- messages-->
 <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
 <item component="ComponentInfo{com.motorola.blur.conversations/com.motorola.blur.conversations.ui.ConversationList}" drawable="messages"/>
 <item component="ComponentInfo{com.motorola.blur.messaging/com.motorola.blur.messaging.MessagingActivity}" drawable="messages"/>
@@ -5539,8 +5539,20 @@
 <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}" drawable="messages"/>
 <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}" drawable="messages"/>
 
-    <!-- First Tech -->
+<!-- First Tech -->
 <item component="ComponentInfo{com.firsttech.firsttech/com.alkami.mobile.orb.activity.StarterActivity}" drawable="firsttech" />
+
+<!--OSU_Mobile-->
+<item component="ComponentInfo{com.dub.app.oregonstate/com.dub.app.oregonstate.ui.SplashScreen}" drawable="osu_mobile" />
+
+<!--google_podcasts-->
+<item component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}" drawable="google_podcasts" />
+
+<!--duo_mobile-->
+<item component="ComponentInfo{com.duosecurity.duomobile/com.duosecurity.duomobile.screens.AccountListActivity}" drawable="duo_mobile" />
+
+<!--wellsfargo-->
+<item component="ComponentInfo{com.wf.wellsfargomobile/com.wf.wellsfargomobile.LauncherActivity}" drawable="wellsfargo" />
 
 
 </resources>
