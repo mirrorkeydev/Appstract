@@ -27,7 +27,7 @@
         android:fullBackupContent="true"
         android:icon="@mipmap/appicon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/appiconround"
         android:supportsRtl="true"
         android:theme="@style/MySplashScreen"
         android:manageSpaceActivity="jahirfiquitiva.libs.blueprint.ui.activities.SettingsActivity">

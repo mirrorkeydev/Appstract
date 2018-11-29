@@ -52,7 +52,7 @@ android {
                                 onesignal_google_project_number: "1234567890"]
                                 */
 
-        applicationId "jahirfiquitiva.apps.blueprint.demo"
+        applicationId "com.melon.appstract" //jahirfiquitiva.apps.blueprint.demo
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
         versionCode 131

@@ -4956,9 +4956,9 @@
 <!---xodo_docs-->
 <item component="ComponentInfo{com.xodo.pdf.reader/viewer.CompleteReaderMainActivity}" drawable="xodo_docs"/>
 
-<!---calendar_31-->
-<item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar_31"/>
-<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_31" />
+<!---calendar-->
+<item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar"/>
+<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
 
 <!---blackberry_dtek-->
 <item component="ComponentInfo{com.blackberry.privacydashboard/com.blackberry.privacydashboard.SafeguardActivity}" drawable="blackberry_dtek"/>
@@ -5343,8 +5343,8 @@
 <!---bq_care-->
 <item component="ComponentInfo{com.bq.wizardbq.insurance/com.bq.wizardbq.insurance.InsuranceInfoActivity}" drawable="bq_care" />
 
-<!---bq_files-->
-<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="bq_files" />
+<!---files-->
+<item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="filemanager" />
 
 <!---uber_eats-->
 <item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.app.feature.launch.LauncherActivity}" drawable="uber_eats" />

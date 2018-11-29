@@ -16,8 +16,7 @@
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
-        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+        <item>https://raw.githubusercontent.com/mirrorkeydev/wallpaper/master/melonproductionsnowords.png</item>
     </string-array>
 
     <string-array name="credits_titles">
@@ -25,14 +24,14 @@
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>CS undergrad with a love for design and sourdough bread</item>
+        <item>CS undergrad with a love for design and sourdough bread. I designed all of the icons.</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Email</item>
+        <item>Email|Support</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>mailto:mirrorkeydev@gmail.com</item>
+        <item>mailto:mirrorkeydev@gmail.com|mailto:mirrorkeydev@gmail.com?subject=I%20would%20like%20to%20support%20you%21&amp;body=My%20PayPal%20is%20the%20same%20as%20this%20email%2C%20let%20me%20know%20if%20you%20want%20icons%20in%20exchange%20for%20supporting%20me%21%20Thank%20you%20very%20much%21</item>
     </string-array>
 </resources>

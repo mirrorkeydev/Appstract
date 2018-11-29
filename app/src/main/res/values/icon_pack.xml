@@ -22,15 +22,19 @@
         <item>allo</item>
         <item>google</item>
         <item>gmail</item>
-        <item>maps</item>
-        <item>chrome</item>
+        <item>airbnb</item>
+        <item>clock</item>
         <item>google_authenticator</item>
-        <item>google_docs</item>
-        <item>google_drive</item>
+        <item>firefox</item>
+        <item>last_pass</item>
         <item>google_keep</item>
         <item>google_translate</item>
         <item>hangouts</item>
-        <item>duo</item>
+        <item>play_store</item>
+        <item>pocketcamp</item>
+        <item>soundcloud</item>
+        <item>weather</item>
+        <item>whatsapp</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -40,13 +44,12 @@
     <!-- Make sure the filters names are the same as the other arrays -->
     <string-array name="icon_filters">
         <item>all</item>
-        <item>amber</item>
+        <item>google</item>
+        <item>social</item>
         <item>blue</item>
-        <item>purple</item>
+        <item>yellow</item>
         <item>red</item>
-        <item>circles</item>
-        <item>rectangles</item>
-        <item>squares</item>
+        <item>green</item>
     </string-array>
 
     <string-array name="all">
@@ -118,7 +121,50 @@
         <item>tumblr</item>
         <item>twitter</item>
         <item>wikipedia</item>
-        <item>youtube</item>
+        <item>accu_weather</item>
+        <item>airbnb</item>
+        <item>alexa</item>
+        <item>amazon_drive</item>
+        <item>amazon_music</item>
+        <item>amazon_prime_video</item>
+        <item>bing</item>
+        <item>bitmoji</item>
+        <item>browser</item>
+        <item>dictionary_com</item>
+        <item>dashlane</item>
+        <item>duo_mobile</item>
+        <item>ebay</item>
+        <item>facetune</item>
+        <item>flashlight</item>
+        <item>flickr</item>
+        <item>google_fit</item>
+        <item>google_opinion_rewards</item>
+        <item>google_plus</item>
+        <item>google_podcasts</item>
+        <item>hulu</item>
+        <item>khan_academy</item>
+        <item>kindle</item>
+        <item>last_pass</item>
+        <item>last_pass_authenticator</item>
+        <item>osu_mobile</item>
+        <item>paypal</item>
+        <item>play_books</item>
+        <item>play_developer_console</item>
+        <item>play_games</item>
+        <item>play_movies</item>
+        <item>play_music</item>
+        <item>reddit_is_fun</item>
+        <item>sound_recorder</item>
+        <item>soundcloud</item>
+        <item>swift_key</item>
+        <item>target</item>
+        <item>venmo</item>
+        <item>vine</item>
+        <item>weather</item>
+        <item>wellsfargo</item>
+        <item>wikipedia</item>
+        <item>youtube_music</item>
+
     </string-array>
 
     <string-array name="google">
@@ -127,13 +173,25 @@
         <item>gmail</item>
         <item>maps</item>
         <item>chrome</item>
+        <item>youtube</item>
         <item>google_authenticator</item>
         <item>google_docs</item>
         <item>google_drive</item>
         <item>google_keep</item>
+        <item>google_fit</item>
+        <item>google_opinion_rewards</item>
+        <item>google_plus</item>
+        <item>google_podcasts</item>
         <item>google_translate</item>
         <item>hangouts</item>
         <item>duo</item>
+        <item>play_books</item>
+        <item>play_developer_console</item>
+        <item>play_games</item>
+        <item>play_movies</item>
+        <item>play_store</item>
+        <item>play_music</item>
+        <item>youtube_music</item>
     </string-array>
 
     <string-array name="social">
@@ -145,6 +203,13 @@
         <item>telegram</item>
         <item>hangouts</item>
         <item>duo</item>
+        <item>reddit_is_fun</item>
+        <item>vine</item>
+        <item>groupme</item>
+        <item>pinterest</item>
+        <item>tumblr</item>
+        <item>bitmoji</item>
+        <item>contacts</item>
 
     </string-array>
 
@@ -172,6 +237,17 @@
         <item>twitter</item>
         <item>fitbit</item>
         <item>google_translate</item>
+        <item>alexa</item>
+        <item>amazon_prime_video</item>
+        <item>amazon_drive</item>
+        <item>amazon_music</item>
+        <item>bing</item>
+        <item>dashlane</item>
+        <item>dictionary_com</item>
+        <item>google_opinion_rewards</item>
+        <item>swift_key</item>
+        <item>venmo</item>
+
     </string-array>
 
     <string-array name="yellow">
@@ -182,6 +258,8 @@
         <item>google_slides</item>
         <item>memos</item>
         <item>snapchat</item>
+        <item>play_music</item>
+        <item>flashlight</item>
     </string-array>
 
     <string-array name="red">
@@ -196,7 +274,16 @@
         <item>pinterest</item>
         <item>pokemongo</item>
         <item>youtube</item>
-
+        <item>airbnb</item>
+        <item>google_fit</item>
+        <item>google_plus</item>
+        <item>last_pass</item>
+        <item>last_pass_authenticator</item>
+        <item>play_movies</item>
+        <item>sound_recorder</item>
+        <item>target</item>
+        <item>vodafone</item>
+        <item>youtube_music</item>
     </string-array>
 
     <string-array name="green">
@@ -211,6 +298,13 @@
         <item>spotify</item>
         <item>studentvue</item>
         <item>whatsapp</item>
+        <item>vine</item>
+        <item>play_games</item>
+        <item>khan_academy</item>
+        <item>hulu</item>
+        <item>duo_mobile</item>
+        <item>browser</item>
+        <item>bitmoji</item>
     </string-array>
 
 
