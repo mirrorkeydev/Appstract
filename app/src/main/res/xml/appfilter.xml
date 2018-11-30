@@ -852,6 +852,7 @@
 
 <!---bitmoji-->
 <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}" drawable="bitmoji" />
+<item component="CompnentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LandingActivity}" drawable="bitmoji" />
 
 <!---bit_torrent-->
 <item component="ComponentInfo{com.bittorrent.client.pro/com.bittorrent.client.EntryActivity}" drawable="bit_torrent"/>
@@ -1401,6 +1402,7 @@
 
 <!---google_opinion_rewards-->
 <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="google_opinion_rewards"/>
+<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="google_opinion_rewards"/>
 
 <!---google_photoscan-->
 <item component="ComponentInfo{com.google.android.apps.photos.scanner/com.google.android.apps.photos.scanner.home.HomeActivity}" drawable="google_photoscan"/>
@@ -1582,7 +1584,7 @@
 <item component="ComponentInfo{com.hecorat.screenrecorder.free/com.hecorat.screenrecorder.free.activities.MainActivity}" drawable="az_screen_recorder" />
 
 <!---hello_sms-->
-<item component="ComponentInfo{com.hellotext.hello/com.hellotext.DispatchActivity}" drawable="hello_sms" />
+<item component="ComponentInfo{com.hellotext.hello/com.hellotext.DispatchActivity}" drawable="messages" />
 
 <!---here_maps-->
 <item component="ComponentInfo{com.here.app.maps/com.here.app.OneAppLauncherAlias}" drawable="here_maps" />
@@ -1693,6 +1695,7 @@
 
 <!---canvas-->
 <item component="ComponentInfo{com.instructure.candroid/com.instructure.candroid.activity.LoginActivity}" drawable="canvas"/>
+<item component="ComponentInfo{com.instructure.candroid/com.instructure.student.activity.LoginActivity}" drawable="canvas"/>
 
 <!---nsb-->
 <item component="ComponentInfo{com.intele.nsbmob.app/com.intele.nsbmob.app.activities.old.main.Splash}" drawable="nsb" />
@@ -1789,7 +1792,7 @@
 <item component="ComponentInfo{com.kk.launcher/com.kk.launcher.Launcher}" drawable="kk_launcher"/>
 
 <!---evolve_sms-->
-<item component="ComponentInfo{com.klinker.android.evolve_sms/com.klinker.android.evolve_sms.ui.MainActivity}" drawable="evolve_sms"/>
+<item component="ComponentInfo{com.klinker.android.evolve_sms/com.klinker.android.evolve_sms.ui.MainActivity}" drawable="messages"/>
 
 <!---talon-->
 <item component="ComponentInfo{com.klinker.android.twitter_l/com.klinker.android.twitter_l.activities.MainActivity}" drawable="talon"/>
@@ -1804,8 +1807,8 @@
 <item component="ComponentInfo{com.koushikdutta.backup/com.koushikdutta.backup.MainActivity}" drawable="helium" />
 
 <!---cm_browser-->
-<item component="ComponentInfo{com.ksmobile.cb/com.ijinshan.browser.screen.BrowserActivity}" drawable="cm_browser"/>
-<item component="ComponentInfo{com.ksmobile.cb/com.ijinshan.browser.screen.SplashActivity}" drawable="cm_browser"/>
+<item component="ComponentInfo{com.ksmobile.cb/com.ijinshan.browser.screen.BrowserActivity}" drawable="browser"/>
+<item component="ComponentInfo{com.ksmobile.cb/com.ijinshan.browser.screen.SplashActivity}" drawable="browser"/>
 
 <!---last_pass_authenticator-->
 <item component="ComponentInfo{com.lastpass.authenticator/com.lastpass.authenticator.activities.SplashActivity}" drawable="last_pass_authenticator" />
@@ -1990,8 +1993,8 @@
 <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft" />
 
 <!---yubrowser-->
-<item component="ComponentInfo{com.mokee.yubrowser/com.google.android.apps.chrome.Main}" drawable="yubrowser" />
-<item component="ComponentInfo{com.mokee.yubrowser/com.mokee.yubrowser.Main}" drawable="yubrowser" />
+<item component="ComponentInfo{com.mokee.yubrowser/com.google.android.apps.chrome.Main}" drawable="browser" />
+<item component="ComponentInfo{com.mokee.yubrowser/com.mokee.yubrowser.Main}" drawable="browser" />
 
 <!---monefy-->
 <item component="ComponentInfo{com.monefy.app.lite/com.monefy.activities.main.MainActivity_}" drawable="monefy" />
@@ -2754,7 +2757,7 @@
 <item component="ComponentInfo{com.venticake.retrica/com.venticake.retrica.MainActivity}" drawable="retrica" />
 
 <!---message_plus-->
-<item component="ComponentInfo{com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning}" drawable="message_plus" />
+<item component="ComponentInfo{com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning}" drawable="messages" />
 
 <!---dcu-->
 <item component="ComponentInfo{com.vertifi.mobile.p211391825/com.vertifi.mobile.MainActivity}" drawable="dcu" />
@@ -5360,8 +5363,8 @@
 <item component="ComponentInfo{com.google.android.apps.freighter/com.google.android.apps.nbu.freighter.activities.SplashActivity}" drawable="google_datally" />
 <item component="ComponentInfo{com.google.android.apps.freighter/com.google.android.apps.nbu.freighter.splash.SplashActivity}" drawable="google_datally" />
 
-<!---google_files_go-->
-<item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="google_files_go" />
+<!---google_files-->
+<item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="google_files" />
 
 <!---boostnote-->
 <item component="ComponentInfo{io.boostnote/io.boostnote.MainActivity}" drawable="boostnote" />
@@ -5553,6 +5556,12 @@
 
 <!--wellsfargo-->
 <item component="ComponentInfo{com.wf.wellsfargomobile/com.wf.wellsfargomobile.LauncherActivity}" drawable="wellsfargo" />
+
+<!--wilson_app-->
+<item component="ComponentInfo{org.wilsoncs.wilsonapp/org.wilsoncs.wilsonapp.MainActivity}" drawable="wilson_app" />
+
+<!--desmos-->
+<item component="ComponentInfo{com.desmos.calculator/com.desmos.calculator.MainActivity}" drawable="desmos" />
 
 
 </resources>
