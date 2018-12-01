@@ -1512,6 +1512,7 @@
 <item component="ComponentInfo{com.google.chromeremotedesktop/org.chromium.chromoting.Chromoting}" drawable="chrome_remote_desktop" />
 
 <!---google_earth-->
+<item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}" drawable="google_earth"/>
 <item component="ComponentInfo{com.google.earth/com.google.earth.EarthActivity}" drawable="google_earth"/>
 
 <!---cardboard-->
@@ -2675,7 +2676,7 @@
 <item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity}" drawable="tripadvisor" />
 
 <!---truecaller-->
-<item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="truecaller"/>
+<item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="phone"/>
 
 <!---aviate-->
 <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="aviate"/>
@@ -2700,13 +2701,13 @@
 <item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="uber" />
 
 <!---uc_browser-->
-<item component="ComponentInfo{com.uc.browser.en/com.dzebb.handler.b}" drawable="uc_browser" />
-<item component="ComponentInfo{com.uc.browser.en/com.uc.browser.ActivityBrowser}" drawable="uc_browser" />
-<item component="ComponentInfo{com.uc.browser.hd/com.ucweb.activity.MainActivity}" drawable="uc_browser" />
-<item component="ComponentInfo{com.uc.browser/com.UCMobile.main.UCMobile}" drawable="uc_browser" />
-<item component="ComponentInfo{com.UCMobile.arsa/com.UCMobile.main.UCMobile}" drawable="uc_browser" />
-<item component="ComponentInfo{com.UCMobile.intl.x86/com.UCMobile.main.UCMobile}" drawable="uc_browser" />
-<item component="ComponentInfo{com.UCMobile.intl/com.UCMobile.main.UCMobile}" drawable="uc_browser" />
+<item component="ComponentInfo{com.uc.browser.en/com.dzebb.handler.b}" drawable="browser" />
+<item component="ComponentInfo{com.uc.browser.en/com.uc.browser.ActivityBrowser}" drawable="browser" />
+<item component="ComponentInfo{com.uc.browser.hd/com.ucweb.activity.MainActivity}" drawable="browser" />
+<item component="ComponentInfo{com.uc.browser/com.UCMobile.main.UCMobile}" drawable="browser" />
+<item component="ComponentInfo{com.UCMobile.arsa/com.UCMobile.main.UCMobile}" drawable="browser" />
+<item component="ComponentInfo{com.UCMobile.intl.x86/com.UCMobile.main.UCMobile}" drawable="browser" />
+<item component="ComponentInfo{com.UCMobile.intl/com.UCMobile.main.UCMobile}" drawable="browser" />
 
 <!---udacity-->
 <item component="ComponentInfo{com.udacity.android/com.udacity.android.ui.catalog.CatalogActivity}" drawable="udacity" />
