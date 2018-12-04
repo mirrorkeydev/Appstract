@@ -45,14 +45,17 @@
     <string-array name="icon_filters">
         <item>all</item>
         <item>google</item>
-        <item>social</item>
-        <item>blue</item>
-        <item>yellow</item>
         <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
         <item>green</item>
+        <item>blue</item>
+        <item>purple</item>
+        <item>gray</item>
     </string-array>
 
     <string-array name="all">
+
         <item>accu_weather</item>
         <item>airbnb</item>
         <item>alexa</item>
@@ -139,11 +142,17 @@
         <item>maps</item>
         <item>memos</item>
         <item>messages</item>
+        <item>microsoft_one_note</item>
+        <item>microsoft_outlook</item>
+        <item>microsoft_powerpoint</item>
+        <item>microsoft_word</item>
         <item>minecraft</item>
         <item>mint</item>
         <item>music</item>
         <item>my_fitness_pal</item>
         <item>netflix</item>
+        <item>nova</item>
+        <item>opera</item>
         <item>osu_mobile</item>
         <item>pandora</item>
         <item>paypal</item>
@@ -165,6 +174,8 @@
         <item>runtastic</item>
         <item>settings</item>
         <item>shazam</item>
+        <item>skype</item>
+        <item>slack</item>
         <item>snapchat</item>
         <item>snapseed</item>
         <item>soundcloud</item>
@@ -178,6 +189,7 @@
         <item>target</item>
         <item>telegram</item>
         <item>tinder</item>
+        <item>transit</item>
         <item>tumblr</item>
         <item>twitch</item>
         <item>twitter</item>
@@ -225,59 +237,46 @@
         <item>youtube_music</item>
     </string-array>
 
-    <string-array name="social">
-        <item>facebook</item>
-        <item>twitter</item>
-        <item>snapchat</item>
+    <string-array name="red">
+        <item>airbnb</item>
+        <item>ali_express</item>
+        <item>autodesk_pixlr</item>
+        <item>candy_crush</item>
+        <item>clock</item>
+        <item>clue</item>
+        <item>db_navigator</item>
+        <item>depop</item>
+        <item>gmail</item>
+        <item>google_fit</item>
+        <item>google_plus</item>
         <item>instagram</item>
-        <item>reddit</item>
-        <item>telegram</item>
-        <item>hangouts</item>
-        <item>duo</item>
-        <item>reddit_is_fun</item>
-        <item>vine</item>
-        <item>groupme</item>
+        <item>last_pass</item>
+        <item>last_pass_authenticator</item>
+        <item>lyft</item>
+        <item>maps</item>
+        <item>music</item>
+        <item>netflix</item>
+        <item>opera</item>
         <item>pinterest</item>
-        <item>tumblr</item>
-        <item>bitmoji</item>
-        <item>contacts</item>
-
+        <item>pokemongo</item>
+        <item>sound_recorder</item>
+        <item>target</item>
+        <item>vodafone</item>
+        <item>youtube</item>
+        <item>youtube_music</item>
     </string-array>
 
-    <string-array name="blue">
-        <item>calendar</item>
-        <item>chase</item>
-        <item>duo</item>
-        <item>facebook_messenger</item>
-        <item>facebook</item>
-        <item>firsttech</item>
-        <item>google</item>
-        <item>google_docs</item>
-        <item>groupme</item>
-        <item>mail</item>
-        <item>messages</item>
-        <item>my_fitness_pal</item>
-        <item>pandora</item>
-        <item>phone</item>
-        <item>my_fitness_pal</item>
-        <item>runtastic</item>
-        <item>settings</item>
-        <item>shazam</item>
-        <item>tumblr</item>
-        <item>telegram</item>
-        <item>twitter</item>
-        <item>fitbit</item>
-        <item>google_translate</item>
-        <item>alexa</item>
-        <item>amazon_prime_video</item>
-        <item>amazon_drive</item>
-        <item>amazon_music</item>
-        <item>bing</item>
-        <item>dashlane</item>
-        <item>dictionary_com</item>
-        <item>google_opinion_rewards</item>
-        <item>swift_key</item>
-        <item>venmo</item>
+    <string-array name="orange">
+        <item>accu_weather</item>
+        <item>canvas</item>
+        <item>etsy</item>
+        <item>fire_tv</item>
+        <item>headspace</item>
+        <item>microsoft_powerpoint</item>
+        <item>osu_mobile</item>
+        <item>reddit</item>
+        <item>soundcloud</item>
+        <item>tinder</item>
 
     </string-array>
 
@@ -285,58 +284,101 @@
         <item>allo</item>
         <item>amazon</item>
         <item>filemanager</item>
+        <item>flashlight</item>
         <item>google_keep</item>
         <item>google_slides</item>
         <item>memos</item>
         <item>snapchat</item>
-        <item>play_music</item>
-        <item>flashlight</item>
-    </string-array>
-
-    <string-array name="red">
-        <item>candy_crush</item>
-        <item>clock</item>
-        <item>clue</item>
-        <item>depop</item>
-        <item>gmail</item>
-        <item>instagram</item>
-        <item>maps</item>
-        <item>netflix</item>
-        <item>pinterest</item>
-        <item>pokemongo</item>
-        <item>youtube</item>
-        <item>airbnb</item>
-        <item>google_fit</item>
-        <item>google_plus</item>
-        <item>last_pass</item>
-        <item>last_pass_authenticator</item>
-        <item>play_movies</item>
-        <item>sound_recorder</item>
-        <item>target</item>
-        <item>vodafone</item>
-        <item>youtube_music</item>
     </string-array>
 
     <string-array name="green">
         <item>android_pay</item>
+        <item>app_logo</item>
+        <item>bitmoji</item>
+        <item>browser</item>
+        <item>desmos</item>
         <item>downloads</item>
+        <item>duo_mobile</item>
         <item>evernote</item>
         <item>google_sheets</item>
         <item>hangouts</item>
-        <item>mint</item>
+        <item>hulu</item>
+        <item>khan_academy</item>
+        <item>play_games</item>
         <item>pocketcamp</item>
-        <item>snapseed</item>
         <item>spotify</item>
         <item>studentvue</item>
-        <item>whatsapp</item>
+        <item>transit</item>
         <item>vine</item>
-        <item>play_games</item>
-        <item>khan_academy</item>
-        <item>hulu</item>
-        <item>duo_mobile</item>
-        <item>browser</item>
-        <item>bitmoji</item>
+        <item>whatsapp</item>
+        <item>xbox</item>
     </string-array>
 
+    <string-array name="blue">
+        <item>alexa</item>
+        <item>amazon_music</item>
+        <item>amazon_prime_video</item>
+        <item>android_auto</item>
+        <item>bing</item>
+        <item>calendar</item>
+        <item>chase</item>
+        <item>dashlane</item>
+        <item>dictionary_com</item>
+        <item>duo</item>
+        <item>facebook</item>
+        <item>facebook_lite</item>
+        <item>facebook_messenger</item>
+        <item>facebook_messenger_lite</item>
+        <item>firsttech</item>
+        <item>fitbit</item>
+        <item>google</item>
+        <item>google_docs</item>
+        <item>google_earth</item>
+        <item>google_opinion_rewards</item>
+        <item>groupme</item>
+        <item>ifttt</item>
+        <item>inbox</item>
+        <item>kindle</item>
+        <item>linked_in</item>
+        <item>mail</item>
+        <item>messages</item>
+        <item>microsoft_outlook</item>
+        <item>microsoft_word</item>
+        <item>my_fitness_pal</item>
+        <item>pandora</item>
+        <item>paypal</item>
+        <item>phone</item>
+        <item>reddit_is_fun</item>
+        <item>runtastic</item>
+        <item>settings</item>
+        <item>shazam</item>
+        <item>skype</item>
+        <item>steam</item>
+        <item>swift_key</item>
+        <item>telegram</item>
+        <item>tumblr</item>
+        <item>twitter</item>
+        <item>venmo</item>
+        <item>weather</item>
+    </string-array>
 
+    <string-array name="purple">
+        <item>calculator</item>
+        <item>contacts</item>
+        <item>discord</item>
+        <item>microsoft_one_note</item>
+        <item>play_newsstand</item>
+        <item>quizlet</item>
+        <item>roku</item>
+        <item>twitch</item>
+    </string-array>
+
+    <string-array name="gray">
+        <item>camera</item>
+        <item>google_authenticator</item>
+        <item>square_cash</item>
+        <item>uber</item>
+        <item>wikipedia</item>
+        <item>wilson_app</item>
+    </string-array>
 </resources>

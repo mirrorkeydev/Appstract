@@ -17,8 +17,9 @@
 <resources>
     <version title="v2.0.0" />
     <item text="Switched to Blueprint Dashboard" />
-    <item text="x new icons(!)" />
+    <item text="More than 100 new icons, with more on the way!" />
     <item text="All icons now have black line elements" />
     <item text="Fixed broken links and emails" />
+    <item text="Added donation feature" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

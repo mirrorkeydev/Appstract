@@ -17,7 +17,7 @@
 <!--suppress CheckTagEmptyBody -->
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Icon Pack designer/owner e-mail -->
-    <string name="email">mirrorkeydev@gmail.com</string>
+    <string name="email">appstracticonpack@gmail.com</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
     <string name="email_subject">Appstract</string>
