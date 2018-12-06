@@ -55,7 +55,6 @@
     </string-array>
 
     <string-array name="all">
-
         <item>accu_weather</item>
         <item>airbnb</item>
         <item>alexa</item>
@@ -70,27 +69,34 @@
         <item>apple_music</item>
         <item>app_logo</item>
         <item>autodesk_pixlr</item>
+        <item>autodesk_sketchbook</item>
+        <item>barcode_scanner</item>
         <item>bing</item>
         <item>bitmoji</item>
+        <item>boomerang_instagram</item>
+        <item>bose_connect</item>
         <item>browser</item>
         <item>calculator</item>
         <item>calendar</item>
         <item>camera</item>
         <item>candy_crush</item>
         <item>canvas</item>
+        <item>castbox</item>
         <item>chase</item>
         <item>chrome</item>
         <item>clock</item>
         <item>clue</item>
+        <item>compass</item>
         <item>contacts</item>
         <item>dashlane</item>
         <item>db_navigator</item>
         <item>depop</item>
         <item>desmos</item>
+        <item>deviant_art</item>
         <item>dictionary_com</item>
         <item>discord</item>
         <item>downloads</item>
-        <item>drawer_header</item>
+        <item>dropbox</item>
         <item>duo</item>
         <item>duo_mobile</item>
         <item>ebay</item>
@@ -108,10 +114,12 @@
         <item>fitbit</item>
         <item>flashlight</item>
         <item>flickr</item>
+        <item>flipboard</item>
         <item>gallery</item>
         <item>gmail</item>
         <item>google</item>
         <item>google_authenticator</item>
+        <item>google_classroom</item>
         <item>google_docs</item>
         <item>google_drive</item>
         <item>google_earth</item>
@@ -125,6 +133,7 @@
         <item>google_sheets</item>
         <item>google_slides</item>
         <item>google_translate</item>
+        <item>grindr</item>
         <item>groupme</item>
         <item>hangouts</item>
         <item>headspace</item>
@@ -136,6 +145,9 @@
         <item>kindle</item>
         <item>last_pass</item>
         <item>last_pass_authenticator</item>
+        <item>life_360</item>
+        <item>limbo</item>
+        <item>line</item>
         <item>linked_in</item>
         <item>lyft</item>
         <item>mail</item>
@@ -149,12 +161,14 @@
         <item>minecraft</item>
         <item>mint</item>
         <item>music</item>
+        <item>mx_player</item>
         <item>my_fitness_pal</item>
         <item>netflix</item>
         <item>nova</item>
         <item>opera</item>
         <item>osu_mobile</item>
         <item>pandora</item>
+        <item>patreon</item>
         <item>paypal</item>
         <item>phone</item>
         <item>pinterest</item>
@@ -166,16 +180,23 @@
         <item>play_newsstand</item>
         <item>play_store</item>
         <item>pocketcamp</item>
+        <item>pocketcasts</item>
         <item>pokemongo</item>
+        <item>poweramp</item>
+        <item>qr_code_reader</item>
         <item>quizlet</item>
         <item>reddit</item>
         <item>reddit_is_fun</item>
+        <item>retrica</item>
         <item>roku</item>
         <item>runtastic</item>
         <item>settings</item>
+        <item>share_it</item>
         <item>shazam</item>
+        <item>skwrt</item>
         <item>skype</item>
         <item>slack</item>
+        <item>sleep_cycle</item>
         <item>snapchat</item>
         <item>snapseed</item>
         <item>soundcloud</item>
@@ -184,10 +205,12 @@
         <item>square_cash</item>
         <item>steam</item>
         <item>studentvue</item>
+        <item>substratum</item>
         <item>swift_key</item>
         <item>sync</item>
         <item>target</item>
         <item>telegram</item>
+        <item>telegram_x</item>
         <item>tinder</item>
         <item>transit</item>
         <item>tumblr</item>
@@ -196,9 +219,13 @@
         <item>uber</item>
         <item>uber_eats</item>
         <item>venmo</item>
+        <item>viber</item>
         <item>vikingnation</item>
         <item>vine</item>
+        <item>vlc</item>
         <item>vodafone</item>
+        <item>vsco_cam</item>
+        <item>vudu</item>
         <item>walmart</item>
         <item>weather</item>
         <item>wellsfargo</item>
@@ -241,24 +268,29 @@
         <item>airbnb</item>
         <item>ali_express</item>
         <item>autodesk_pixlr</item>
+        <item>boomerang_instagram</item>
         <item>candy_crush</item>
         <item>clock</item>
         <item>clue</item>
         <item>db_navigator</item>
         <item>depop</item>
+        <item>flipboard</item>
         <item>gmail</item>
         <item>google_fit</item>
         <item>google_plus</item>
         <item>instagram</item>
         <item>last_pass</item>
         <item>last_pass_authenticator</item>
+        <item>life_360</item>
         <item>lyft</item>
         <item>maps</item>
         <item>music</item>
         <item>netflix</item>
         <item>opera</item>
         <item>pinterest</item>
+        <item>pocketcasts</item>
         <item>pokemongo</item>
+        <item>retrica</item>
         <item>sound_recorder</item>
         <item>target</item>
         <item>vodafone</item>
@@ -268,16 +300,20 @@
 
     <string-array name="orange">
         <item>accu_weather</item>
+        <item>autodesk_sketchbook</item>
         <item>canvas</item>
+        <item>castbox</item>
         <item>etsy</item>
         <item>fire_tv</item>
         <item>headspace</item>
         <item>microsoft_powerpoint</item>
         <item>osu_mobile</item>
+        <item>patreon</item>
         <item>reddit</item>
+        <item>sleep_cycle</item>
         <item>soundcloud</item>
         <item>tinder</item>
-
+        <item>vlc</item>
     </string-array>
 
     <string-array name="yellow">
@@ -287,6 +323,7 @@
         <item>flashlight</item>
         <item>google_keep</item>
         <item>google_slides</item>
+        <item>grindr</item>
         <item>memos</item>
         <item>snapchat</item>
     </string-array>
@@ -297,13 +334,16 @@
         <item>bitmoji</item>
         <item>browser</item>
         <item>desmos</item>
+        <item>deviant_art</item>
         <item>downloads</item>
         <item>duo_mobile</item>
         <item>evernote</item>
+        <item>google_classroom</item>
         <item>google_sheets</item>
         <item>hangouts</item>
         <item>hulu</item>
         <item>khan_academy</item>
+        <item>line</item>
         <item>play_games</item>
         <item>pocketcamp</item>
         <item>spotify</item>
@@ -322,8 +362,10 @@
         <item>bing</item>
         <item>calendar</item>
         <item>chase</item>
+        <item>compass</item>
         <item>dashlane</item>
         <item>dictionary_com</item>
+        <item>dropbox</item>
         <item>duo</item>
         <item>facebook</item>
         <item>facebook_lite</item>
@@ -344,6 +386,7 @@
         <item>messages</item>
         <item>microsoft_outlook</item>
         <item>microsoft_word</item>
+        <item>mx_player</item>
         <item>my_fitness_pal</item>
         <item>pandora</item>
         <item>paypal</item>
@@ -351,14 +394,17 @@
         <item>reddit_is_fun</item>
         <item>runtastic</item>
         <item>settings</item>
+        <item>share_it</item>
         <item>shazam</item>
         <item>skype</item>
         <item>steam</item>
+        <item>substratum</item>
         <item>swift_key</item>
         <item>telegram</item>
         <item>tumblr</item>
         <item>twitter</item>
         <item>venmo</item>
+        <item>vudu</item>
         <item>weather</item>
     </string-array>
 
@@ -371,13 +417,19 @@
         <item>quizlet</item>
         <item>roku</item>
         <item>twitch</item>
+        <item>viber</item>
     </string-array>
 
     <string-array name="gray">
+        <item>bose_connect</item>
         <item>camera</item>
         <item>google_authenticator</item>
+        <item>limbo</item>
+        <item>poweramp</item>
         <item>square_cash</item>
+        <item>telegram_x</item>
         <item>uber</item>
+        <item>vsco_cam</item>
         <item>wikipedia</item>
         <item>wilson_app</item>
     </string-array>

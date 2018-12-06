@@ -146,6 +146,7 @@
 
 <!---contacts-->
 <item component=":CONTACTS" drawable="contacts" />
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias}" drawable="contacts" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.CallLogActivity}" drawable="contacts" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}" drawable="contacts" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactTabBrowserActivity}" drawable="contacts" />
@@ -209,6 +210,7 @@
 
 <!---gallery-->
 <item component=":GALLERY" drawable="gallery" />
+<item component="ComponentInfo{com.coloros.gallery3d/com.oppo.gallery3d.app.Gallery}" drawable="gallery"/>
 <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery"/>
 <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="gallery"/>
 <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="gallery"/>
@@ -447,6 +449,7 @@
 <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="quick_pic" />
 
 <!---ali_express-->
+<item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.module.home.MainActivity}" drawable="ali_express" />
 <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.MainActivity}" drawable="ali_express" />
 <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.SplashActivity}" drawable="ali_express" />
 <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.SplashActivity}" drawable="ali_express" />
@@ -761,8 +764,9 @@
 <item component="ComponentInfo{com.asus.task/com.asus.task.activity.TaskActivity}" drawable="do_it_later" />
 
 <!---dolby_atmos-->
-<item component="ComponentInfo{com.atmos.daxappUI/com.atmos.daxappUI.MainActivity}" drawable="dolby_atmos" />
-<item component="ComponentInfo{com.dolby.daxappUI/com.dolby.daxappUI.MainActivity}" drawable="dolby_atmos" />
+<item component="ComponentInfo{com.atmos.daxappUI/com.atmos.daxappUI.MainActivity}" drawable="dolby" />
+<item component="ComponentInfo{com.dolby.daxappUI/com.dolby.daxappUI.MainActivity}" drawable="dolby" />
+<item component="ComponentInfo{com.dolby/com.dolby.ds1appUI.MainActivity}" drawable="dolby"/>
 
 <!---audible-->
 <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="audible" />
@@ -1966,11 +1970,13 @@
 <item component="ComponentInfo{com.mint/com.mint.core.overview.RouterActivity}" drawable="mint" />
 
 <!---compass-->
+<item component="ComponentInfo{net.marlove.compass/net.marlove.compass.app.MainActivity}" drawable="compass"/>
+<item component="ComponentInfo{com.gn.android.compass/com.gn.android.common.controller.AppInitActivity}" drawable="compass"/>
 <item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="compass"/>
 <item component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}" drawable="compass" />
 
 <!---mi_xplorer-->
-<item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mi_xplorer" />
+<item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="filemanager" />
 
 <!---ign-->
 <item component="ComponentInfo{com.mobile.ign/com.mobile.ign.MainActivity}" drawable="ign"/>
@@ -2987,6 +2993,8 @@
 
 <!---file_manager-->
 <item component="ComponentInfo{fm.clean/fm.clean.MainActivity}" drawable="filemanager" />
+<item component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.Main}" drawable="filemanager" />
+
 
 <!---player_fm-->
 <item component="ComponentInfo{fm.player/fm.player.ui.MainActivity}" drawable="player_fm" />
@@ -5569,5 +5577,19 @@
 <!--google_tasks-->
 <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="google_tasks" />
 
+<!--castbox-->
+<item component="ComponentInfo{fm.castbox.audiobook.radio.podcast/fm.castbox.audio.radio.podcast.ui.main.MainActivity}" drawable="castbox" />
+
+<!--bose_connect-->
+<item component="ComponentInfo{com.bose.monet/com.bose.monet.activity.discovery.SplashSearchingActivity}" drawable="bose_connect" />
+
+<!--life_360-->
+<item component="ComponentInfo{com.life360.android.safetymapd/com.life360.android.shared.base.LauncherActivity}" drawable="life_360" />
+
+<!--magisk-->
+<item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk" />
+
+<!--google_one-->
+<item component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}" drawable="google_one" />
 
 </resources>
