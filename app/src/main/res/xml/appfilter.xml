@@ -58,6 +58,7 @@
 
 <!---calendar-->
 <item component=":CALENDAR" drawable="calendar" />
+<item component="ComponentInfo{ree.calendar.schedule.reminder.todo.agenda.note.reminder.alarm/com.android.calendar.AllInOneActivity}" drawable="calendar" />
 <item component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.CTAStartActivity}" drawable="calendar" />
 <item component="ComponentInfo{com.android.calendar/com.android.calendar.AgendaActivity}" drawable="calendar" />
 <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
@@ -95,6 +96,8 @@
 
 <!---camera-->
 <item component=":CAMERA" drawable="camera" />
+<item component="ComponentInfo{com.google.android.Redmi4X/com.android.camera.CameraLauncher}" drawable="camera"/>
+<item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera"/>
 <item component="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}" drawable="camera"/>
 <item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="camera"/>
 <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera" />
@@ -578,6 +581,7 @@
 <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="fm_radio" />
 
 <!---music-->
+<item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="music" />
 <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music" />
 <item component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}" drawable="music" />
 <item component="ComponentInfo{com.asus.music/com.asus.music.MusicMainActivity}" drawable="music" />
@@ -601,6 +605,7 @@
 <item component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}" drawable="settings"/>
 
 <!---sound_recorder-->
+<item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="sound_recorder" />
 <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="sound_recorder" />
 <item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.LaunchVoiceRecorder}" drawable="sound_recorder" />
 <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="sound_recorder" />
@@ -3285,6 +3290,9 @@
 <!---firefox-->
 <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
 
+<!---firefox_lite-->
+<item component="ComponentInfo{org.mozilla.rocket/org.mozilla.rocket.activity.MainActivity}" drawable="firefox" />
+
 <!---firefox_beta-->
 <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox_beta" />
 
@@ -5591,5 +5599,36 @@
 
 <!--google_one-->
 <item component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}" drawable="google_one" />
+
+<!--google_lens-->
+<item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="google_lens" />
+
+<!--feed_me-->
+<item component="ComponentInfo{com.seazon.feedme/com.seazon.feedme.view.activity.ListActivity}" drawable="feed_me" />
+
+<!--joey-->
+<item component="ComponentInfo{o.o.joey/o.o.joey.Activities.HomeActivity}" drawable="joey" />
+
+<!--muse_score-->
+<item component="ComponentInfo{com.musescore.playerlite/com.musescoremobile.MainActivity}" drawable="muse_score" />
+
+<!--amdroid-->
+<item component="ComponentInfo{com.amdroidalarmclock.amdroid/com.amdroidalarmclock.amdroid.MainActivity}" drawable="amdroid" />
+
+<!--bhim-->
+<item component="ComponentInfo{in.org.npci.upiapp/in.org.npci.upiapp.HomeActivity}" drawable="bhim" />
+
+<!--f_watch-->
+<item component="ComponentInfo{com.today.fapwatch/com.today.fapwatch.counter.CounterActivity}" drawable="f_watch" />
+
+<!--sky_scanner-->
+<item component="ComponentInfo{net.skyscanner.android.main/net.skyscanner.app.presentation.view.splash.SplashActivity}" drawable="sky_scanner" />
+
+<!--jabong-->
+<item component="ComponentInfo{com.jabong.android/com.jabong.android.view.activity.SplashActivity}" drawable="jabong" />
+
+<!--myntra-->
+<item component="ComponentInfo{com.myntra.android/com.myntra.android.activities.LoginRegisterActivity}" drawable="myntra" />
+
 
 </resources>
