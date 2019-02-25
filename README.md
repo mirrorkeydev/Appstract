@@ -8,6 +8,8 @@ First release, containing approximately 60 icons. Released as an exploratory hig
 #### V2.0.0 Dec 2018
 Second major release. Added over 100 new icons, ported the app to Blueprint Dashboard, fixed emails, links, and design inconsistencies. 
 
-*(IN PROGRESS)
-#### V3.0.0 March 2018
-Third major release. Added x new icons, ported the app to CandyBar Dashboard. Now allows for premium icon requests and fixes an issue with selecting individual icons*
+_(IN PROGRESS)_
+
+_V3.0.0 March 2018_
+
+_Third major release. Added x new icons, ported the app to CandyBar Dashboard. Now allows for premium icon requests and fixes an issue with selecting individual icons_
