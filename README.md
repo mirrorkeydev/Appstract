@@ -8,7 +8,7 @@ First release, containing approximately 60 icons. Released as an exploratory hig
 #### V2.0.0 Dec 2018
 Second major release. Added over 100 new icons, ported the app to Blueprint Dashboard, fixed emails, links, and design inconsistencies. 
 
-###### V2.1.0 Jan 2018
+#### V2.1.0 Jan 2018
 Minor bug fixes and license checker fix.
 
 _(IN PROGRESS)_
