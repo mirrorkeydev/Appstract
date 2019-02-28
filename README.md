@@ -11,8 +11,5 @@ Second major release. Added over 100 new icons, ported the app to Blueprint Dash
 #### V2.1.0 Jan 2018
 Minor bug fixes and license checker fix.
 
-_(IN PROGRESS)_
-
-_V3.0.0 March 2018_
-
-_Third major release. Added x new icons, ported the app to CandyBar Dashboard. Now allows for premium icon requests and fixes an issue with selecting individual icons_
+#### V3.0.0 March 2018
+Third major release. Added some new icons, ported the app to CandyBar Dashboard. Now allows for premium icon requests and fixes an issue with selecting individual icons.
