@@ -15,3 +15,7 @@ Minor bug fixes and license checker fix.
 
 #### V3.0.0 March 2019
 Third major release. Added some new icons, ported the app to CandyBar Dashboard. Now allows for premium icon requests and fixes an issue with selecting individual icons.
+
+_#### V3.1.0 October 2019 (Coming soon)_
+
+_Removed premium icon requests. Added x new icons based on the most popular free icon requests and updated bindings to previous icons._
