@@ -6,7 +6,7 @@ Hello! Welcome to Appstract's contribution guide.
 
 You're welcome to designs icons for apps you'd like to see supported by Appstract.
 
-Don't know what to add, but just want to help? See Appstract's [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/most-requested-icons.txt).
+Don't know what to add, but want to help? See Appstract's [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/most-requested-icons.txt). You'll want to verify that these icons don't already exist using the Appstract app - the `appstract-light` and `appstract-dark` folders don't necessarily have all icons.
 
 To add new icons to Appstract, follow these steps:
 
@@ -15,7 +15,7 @@ To add new icons to Appstract, follow these steps:
 3. Export the icons to the [`appstract-light` folder](https://github.com/mirrorkeydev/Appstract/tree/master/appstract-light) with black lines, and to the [`appstract-dark` folder](https://github.com/mirrorkeydev/Appstract/tree/master/appstract-light) with white lines.
 4. Open a pull request and explain your changes. [Guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 5. Provide the activity names of the icons you've added in your pull request.
-    - These should look something like `com.dkanada.icecons/com.dkanada.icecons.MainActivity`, and if youre app is in the list of [most-requested icons](), you should be able to find it there. Note that there may be multiple of these names for each app.
+    - These should look something like `com.dkanada.icecons/com.dkanada.icecons.MainActivity`, and if your app is in the list of [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/most-requested-icons.txt), you should be able to find it there. Note that there may be multiple of these names for each app.
 
 
 ## Code
