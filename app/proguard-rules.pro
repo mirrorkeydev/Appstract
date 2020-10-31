@@ -1,6 +1,6 @@
 # Add project specific ProGuard rules here.
 # By default, the flags in this file are appended to flags specified
-# in D:\Android\SDK/tools/proguard/proguard-android.txt
+# in D:\AndroidSDK/tools/proguard/proguard-android.txt
 # You can edit the include path and order by changing the proguardFiles
 # directive in build.gradle.
 #
@@ -16,58 +16,36 @@
 #   public *;
 #}
 
-# Uncomment this to preserve the line number information for
-# debugging stack traces.
-#-keepattributes SourceFile,LineNumberTable
+# Android Support Library
+-keep class !android.support.v7.internal.view.menu.**,android.support.** {*;}
+-keep class android.support.v7.graphics.** { *; }
+-dontwarn android.support.v7.graphics.**
 
-# If you keep the line number information, uncomment this to
-# hide the original source file name.
-#-renamesourcefileattribute SourceFile
--keep class android.support.v7.view.menu** {*;}
--keep class android.support.v7.graphics.** {*;}
+-keep class android.support.design.widget.** { *; }
+-keep interface android.support.design.widget.** { *; }
+-dontwarn android.support.design.**
 
--keep public class * implements com.bumptech.glide.module.GlideModule
--keep public class * extends com.bumptech.glide.module.AppGlideModule
--keep class com.bumptech.glide.GeneratedAppGlideModuleImpl
--keep public enum com.bumptech.glide.load.resource.bitmap.ImageHeaderParser$** {
-  **[] $VALUES;
-  public *;
-}
--keep public enum com.bumptech.glide.load.ImageHeaderParser$** {
-  **[] $VALUES;
-  public *;
-}
+# Keep the source line when using ProGuard
+-renamesourcefileattribute SourceFile
+-keepattributes SourceFile,LineNumberTable
 
--keep class android.support.design.widget.NavigationView { *; }
+# LoganSquare JSON parser
+-keep class com.bluelinelabs.logansquare.** { *; }
+-keep @com.bluelinelabs.logansquare.annotation.JsonObject class *
+-keep class **$$JsonObjectMapper { *; }
 
--keep public class android.app.ActivityTransitionCoordinator
--keep class jahirfiquitiva.libs.frames.** { *; }
--keep class jahirfiquitiva.libs.kuper.** { *; }
--keep class jahirfiquitiva.libs.blueprint.** { *; }
--keep class jahirfiquitiva.libs.kext.** { *; }
+# Java 8
+-dontwarn java.lang.invoke.*
+-dontwarn **$$Lambda$*
 
--keep class com.google.**
--keep class autovalue.shaded.com.google.**
--keep class com.android.vending.billing.**
--keep public class com.android.vending.licensing.ILicensingService
-
--dontwarn org.apache.**
--dontwarn com.google.**
--dontwarn autovalue.shaded.com.google.**
--dontwarn com.android.vending.billing.**
-
+# OkHttp
 -dontwarn okhttp3.**
 -dontwarn okio.**
 -dontwarn javax.annotation.**
+-keepnames class okhttp3.internal.publicsuffix.PublicSuffixDatabase
+-dontwarn okhttp3.internal.platform.ConscryptPlatform
+-dontwarn org.conscrypt.ConscryptHostnameVerifier
 
-# Retain generic type information for use by reflection by converters and adapters.
--keepattributes Signature
-# Retain service method parameters.
--keepclassmembernames,allowobfuscation interface * {
-    @retrofit2.http.* <methods>;
-}
-# Ignore annotation used for build tooling.
--dontwarn org.codehaus.mojo.animal_sniffer.IgnoreJRERequirement
-
--dontwarn
--ignorewarnings
+# Glide
+-keep public class * extends com.bumptech.glide.module.AppGlideModule
+-keep class com.bumptech.glide.GeneratedAppGlideModuleImpl

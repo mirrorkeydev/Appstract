@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Appstract</string>
+
+    <string name="theme_title">Appstract Icon Pack</string>
+    <string name="theme_name">Appstract Icon Pack</string>
+
+    <string name="theme_author">Melanie Gutzmann</string>
+    <string name="developer_name">Melanie Gutzmann</string>
+    <string name="developerName">Melanie Gutzmann</string>
+    <string name="authorName">Melanie Gutzmann</string>
+
+    <string name="authorLink">https://play.google.com/store/apps/developer?id=Melon+Productions</string>
+    <string name="developer_link">https://play.google.com/store/apps/developer?id=Melon+Productions</string>
+
+    <string name="theme_description">Radical abstractions of your favorite icons</string>
+    <string name="theme_info">Radical abstractions of your favorite icons</string>
+    <string name="theme_ad_msg">Radical abstractions of your favorite icons</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.melon.appstract</string>
+
+</resources>

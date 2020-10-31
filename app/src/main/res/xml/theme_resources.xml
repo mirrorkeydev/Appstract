@@ -1,35 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright (c) 2017 Jahir Fiquitiva
-  ~
-  ~ Licensed under the CreativeCommons Attribution-ShareAlike
-  ~ 4.0 International License. You may not use this file except in compliance
-  ~ with the License. You may obtain a copy of the License at
-  ~
-  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  ~
-  ~ Special thanks to the project contributors and collaborators
-  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
-  -->
-
+<?xml version="1.0" encoding="utf-8"?>
 <Theme version="1">
-    <Label value="IconShowcase Dashboard" />
-    <Wallpaper image="wallpaper_01" />
-    <LockScreenWallpaper image="wallpaper_02" />
-    <ThemePreview image="preview1" />
-    <ThemePreviewWork image="preview1" />
-    <ThemePreviewMenu image="preview1" />
-    <DockMenuAppIcon selector="drawer" />
 
-    <!-- Contacts App -->
+    <!-- FOR LG HOME -->
+
+    <Label value="Your Icon Pack name" />
+    <Wallpaper image="lg_homescreen_wallpaper" />
+    <LockScreenWallpaper image="lockscreen_wallpaper" />
+    <ThemePreview image="lg_homescreen_preview" />
+    <ThemePreviewWork image="lg_homescreen_preview_work" />
+    <ThemePreviewMenu image="lg_homescreen_preview_menu" />
+    <DockMenuAppIcon selector="lg_dockmenu_all_apps_button_icon" />
+
     <AppIcon
-        name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
-        image="people" />
+        name="com.lge.clock/com.lge.clock.AlarmClockActivity"
+        image="lg_launcher_ic_alarm" />
+
+    <!-- Belle UI -->
+    <AppIcon
+        name="com.daeva112.donate.belleui/com.daeva112.dashboard.belleui.activity.StartActivity"
+        image="belleui_donate" />
+    <AppIcon
+        name="com.daeva112.donate.belleui/com.daeva112.dashboard.belleui.activity.MainActivity"
+        image="belleui_donate" />
+    <AppIcon
+        name="com.daeva112.iconpack.belleui/com.daeva112.dashboard.belle.activity.StartActivity"
+        image="belleui" />
+    <AppIcon
+        name="com.daeva112.iconpack.belleui/com.daeva112.dashboard.belle.activity.MainActivity"
+        image="belleui" />
 
 </Theme>

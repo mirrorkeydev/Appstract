@@ -1,82 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Copyright (c) 2017 Jahir Fiquitiva
-  ~
-  ~ Licensed under the CreativeCommons Attribution-ShareAlike
-  ~ 4.0 International License. You may not use this file except in compliance
-  ~ with the License. You may obtain a copy of the License at
-  ~
-  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  ~
-  ~ Special thanks to the project contributors and collaborators
-  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
-  -->
-
 <resources>
+    <version>1</version>
 
-    <version>2</version>
+    <category title="Newly Added" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
 
-    <category title="Latest" />
-
-    <category title="System" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
-
-    <category title="Google Apps" />
-    <item drawable="allo" />
-    <item drawable="chrome" />
-    <item drawable="duo" />
-    <item drawable="gmail" />
-    <item drawable="google" />
-    <item drawable="google_authenticator" />
-    <item drawable="google_docs" />
-    <item drawable="google_drive" />
-    <item drawable="google_keep" />
-    <item drawable="google_photos" />
-    <item drawable="google_sheets" />
-    <item drawable="google_slides" />
-    <item drawable="google_translate" />
-    <item drawable="hangouts" />
-    <item drawable="maps" />
-    <item drawable="play_store" />
-    <item drawable="play_newsstand" />
-    <item drawable="youtube" />
-
+    <category title="Apps" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
 
     <category title="Games" />
-    <item drawable="a_better_camera" />
-    <item drawable="adaway" />
-    <item drawable="adobe_creative_cloud" />
-    <item drawable="afterfocus" />
-
-    <category title="Drawers" />
-    <item drawable="a_better_camera" />
-    <item drawable="aa" />
-    <item drawable="acdisplay" />
-    <item drawable="afterlight" />
-    <item drawable="airdroid" />
-    <item drawable="alarmpad" />
-
-    <category title="All" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
-
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
+    <item drawable="email" />
+    <item drawable="app_camera" />
+    <item drawable="keyboard" />
 </resources>
