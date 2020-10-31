@@ -4,8 +4,11 @@ An Android icon pack based on the principles of artistic abstraction. Built on [
 
 ![Icon Preview](https://github.com/mirrorkeydev/Appstract/blob/master/bothimage.png)
 
+# Icon Requests
+
+
 # Contributing
-Contributions are very welcome!
+Contributions are very welcome! You do NOT need to know how to code, just how to create .SVGs using [Inkscape](https://inkscape.org/) or other software.
 Please see the contribution guide (link TODO) for instructions on how to contribute.
 
 # Releases
