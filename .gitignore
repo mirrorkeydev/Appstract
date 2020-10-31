@@ -26,6 +26,9 @@ local.properties
 .settings/
 .loadpath
 *.png
+!/svgs
+!/appstract-dark/*.png
+!/appstract-light/*.png
 
 # External tool builders
 .externalToolBuilders/
