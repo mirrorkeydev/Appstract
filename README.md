@@ -4,6 +4,12 @@ An Android icon pack based on the principles of artistic abstraction. Built on [
 
 ![Icon Preview](https://github.com/mirrorkeydev/Appstract/blob/master/bothimage.png)
 
+# Contributing
+Contributions are very welcome!
+Please see the contribution guide (link TODO) for instructions on how to contribute.
+
+# Releases
+
 #### V1.0.0 April 2018
 First release, containing approximately 60 icons. Released as an exploratory high school senior project. Built on (the now discontinued) Polar Dashboard.
 
@@ -18,3 +24,6 @@ Third major release. Added some new icons, ported the app to CandyBar Dashboard.
 
 #### V3.3.3 October 2019
 Removed premium icon requests. Added some more new icons based on the most popular free icon requests and updated bindings to previous icons.
+
+#### V4.0.0 November 2020
+Fourth major release. Ported to the maintained fork of CandyBar [here](https://github.com/zixpo/candybar-sample). Opened up app to contributions (TODO).
