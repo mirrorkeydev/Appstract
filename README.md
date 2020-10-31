@@ -9,7 +9,7 @@ An Android icon pack based on the principles of artistic abstraction. Built on [
 
 # Contributing
 Contributions are very welcome! You do NOT need to know how to code, just how to create .SVGs using [Inkscape](https://inkscape.org/) or other software.
-Please see the contribution guide (link TODO) for instructions on how to contribute.
+Please see the [contribution guide](https://github.com/mirrorkeydev/Appstract/blob/master/CONTRIBUTING.md) for instructions on how to contribute.
 
 # Releases
 
@@ -29,4 +29,4 @@ Third major release. Added some new icons, ported the app to CandyBar Dashboard.
 Removed premium icon requests. Added some more new icons based on the most popular free icon requests and updated bindings to previous icons.
 
 #### V4.0.0 November 2020
-Fourth major release. Ported to the maintained fork of CandyBar [here](https://github.com/zixpo/candybar-sample). Opened up app to contributions (TODO).
+Fourth major release. Ported to the maintained fork of CandyBar [here](https://github.com/zixpo/candybar-sample). Opened up app to [contributions](https://github.com/mirrorkeydev/Appstract/blob/master/CONTRIBUTING.md).
