@@ -23,5 +23,5 @@ If at any point you're having trouble with opening a fork or pull request, feel 
 
 ## Code
 
-I don't have any plans for code changes - Appstract is currently built on [Sarsa Murmu's](https://github.com/sarsamurmu) maintined Candybar fork: [zixpo/candybar-sample](https://github.com/zixpo/candybar-sample). If you want to contribute to that, head over to his repo :)
+I don't have any plans for code changes - Appstract is currently built on [Sarsa Murmu's](https://github.com/sarsamurmu) maintained Candybar fork: [zixpo/candybar-sample](https://github.com/zixpo/candybar-sample). If you want to contribute to that, head over to his repo :)
 
