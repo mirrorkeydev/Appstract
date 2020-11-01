@@ -11,6 +11,9 @@ If you'd like to request icons, please use the in-app icon request feature. I ha
 Contributions are very welcome! You do NOT need to know how to code, just how to create .SVGs using [Inkscape](https://inkscape.org/) or other software.
 Please see the [contribution guide](https://github.com/mirrorkeydev/Appstract/blob/master/CONTRIBUTING.md) for instructions on how to contribute.
 
+# Acknowledgements
+Appstract is currently built on [Sarsa Murmu's](https://github.com/sarsamurmu) maintained Candybar fork: [zixpo/candybar-sample](https://github.com/zixpo/candybar-sample).
+
 # Releases
 
 #### V1.0.0 April 2018
