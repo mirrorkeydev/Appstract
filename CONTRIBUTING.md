@@ -16,7 +16,7 @@ To add new icons to Appstract, follow these steps:
 4. Open a pull request (a request to have your new changes be added to the main repository) and explain your changes. [Guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 5. Provide the activity names of the icons you've added in your pull request.
     - These should look something like `com.dkanada.icecons/com.dkanada.icecons.MainActivity`, and if your app is in the list of [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt), you should be able to find it there. Note that there may be multiple of these names for each app.
-    - If you can't find any activity names, I recommend googling `"ComponentInfo" [name of app] "appfilter.xml"` (with the `"`s) - there you should find other `appfilter.xml` files, with the corresponding activitiy names there.
+    - If you can't find any activity names, I recommend googling `"ComponentInfo" [name of app] "appfilter.xml"` (with the `"`s) - there you should find other `appfilter.xml` files, with the corresponding activity names there.
 6. Once I approve the icons, I'll merge the pull request (add your changes to the main repository), and add you to the contributors section of the app.
 
 If at any point you're having trouble with opening a fork or pull request, feel free to reach out to me at mirrorkeydev@gmail.com :)
