@@ -1,0 +1,2 @@
+# Code
+The reason that I've only included some select files here is because the rest of the codebase is identical to [Sarsa Murmu's](https://github.com/sarsamurmu) maintined Candybar fork: [zixpo/candybar-sample](https://github.com/zixpo/candybar-sample). These select files are the core configurable values for Appstract.

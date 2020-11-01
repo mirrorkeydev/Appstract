@@ -10,7 +10,7 @@ Don't know what to add, but want to help? See Appstract's [most-requested icons]
 
 To add new icons to Appstract, follow these steps:
 
-1. Fork this repository (make a copy of it on your local machine). If you've never done this before, see Github's guide [here](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo).
+1. Fork this repository (make a copy of it on your local machine). If you've never done this before, see Github's guide [here](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo). Open the `icons` folder - you can safely ignore all of the other folders.
 2. Open one of the template icons in the [`svgs` folder](https://github.com/mirrorkeydev/Appstract/tree/master/svgs). Save it to have the name of your new icon, separated by underscores where there were spaces (e.g. "Clash Of Clans" becomes `clash_of_clans.svg`), and design your icon. Icons use a document size of 192x192 pixels, and a stroke size of 6px. The template icon should already have these properties set up, but sometimes scaling will mess up the size of your lines if you're not careful.
 3. Export the icons as 192x192px .PNGs to the [`appstract-light` folder](https://github.com/mirrorkeydev/Appstract/tree/master/appstract-light) with black lines, and to the [`appstract-dark` folder](https://github.com/mirrorkeydev/Appstract/tree/master/appstract-light) with white lines.
 4. Open a pull request (a request to have your new changes be added to the main repository) and explain your changes. [Guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
