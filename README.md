@@ -5,7 +5,7 @@ An Android icon pack based on the principles of artistic abstraction. Built on [
 ![Icon Preview](https://github.com/mirrorkeydev/Appstract/blob/master/bothimage.png)
 
 # Icon Requests
-
+If you'd like to request icons, please use the in-app icon request feature. I have a [script](https://github.com/mirrorkeydev/PythonScripts/tree/master/Appstract/requestanalyzer) that I periodically run on the request email to compile a list of the [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/most-requested-icons.txt).
 
 # Contributing
 Contributions are very welcome! You do NOT need to know how to code, just how to create .SVGs using [Inkscape](https://inkscape.org/) or other software.
