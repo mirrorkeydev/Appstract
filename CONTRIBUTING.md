@@ -10,6 +10,8 @@ Don't know what to add, but want to help? See Appstract's [most-requested icons]
 
 To add new icons to Appstract, follow these steps:
 
+### For people who have used Git/GitHub before:
+
 1. Fork this repository (make a copy of it on your local machine). If you've never done this before, see Github's guide [here](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo). Open the `icons` folder - you can safely ignore all of the other folders.
 2. Open one of the template icons in the [`svgs` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/svgs). Save it to have the name of your new icon, separated by underscores where there were spaces (e.g. "Clash Of Clans" becomes `clash_of_clans.svg`), and design your icon. Icons use a document size of 192x192 pixels, and a stroke size of 6px. The template icon should already have these properties set up, but sometimes scaling will mess up the size of your lines if you're not careful.
 3. Export the icons as 192x192px .PNGs to the [`appstract-light` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with black lines, and to the [`appstract-dark` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with white lines.
@@ -18,6 +20,9 @@ To add new icons to Appstract, follow these steps:
     - These should look something like `com.dkanada.icecons/com.dkanada.icecons.MainActivity`, and if your app is in the list of [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt), you should be able to find it there. Note that there may be multiple of these names for each app.
     - If you can't find any activity names, I recommend googling `"ComponentInfo" [name of app] "appfilter.xml"` (with the `"`s) - there you should find other `appfilter.xml` files, with the corresponding activity names there.
 6. Once I approve the icons, I'll merge the pull request (add your changes to the main repository), and add you to the contributors section of the app.
+
+### For people who haven't used Git or GitHub before:
+Coming soon!
 
 If at any point you're having trouble with opening a fork or pull request, feel free to reach out to me at mirrorkeydev@gmail.com :)
 
