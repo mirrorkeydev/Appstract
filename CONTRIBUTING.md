@@ -11,6 +11,11 @@ Don't know what to add, but want to help? See Appstract's [most-requested icons]
 #### Color Palette
 ![](https://raw.githubusercontent.com/mirrorkeydev/Appstract/master/colorpalette.png)
 
+#### Design Ethos
+- Keep shapes simple
+- Use as few lines as possible
+- When in doubt, prefer simplicity over recognizability
+
 To add new icons to Appstract, follow these steps:
 
 ### For people who have used Git/GitHub before:
