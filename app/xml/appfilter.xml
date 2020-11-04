@@ -1344,6 +1344,7 @@
 	<!---adm-->
 	<item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="adm" />
 	<item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="adm" />
+	<item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="adm"/>
 
 	<!---chronus-->
 	<item component="ComponentInfo{com.dvtonder.chronus/com.dvtonder.chronus.preference.PreferencesMain}" drawable="chronus" />
@@ -2238,6 +2239,9 @@
 	<item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.XLEActivity}" drawable="xbox"/>
 	<item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" drawable="xbox" />
 	<item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" drawable="xbox"/>
+	<item component="ComponentInfo{com.microsoft.xle/com.microsoft.xbox.xle.app.XLEActivity}" drawable="xbox"/>
+	<item component="ComponentInfo{com.microsoft.smartglass/com.microsoft.xbox.xle.app.XLEActivity}" drawable="xbox"/>
+	<item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.MainActivity}" drawable="xbox"/>
 
 	<!---wallsplash-->
 	<item component="ComponentInfo{com.mikepenz.unsplash/com.mikepenz.unsplash.activities.MainActivity}" drawable="wallsplash"/>
@@ -6229,5 +6233,8 @@
 
 	<!--NordVPN-->
 	<item component="ComponentInfo{com.nordvpn.android/com.nordvpn.android.MainActivity}" drawable="nordvpn" />
+
+	<!--Mobily-->
+	<item component="ComponentInfo{com.mobily.activity/com.mobily.activity.core.navigation.RouteActivity}" drawable="mobily"/>
 
 </resources>
