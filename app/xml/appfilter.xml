@@ -6255,9 +6255,12 @@
 	<item component="ComponentInfo{net.teilauto.m/net.teilauto.m.MainActivity}" drawable="teilauto"/>
 
 	<!-- F-Droid -->
-	<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="f-droid"/>
+	<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid"/>
 
 	<!-- Fielmann -->
 	<item component="ComponentInfo{com.fielmann.kls/com.fielmann.kls.SplashActivity}" drawable="fielmann"/>
+
+	<!-- 7Mind -->
+	<item component="ComponentInfo{de.sevenmind.android/de.sevenmind.android.MainActivity}" drawable="7mind"/>
     
 </resources>
