@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">October 31, 2020</string>
+    <string name="changelog_date">Next planned release: Nov 15 or 30, 2020</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
@@ -10,39 +10,12 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>It\'s been a bit, hello!</item>
-        <item>Y\'all have sent me 6000+ icon requests!</item>
-        <item>So I added the most popular requests:</item>
+        <item>Added x icon contributions from x contributors!</item>
         <item>
             <![CDATA[
-            - Call of Duty (181 requests)
-            - Zoom (135 requests)
-            - PhonePe (97 requests)
-            - Free Fire (75 requests)
-            - MEGA (68 requests)
-            - Airtel (68 requests)
-            - Mobile Legends: Bang (65 requests)
-            - FM Radio (63 requests)
-            - Among Us (54 requests)
-            - and some more!
-            ]]>
-        </item>
-        <item>
-            <![CDATA[
-            I\'m opening up public contributions to Appstract.
-            If you\'re interested in contributing icons, check out
+            If you\'re interested in contributing too, check out
             <a href="https://github.com/mirrorkeydev/Appstract">Appstract on Github</a>
             ]]>
-        </item>
-        <item>
-            <![CDATA[
-             I also switched to a maintained fork of CandyBar
-             Dashboard, many thanks to
-             <a href="https://github.com/sarsamurmu">Sarsa Murmu</a>!
-             ]]>
-        </item>
-        <item>
-            Lastly, I updated bindings for other popular apps.
         </item>
     </string-array>
 
