@@ -6,7 +6,7 @@ Hello! Welcome to Appstract's contribution guide.
 
 You're welcome to designs icons for apps you'd like to see supported by Appstract.
 
-Don't know what to add, but want to help? See Appstract's [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt). You'll want to verify that these icons don't already exist using the Appstract app - the `appstract-light` and `appstract-dark` folders don't necessarily have all current icons. You're also welcome to redesign existing icons if you don't like the way they look, but be aware that redesigns will have to hold up to a higher level of scrutiny than adding new icons.
+Don't know what to add, but want to help? See Appstract's [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt). You'll want to verify that these icons don't already exist - [`drawable.xml`](https://github.com/mirrorkeydev/Appstract/blob/master/app/xml/drawable.xml) has a list of all icons that have been created. You're also welcome to redesign existing icons if you don't like the way they look, but be aware that redesigns will have to hold up to a higher level of scrutiny than adding new icons.
 
 #### Color Palette
 ![](https://raw.githubusercontent.com/mirrorkeydev/Appstract/master/colorpalette.png)
