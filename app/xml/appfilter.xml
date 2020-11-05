@@ -3189,7 +3189,7 @@
 	<item component="ComponentInfo{de.commerzbanking.mobil/com.commerzbank.mobilebanking2.common.activity.MainActivity}" drawable="commerzbank" />
 
 	<!---antenna_pod-->
-	<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.MainActivity}" drawable="antenna_pod"/>
+	<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.MainActivity}" drawable="antennapod"/>
 
 	<!---minimalistic_text-->
 	<item component="ComponentInfo{de.devmil.minimaltext/de.devmil.minimaltext.ui.MinimalTextPreferenceManager}" drawable="minimalistic_text" />
@@ -3392,6 +3392,9 @@
 	<!---keepass_to_android-->
 	<item component="ComponentInfo{keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass_to_android"/>
 	<item component="ComponentInfo{keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass_to_android"/>
+    
+	<!---KeepassDX-->
+	<item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx"/>
 
 	<!---kik-->
 	<item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik"/>
@@ -3538,10 +3541,6 @@
 
 	<!---ebookdroid-->
 	<item component="ComponentInfo{org.ebookdroid/org.ebookdroid.ui.MainActivity}" drawable="ebookdroid"/>
-
-	<!---f_droid-->
-	<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="f_droid" />
-	<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="f_droid" />
 
 	<!---clover-->
 	<item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
@@ -6236,5 +6235,29 @@
 
 	<!--Mobily-->
 	<item component="ComponentInfo{com.mobily.activity/com.mobily.activity.core.navigation.RouteActivity}" drawable="mobily"/>
+    
+	<!-- Everdo -->
+	<item component="ComponentInfo{net.everdo.everdo/net.everdo.everdo.activity_main.MainActivity}" drawable="everdo"/>
+    
+	<!-- OsmAnd -->
+	<item component="ComponentInfo{net.osmand/net.osmand.activities.MainMenuActivity}" drawable="osmand"/>
+	<item component="ComponentInfo{net.osmand.plus/net.osmand.plus.activities.MapActivity}" drawable="osmand"/>
+	<item component="ComponentInfo{net.osmand/net.osmand.plus.activities.MainMenuActivity}" drawable="osmand"/>
 
+	<!-- ScanPro -->
+	<item component="ComponentInfo{net.doo.snap/io.scanbot.app.ui.main.SplashActivity}" drawable="scanpro"/>
+
+	<!-- teilAuto -->
+	<item component="ComponentInfo{net.teilauto.m/net.teilauto.m.MainActivity}" drawable="teilauto"/>
+
+	<!-- F-Droid -->
+	<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" />
+	<item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid"/>
+
+	<!-- Fielmann -->
+	<item component="ComponentInfo{com.fielmann.kls/com.fielmann.kls.SplashActivity}" drawable="fielmann"/>
+
+	<!-- 7Mind -->
+	<item component="ComponentInfo{de.sevenmind.android/de.sevenmind.android.MainActivity}" drawable="7mind"/>
+    
 </resources>
