@@ -4774,8 +4774,11 @@
 	<!---ifood-->
 	<item component="ComponentInfo{br.com.brainweb.ifood/br.com.brainweb.ifood.mvp.splash.view.SplashScreenActivity}" drawable="ifood" />
 
-	<!---rocket_chat-->
-	<item component="ComponentInfo{com.konecty.rocket.chat/com.konecty.rocket.chat.MainActivity}" drawable="rocket_chat" />
+	<!---Rocket.Chat-->
+	<item component="ComponentInfo{com.konecty.rocket.chat/com.konecty.rocket.chat.MainActivity}" drawable="rocket.chat" /> <!-- already in appfilter -->
+	<item component="ComponentInfo{chat.rocket.android/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="rocket.chat"/> <!-- at my device -->
+	<item component="ComponentInfo{chat.rocket.android/chat.rocket.android.authentication.ui.AuthenticationActivity}" drawable="rocket.chat" /> <!-- found via google -->
+
 
 	<!---nzb360-->
 	<item component="ComponentInfo{com.kevinforeman.nzb360/com.kevinforeman.nzb360.StartupLauncher}" drawable="nzb360" />
@@ -6259,5 +6262,14 @@
 
 	<!-- 7Mind -->
 	<item component="ComponentInfo{de.sevenmind.android/de.sevenmind.android.MainActivity}" drawable="7mind"/>
-    
+
+	<!-- Corona-Warn -->
+	<item component="ComponentInfo{de.rki.coronawarnapp/de.rki.coronawarnapp.ui.LauncherActivity}" drawable="corona-warn"/>
+
+	<!-- DAVx⁵ -->
+	<item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}" drawable="davx"/>
+
+	<!-- TooGoodToGo -->
+	<item component="ComponentInfo{com.app.tgtg/com.app.tgtg.activities.SplashActivity}" drawable="toogoodtogo"/>
+
 </resources>
