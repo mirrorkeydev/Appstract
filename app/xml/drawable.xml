@@ -2,6 +2,7 @@
 <resources>
 	<version>1</version>
 
+	<item drawable ="7mind" />
 	<item drawable ="accu_weather" />
 	<item drawable ="acorns" />
 	<item drawable ="adm" />
@@ -19,6 +20,7 @@
 	<item drawable ="among_us" />
 	<item drawable ="android_auto" />
 	<item drawable ="android_pay" />
+	<item drawable ="antennapod" />
 	<item drawable ="apex_launcher" />
 	<item drawable ="apple_music" />
 	<item drawable ="app_logo" />
@@ -80,12 +82,14 @@
 	<item drawable ="downloads" />
 	<item drawable ="dropbox" />
 	<item drawable ="drops" />
+	<item drawable ="ds_cloud" />
 	<item drawable ="duckduckgo" />
 	<item drawable ="dungeon_maker" />
 	<item drawable ="duo" />
 	<item drawable ="duo_mobile" />
 	<item drawable ="ebay" />
 	<item drawable ="etsy" />
+	<item drawable ="everdo" />
 	<item drawable ="evernote" />
 	<item drawable ="facebook" />
 	<item drawable ="facebook_lite" />
@@ -93,7 +97,9 @@
 	<item drawable ="facebook_messenger_lite" />
 	<item drawable ="facetune" />
 	<item drawable ="fasthub" />
+	<item drawable ="fdroid" />
 	<item drawable ="feed_me" />
+	<item drawable ="fielmann" />
 	<item drawable ="fight_club" />
 	<item drawable ="filemanager" />
 	<item drawable ="firefox" />
@@ -159,12 +165,14 @@
 	<item drawable ="join" />
 	<item drawable ="journey_planner" />
 	<item drawable ="kahoot" />
+	<item drawable ="keepassdx" />
 	<item drawable ="khan_academy" />
 	<item drawable ="kindle" />
 	<item drawable ="last_pass" />
 	<item drawable ="last_pass_authenticator" />
 	<item drawable ="lawnchair" />
 	<item drawable ="libby" />
+	<item drawable ="lieferando" />
 	<item drawable ="life_360" />
 	<item drawable ="limbo" />
 	<item drawable ="line" />
@@ -223,6 +231,7 @@
 	<item drawable ="paypal" />
 	<item drawable ="phone" />
 	<item drawable ="phonepe" />
+	<item drawable ="phototan" />
 	<item drawable ="pinterest" />
 	<item drawable ="pixlr" />
 	<item drawable ="play_books" />
@@ -246,6 +255,7 @@
 	<item drawable ="retrica" />
 	<item drawable ="roku" />
 	<item drawable ="runtastic" />
+	<item drawable ="scanpro" />
 	<item drawable ="scrabble_word_checker" />
 	<item drawable ="sd_maid" />
 	<item drawable ="security" />
@@ -253,6 +263,7 @@
 	<item drawable ="settings" />
 	<item drawable ="share_it" />
 	<item drawable ="shazam" />
+	<item drawable ="signal" />
 	<item drawable ="skwrt" />
 	<item drawable ="skype" />
 	<item drawable ="sky_scanner" />
@@ -275,6 +286,7 @@
 	<item drawable ="sync" />
 	<item drawable ="target" />
 	<item drawable ="tasker" />
+	<item drawable ="teilauto" />
 	<item drawable ="telegram" />
 	<item drawable ="telegram_x" />
 	<item drawable ="termux" />
@@ -363,6 +375,7 @@
 	<item drawable="pokemongo" />
 	<item drawable="quora" />
 	<item drawable="retrica" />
+	<item drawable="scanpro" />
 	<item drawable="sound_recorder" />
 	<item drawable="target" />
 	<item drawable="vodafone" />
@@ -384,11 +397,13 @@
 	<item drawable="headspace" />
 	<item drawable="ivoox" />
 	<item drawable="jabong" />
+	<item drawable="lieferando" />
 	<item drawable="lose_it" />
 	<item drawable="microsoft_office" />
 	<item drawable="microsoft_powerpoint" />
 	<item drawable="osu_mobile" />
 	<item drawable="patreon" />
+	<item drawable="phototan" />
 	<item drawable="podcast_addict" />
 	<item drawable="reddit" />
 	<item drawable="sleep_cycle" />
@@ -439,6 +454,7 @@
 	<item drawable="digital_wellbeing" />
 	<item drawable="downloads" />
 	<item drawable="duo_mobile" />
+	<item drawable="everdo" />
 	<item drawable="evernote" />
 	<item drawable="feed_me" />
 	<item drawable="google_classroom" />
@@ -449,6 +465,7 @@
 	<item drawable="hulu" />
 	<item drawable="ic_splash_screen" />
 	<item drawable="journey_planner" />
+	<item drawable="keepassdx" />
 	<item drawable="khan_academy" />
 	<item drawable="line" />
 	<item drawable="ltr" />
@@ -470,11 +487,13 @@
 	<item drawable="xbox" />
 
 	<category title ="blue" />
+	<item drawable="7mind" />
 	<item drawable="alexa" />
 	<item drawable="amazon_music" />
 	<item drawable="amazon_prime_video" />
 	<item drawable="amdroid" />
 	<item drawable="android_auto" />
+	<item drawable="antennapod" />
 	<item drawable="apex_launcher" />
 	<item drawable="automa_tag" />
 	<item drawable="bing" />
@@ -494,6 +513,7 @@
 	<item drawable="dictionary_com" />
 	<item drawable="dolby" />
 	<item drawable="dropbox" />
+	<item drawable="ds_cloud" />
 	<item drawable="duo" />
 	<item drawable="facebook" />
 	<item drawable="facebook_lite" />
@@ -539,12 +559,14 @@
 	<item drawable="settings" />
 	<item drawable="share_it" />
 	<item drawable="shazam" />
+	<item drawable="signal" />
 	<item drawable="skype" />
 	<item drawable="sky_scanner" />
 	<item drawable="smart_launcher" />
 	<item drawable="steam" />
 	<item drawable="substratum" />
 	<item drawable="swift_key" />
+	<item drawable="teilauto" />
 	<item drawable="telegram" />
 	<item drawable="textra" />
 	<item drawable="trello" />
@@ -583,6 +605,7 @@
 	<item drawable="buffer" />
 	<item drawable="call_of_duty" />
 	<item drawable="camera" />
+	<item drawable="fielmann" />
 	<item drawable="google_authenticator" />
 	<item drawable="gsm_arena" />
 	<item drawable="limbo" />
@@ -611,6 +634,7 @@
 	<item drawable="drops" />
 	<item drawable="ebay" />
 	<item drawable="facetune" />
+	<item drawable="fdroid" />
 	<item drawable="firefox" />
 	<item drawable="firefox_lite" />
 	<item drawable="flickr" />
