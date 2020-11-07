@@ -3420,8 +3420,8 @@
 	<item component="ComponentInfo{me.b0ne.android.apps.beeter/me.b0ne.android.apps.beeter.activities.InitialActivity}" drawable="beeter"/>
 
 	<!---slide-->
-	<item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slide"/>
-	<item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.slideforreddit.Overview}" drawable="slide"/>
+	<item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="reddit"/>
+	<item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.slideforreddit.Overview}" drawable="reddit"/>
 
 	<!---livechart_me-->
 	<item component="ComponentInfo{me.livechart.android/me.livechart.android.SplashActivity}" drawable="livechart_me" />
@@ -4327,11 +4327,14 @@
 	<!---wallstreet_journal-->
 	<item component="ComponentInfo{wsj.reader_sp/wsj.ui.SplashActivity}" drawable="wallstreet_journal" />
 
-	<!---ds_cloud-->
+	<!---DS Cloud-->
 	<item component="ComponentInfo{com.synology.dscloud/com.synology.dscloud.activities.SplashActivity}" drawable="ds_cloud" />
 
-	<!---ds_file-->
+	<!---DS File-->
 	<item component="ComponentInfo{com.synology.DSfile/com.synology.DSfile.Splash}" drawable="ds_file" />
+
+	<!-- DS video -->
+	<item component="ComponentInfo{com.synology.dsvideo/com.synology.dsvideo.SplashActivity}" drawable="ds_video"/>
 
 	<!---nhl-->
 	<item component="ComponentInfo{com.nhl.gc1112.free/com.nhl.gc1112.free.appstart.viewControllers.activities.SplashActivity}" drawable="nhl" />
@@ -5189,7 +5192,7 @@
 	<item component="ComponentInfo{de.flixbus.app/de.meinfernbus.Main}" drawable="flixbus" />
 
 	<!---warnwetter-->
-	<item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.MainActivity}" drawable="warnwetter" />
+	<item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.MainActivity}" drawable="weather" />
 
 	<!---zdf_mediathek-->
 	<item component="ComponentInfo{com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity}" drawable="zdf_mediathek" />
@@ -6271,5 +6274,8 @@
 
 	<!-- TooGoodToGo -->
 	<item component="ComponentInfo{com.app.tgtg/com.app.tgtg.activities.SplashActivity}" drawable="toogoodtogo"/>
+
+	<!-- FairEmail -->
+	<item component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" drawable="fairemail"/>
 
 </resources>
