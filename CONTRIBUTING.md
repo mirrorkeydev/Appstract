@@ -6,7 +6,7 @@ Hello! Welcome to Appstract's contribution guide.
 
 You're welcome to designs icons for apps you'd like to see supported by Appstract.
 
-Don't know what to add, but want to help? See Appstract's [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt). You'll want to verify that these icons don't already exist using the Appstract app - the `appstract-light` and `appstract-dark` folders don't necessarily have all current icons. You're also welcome to redesign existing icons if you don't like the way they look, but be aware that redesigns will have to hold up to a higher level of scrutiny than adding new icons.
+Don't know what to add, but want to help? See Appstract's [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt). You'll want to verify that these icons don't already exist - [`drawable.xml`](https://github.com/mirrorkeydev/Appstract/blob/master/app/xml/drawable.xml) has a list of all icons that have been created. You're also welcome to redesign existing icons if you don't like the way they look, but be aware that redesigns will have to hold up to a higher level of scrutiny than adding new icons.
 
 #### Color Palette
 ![](https://raw.githubusercontent.com/mirrorkeydev/Appstract/master/colorpalette.png)
@@ -17,33 +17,66 @@ Don't know what to add, but want to help? See Appstract's [most-requested icons]
 - When in doubt, prefer simplicity over recognizability
 
 ![](https://raw.githubusercontent.com/mirrorkeydev/Appstract/master/examples.png)
+![](https://user-images.githubusercontent.com/35010111/98139223-caaa4f80-1e78-11eb-9d0c-6e037db6a91e.png)
 
 To add new icons to Appstract, follow these steps:
 
 ### For people who have used Git/GitHub before:
 
-1. Fork this repository ([Github's guide](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)). Open the `icons` folder - you can safely ignore all of the other folders.
-2. Open one of the template icons in the [`svgs` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/svgs). Save it to have the name of your new icon, separated by underscores where there were spaces (e.g. "Clash Of Clans" becomes `clash_of_clans.svg`), and design your icon. Icons use a document size of 192x192 pixels, and a stroke size of 6px. The template icon should already have these properties set up, but sometimes scaling will mess up the size of your lines if you're not careful.
-3. Export the icons as 192x192px .PNGs to the [`appstract-light` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with black lines, and to the [`appstract-dark` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with white lines.
-4. Open a pull request and explain your changes. [Github's Guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-5. Provide the activity names of the icons you've added in your pull request.
-    - These should look something like `com.dkanada.icecons/com.dkanada.icecons.MainActivity`, and if your app is in the list of [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt), you should be able to find it there. Note that there may be multiple of these names for each app.
-    - If you can't find any activity names, I recommend googling `"ComponentInfo" [name of app] "appfilter.xml"` (with the `"`s) - there you should find other `appfilter.xml` files, with the corresponding activity names there.
-6. Once I approve the icons, I'll merge the pull request (add your changes to the main repository), and add you to the contributors section of the app.
+1. Fork this repository ([Github's guide](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)).
+2. Create your icons as svgs in the `icons/svgs` directory.
+    - Refer to the design ethos above in creating your icons.
+    - Naming convention: alphanumeric lowercase, separated by underscores where there were spaces (e.g. "Clash Of Clans" becomes `clash_of_clans.svg`).
+    - Icons use a document size of 192x192 pixels, and a stroke size of 6px. Feel free to duplicate + rename existing icon files to create your icons, as these should already have these properties set up.
+3. Export the icons as 192x192px .PNGs to the [`appstract-light` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with black lines, and to the [`appstract-dark` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with white lines. These should have the same name as the svg (e.g. `clash_of_clans.svg` -> `clash_of_clans.png`).
+4. Add the activity names of the icons you've added to `app/xml/appfilter.xml`. For more information, see [Activity Names](#Activity-Names).
+5. Add yourself to the `app/xml/contributors.xml` file.
+6. Open a pull request and explain your changes ([Github's Guide](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)).
 
-### For people who haven't used Git or GitHub before:
-More detailed details coming soon!
+Don't worry about adding your icon to `app/xml/drawable.xml`; that file is autogenerated based on the `appstract-light` folder using [these scripts](https://github.com/mirrorkeydev/PythonScripts/tree/master/Appstract) I wrote.
 
-1. Follow [this guide](https://dev.to/highflyer910/the-beginners-guide-to-contributing-to-projects-with-githubdesktop-46o3). It'll tell you to install GitHub Desktop and walk you through the steps of forking a repository and getting it open on your local machine. It assumes that you already have Git [installed](https://git-scm.com/downloads), so make sure that you've done that before starting the guide.
-2. Open the `icons` folder using file explorer, and then open one of the template icons in the [`svgs` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/svgs) using your preferred editing software (Inkscape, Illustrator, or similar). Save it to have the name of your new icon (creating a new file in the same folder), separated by underscores where there were spaces (e.g. "Clash Of Clans" becomes `clash_of_clans.svg`), and design your icon. Icons use a document size of 192x192 pixels, and a stroke size of 6px. The template icon should already have these properties set up, but sometimes scaling will mess up the size of your lines if you're not careful.
-3. Export the icons as 192x192px .PNGs to the [`appstract-light` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with black lines, and to the [`appstract-dark` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with white lines.
-4. "Commit" your changes (mark them as a finished step in Git's history), "push" them to your "fork" (sync your changes with the repository under your account), and then open a "pull request" (a request to add your changes back to this repository). You can refer back to the article in the first step for help with this.
-5. Provide the activity names of the icons you've added in your pull request.
-    - These should look something like `com.dkanada.icecons/com.dkanada.icecons.MainActivity`, and if your app is in the list of [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt), you should be able to find it there. Note that there may be multiple of these names for each app.
-    - If you can't find any activity names, I recommend googling `"ComponentInfo" [name of app] "appfilter.xml"` (with the `"`s) - there you should find other `appfilter.xml` files, with the corresponding activity names there.
-6. Once I approve the icons, I'll merge the pull request (add your changes to the main repository), and add you to the contributors section of the app.
+### For people who haven't used Git/GitHub before:
+
+1. Follow [this guide](https://dev.to/highflyer910/the-beginners-guide-to-contributing-to-projects-with-githubdesktop-46o3). It'll tell you to install GitHub Desktop and walk you through the steps of forking a repository and getting it open on your local machine. It assumes that you already have Git [installed](https://git-scm.com/downloads), so make sure that you've done that before starting the guide. After you read the "Time to do some work" section, come back here.
+2. Open the `icons` folder using the file explorer, and then open one of the template icons in the [`svgs` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/svgs) using your preferred editing software (Inkscape, Illustrator, or similar). Use `Save As` to save the file with a new name, separated by underscores where there were spaces (e.g. "Clash Of Clans" becomes `clash_of_clans.svg`). Again, this should create a new file separate from those that already exist, not overwrite/delete any of the existing ones (unless you are redesigning an icon). Then, design your icon!
+    - Refer to the design ethos above in creating your icons.
+    - Icons use a document size of 192x192 pixels, and a stroke size of 6px.
+3. Export the icons as 192x192px .PNGs to the [`appstract-light` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with black lines, and to the [`appstract-dark` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with white lines. **At no point should you delete or replace any of the existing icons unless you are redesigning an icon.**
+4. Add the activity names of the icons you've added to `app/xml/appfilter.xml`. For more information, see [Activity Names](#Activity-Names).
+5. Add yourself to the `app/xml/contributors.xml` file.
+6. "Commit" your changes (mark them as a finished step in Git's history). See [step: "Commit your Changes"](https://dev.to/highflyer910/the-beginners-guide-to-contributing-to-projects-with-githubdesktop-46o3).
+    - Before committing, you should check that you have exactly `n` changes, where `n = (number of icons you made * 3) + 2`, since you added three files for each new icon added, plus the two text files (steps 4 and 5).
+    ![](https://user-images.githubusercontent.com/35010111/98146243-43f97080-1e80-11eb-92f2-4e65cbd46400.png)
+    - If you only added new icons, you should only see ![](https://user-images.githubusercontent.com/35010111/98145699-e8c77e00-1e7f-11eb-8a87-fdfbc8fd1655.png) next to your icon files. If you redesigned an icon, you'll probably see ![](https://user-images.githubusercontent.com/35010111/98145877-0563b600-1e80-11eb-84d6-beb200fd7c2e.png) for those icons. You'll also see the modified symbol for the two text files. Except in rare cases, you shouldn't see any ![](https://user-images.githubusercontent.com/35010111/98145985-19a7b300-1e80-11eb-9ad8-e090b1485a4d.png) - if you do (and it wasn't intentional), just uncheck those changes, as demonstrated in the above image. This will prevent those deletions from being recorded as "history". If all else fails and you can't figure out how to fix your changes, (or you already committed), feel free to continue to the next steps and make a note in your PR that you need help cleaning up your commits. I have write access to most forks and can help :)
+7. "Push" your commit to your "fork" (sync your changes with the repository under your account). See [step: "Push your Changes"](https://dev.to/highflyer910/the-beginners-guide-to-contributing-to-projects-with-githubdesktop-46o3).
+8. Open a "pull request" (a request to add your changes back to this repository). See [step: "Submit your PR"](https://dev.to/highflyer910/the-beginners-guide-to-contributing-to-projects-with-githubdesktop-46o3).
+9. Once I approve the icons, I'll merge the pull request (add your changes to the main repository).
 
 If at any point you're having trouble with any of the steps, feel free to reach out to me at mirrorkeydev@gmail.com :)
+
+## Activity Names
+
+Activity names look like this:
+- `com.dkanada.icecons/com.dkanada.icecons.MainActivity`
+- `cn.nubia.gallery3d/cn.nubia.gallery3d.app.Gallery`
+- `com.rayark.valkyrie/com.onevcat.uniwebview.AndroidPlugin`
+
+An icon must always have at least one activity name associated with it. Generic apps tend to have lots of these, while lesser-known apps will generally only have one or two.
+
+### Finding activity names for your icon
+- If your icon is in the list of [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt), you should be able to find activity names there.
+- Google `"ComponentInfo" [name of app] "appfilter.xml"` (with the `"`s) - there you should find other `appfilter.xml` files, with the corresponding activity names there.
+
+### Adding activity names to `appfilter.xml`
+An `appfilter.xml` entry for an icon looks like this:
+```xml
+<!---google_earth-->
+<item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}" drawable="google_earth"/>
+<item component="ComponentInfo{com.google.earth/com.google.earth.EarthActivity}" drawable="google_earth"/>
+```
+The activity name goes between the curly braces in `"ComponentInfo{}"`. The icon file name (without `.svg` or `.png`) goes between the double quotes in `drawable=""`. For every activity name, a new `<item component="ComponentInfo{ ... }" drawable=""/>` line is added beneath others.
+
+**Important:** before you add a new activity name to `appfilter.xml`, do a `ctrl-f` and search for your icon - it's possible that a section for your icon already exists. If that's the case, just modify that section to match your icon file name and add any new activity names not already in that section. If you don't check for existing sections before adding a new one, your icons might not apply correctly. 
 
 ## Code
 
