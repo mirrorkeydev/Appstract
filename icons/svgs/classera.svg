@@ -1,1 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><defs><style>.cls-1{fill:#87de87;}.cls-2{fill:#b5ef93;}.cls-3{fill:#87aade;}.cls-4{fill:#abcae3;}.cls-5{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style></defs><g id="Layer_1" data-name="Layer 1"><path class="cls-1" d="M116.71,15.81,22.81,41.55A1.4,1.4,0,0,0,22,43.9L55,88a1.44,1.44,0,0,0,2.33.08l60.92-69.87C120,16.19,119.34,15.09,116.71,15.81Z"/><path class="cls-2" d="M173.43,122l-29.7-92.55a1.41,1.41,0,0,0-2.3-.76L107.89,52.84a1.46,1.46,0,0,0-.23,2.23l63.24,68.45C173.43,126.26,174.57,125.59,173.43,122Z"/><path class="cls-3" d="M62.39,169.7l111.8-11.3a1.39,1.39,0,0,0,1.18-2.18L156.6,119.7a1.51,1.51,0,0,0-2-.65l-93,47.83C57.67,168.87,58.05,170.14,62.39,169.7Z"/><path class="cls-4" d="M19.35,70.05l16.82,89.67a1.45,1.45,0,0,0,2,1.12L93.3,139.36a1.39,1.39,0,0,0,.48-2.49L21.86,68.68C20,66.93,18.88,67.55,19.35,70.05Z"/></g><g id="Light"><line class="cls-5" x1="129" y1="100" x2="102" y2="129"/><line class="cls-5" x1="124" y1="84" x2="80" y2="112"/><line class="cls-5" x1="101" y1="70" x2="73" y2="97"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 192 192" style="enable-background:new 0 0 192 192;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C3EA89;}
+	.st1{fill:#84C4F5;}
+	.st2{fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15.1181;}
+	.st3{display:none;}
+	
+		.st4{display:inline;fill:none;stroke:#FFFFFF;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15.1181;}
+</style>
+<g id="svg8" sodipodi:docname="classera.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<defs>
+		
+			<inkscape:path-effect  copies_to_360="true" effect="copy_rotate" gap="0" id="path-effect1313" is_visible="true" lpeversion="1" method="normal" mirror_copies="false" num_copies="2" origin="96,96" rotation_angle="180" split_items="false" starting_angle="20" starting_point="154.21129,149.74565">
+			</inkscape:path-effect>
+		
+			<inkscape:path-effect  center_point="95.999999,38.971589" discard_orig_path="false" effect="mirror_symmetry" end_point="168.38281,38.971589" fuse_paths="false" id="path-effect1311" is_visible="false" lpeversion="1" mode="Y" oposite_fuse="false" split_items="false" start_point="23.617188,38.971589">
+			</inkscape:path-effect>
+		
+			<inkscape:path-effect  center_point="46.566666,25.4" discard_orig_path="false" effect="mirror_symmetry" end_point="46.566666,46.566666" fuse_paths="false" id="path-effect1304" is_visible="true" lpeversion="1" mode="free" oposite_fuse="false" split_items="false" start_point="46.566666,4.2333336">
+			</inkscape:path-effect>
+	</defs>
+	
+		<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="91.744473" inkscape:cy="43.050852" inkscape:document-rotation="0" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1377" inkscape:window-maximized="1" inkscape:window-width="2560" inkscape:window-x="-8" inkscape:window-y="224" inkscape:zoom="1.4" pagecolor="#ffffff" showgrid="false" units="px">
+		</sodipodi:namedview>
+	<g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+		<path id="path4218-2" inkscape:connector-curvature="0" sodipodi:nodetypes="ssssss" class="st0" d="M161.2,109.9
+			c20.2-6.6,11.9-47.6-16.9-73.9C94.5-9.5,39.7,15.1,43.1,48C44.9,64.8,54.9,74.5,71,76.1c18.2,1.7,22.4-9.8,47,1.5
+			C140.4,87.9,141.9,116.2,161.2,109.9z"/>
+		<path id="path4218" inkscape:connector-curvature="0" sodipodi:nodetypes="ssssss" class="st1" d="M30.8,82.1
+			C10.6,88.7,19,129.7,47.7,156c49.7,45.5,104.5,20.9,101.1-12c-1.7-16.8-11.8-26.6-27.9-28.1c-18.2-1.7-22.4,9.8-47-1.5
+			C51.6,104.1,50.1,75.8,30.8,82.1z"/>
+	</g>
+</g>
+<g id="Light">
+	<circle id="path5697_1_" class="st2" cx="96" cy="96" r="56.6"/>
+</g>
+<g id="Dark" class="st3">
+	<circle id="path5697" class="st4" cx="96" cy="96" r="56.6"/>
+</g>
+</svg>

@@ -4731,7 +4731,6 @@
 
 	<!---microsoft_teams-->
 	<item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="microsoft_teams" />
-	<item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="teams"/>
 
 	<!---hero_lab_importer-->
 	<item component="ComponentInfo{com.dysfunctional.apps.herolabcharactersheet/com.dysfunctional.apps.pcgencharactersheet.MainActivity}" drawable="hero_lab_importer" />
