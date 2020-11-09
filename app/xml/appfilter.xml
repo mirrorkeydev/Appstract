@@ -137,6 +137,7 @@
 	<item component="ComponentInfo{com.skuld.calendario/com.skuld.calendario.ui.home.activity.MainActivity}" drawable="calendar"/>
 	<item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar"/>
 	<item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Grey_black}" drawable="calendar"/>
+	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calender"/>
 
 	<!---camera-->
 	<item component=":CAMERA" drawable="camera" />
@@ -757,6 +758,7 @@
 	<item component="ComponentInfo{com.vivo.FMRadio/com.vivo.FMRadio.FMRadio}" drawable="fm_radio"/>
 	<item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="fm_radio"/>
 	<item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmActivity}" drawable="fm_radio"/>
+	<item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="fm_radio"/>
 
 	<!---music-->
 	<item component="ComponentInfo{com.android.music/com.android.music.VideoBrowserActivity}" drawable="music" />
@@ -805,6 +807,7 @@
 	<item component="ComponentInfo{com.lenovo.recorder/com.lenovo.recorder.SoundRecorder}" drawable="sound_recorder"/>
 	<item component="ComponentInfo{org.pixelexperience.recorder/org.pixelexperience.recorder.RecorderActivity}" drawable="sound_recorder"/>
 	<item component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.RecorderActivity}" drawable="sound_recorder"/>
+	<item component="ComponentInfo{com.oem.soundrecorder/com.oem.soundrecorder.activities.MainActivity}" drawable="sound_recorder"/>
 
 	<!---flashlight-->
 	<item component="ComponentInfo{com.htc.flashlight/com.htc.flashlight.FlashlightActivity}" drawable="flashlight" />
