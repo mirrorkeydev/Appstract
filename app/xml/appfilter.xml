@@ -6288,4 +6288,7 @@
 	<!-- FairEmail -->
 	<item component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" drawable="fairemail"/>
 
+	<!-- Up -->
+	<item component="ComponentInfo{au.com.up.money/au.com.up.money.MainActivity}" drawable="up"/>
+
 </resources>
