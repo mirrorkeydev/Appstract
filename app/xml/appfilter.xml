@@ -6291,4 +6291,8 @@
 	<!-- Up -->
 	<item component="ComponentInfo{au.com.up.money/au.com.up.money.MainActivity}" drawable="up"/>
 
+	<!-- Woolworths -->
+	<item component="ComponentInfo{au.com.woolworths.android.onesite.Launcher}" drawable="woolworths"/>
+	<item component="ComponentInfo{au.com.woolworths.android.onesite.modules.main.MainActivity}" drawable="woolworths"/>
+
 </resources>
