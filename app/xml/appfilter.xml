@@ -137,6 +137,7 @@
 	<item component="ComponentInfo{com.skuld.calendario/com.skuld.calendario.ui.home.activity.MainActivity}" drawable="calendar"/>
 	<item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar"/>
 	<item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Grey_black}" drawable="calendar"/>
+	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calender"/>
 
 	<!---camera-->
 	<item component=":CAMERA" drawable="camera" />
@@ -566,6 +567,9 @@
 	<!---adobe_capture-->
 	<item component="ComponentInfo{com.adobe.creativeapps.gather/com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity}" drawable="adobe_capture" />
 
+	<!-- Adobe Acrobat -->
+	<item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat"/>
+
 	<!---adobe_fill_and_signdc-->
 	<item component="ComponentInfo{com.adobe.fas/com.adobe.fas.Home.FillAndSign}" drawable="adobe_fill_and_signdc" />
 
@@ -757,6 +761,7 @@
 	<item component="ComponentInfo{com.vivo.FMRadio/com.vivo.FMRadio.FMRadio}" drawable="fm_radio"/>
 	<item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="fm_radio"/>
 	<item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmActivity}" drawable="fm_radio"/>
+	<item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="fm_radio"/>
 
 	<!---music-->
 	<item component="ComponentInfo{com.android.music/com.android.music.VideoBrowserActivity}" drawable="music" />
@@ -805,6 +810,7 @@
 	<item component="ComponentInfo{com.lenovo.recorder/com.lenovo.recorder.SoundRecorder}" drawable="sound_recorder"/>
 	<item component="ComponentInfo{org.pixelexperience.recorder/org.pixelexperience.recorder.RecorderActivity}" drawable="sound_recorder"/>
 	<item component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.RecorderActivity}" drawable="sound_recorder"/>
+	<item component="ComponentInfo{com.oem.soundrecorder/com.oem.soundrecorder.activities.MainActivity}" drawable="sound_recorder"/>
 
 	<!---flashlight-->
 	<item component="ComponentInfo{com.htc.flashlight/com.htc.flashlight.FlashlightActivity}" drawable="flashlight" />
@@ -3538,6 +3544,12 @@
 
 	<!---opentasks-->
 	<item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="opentasks" />
+
+	<!-- CalDAV-Sync -->
+	<item component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.carddav.GlobalSettingsEditor}" drawable="caldav_sync"/>
+
+	<!-- CardDAV-Sync free -->
+	<item component="ComponentInfo{org.dmfs.carddav.sync/org.dmfs.carddav.GlobalSettingsEditor}" drawable="carddav_sync"/>
 
 	<!---ebookdroid-->
 	<item component="ComponentInfo{org.ebookdroid/org.ebookdroid.ui.MainActivity}" drawable="ebookdroid"/>
@@ -6290,6 +6302,15 @@
 
 	<!-- Up -->
 	<item component="ComponentInfo{au.com.up.money/au.com.up.money.MainActivity}" drawable="up"/>
+
+	<!-- c:geo -->
+	<item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}" drawable="geocaching"/>
+
+	<!-- SecureGo -->
+	<item component="ComponentInfo{de.fiducia.smartphone.android.securego.wl/de.fiducia.smartphone.android.securego.wl.launcher_ceee54dfff0adb568a4fc408d93b5740bb0a7f0a142c39b76958ef71fd7a5c5e}" drawable="securego"/>
+
+	<!-- Sparda Berlin -->
+	<item component="ComponentInfo{de.spardab.banking.privat/de.spardab.banking.privat.launcher_c99b8623bf88d047ce6c7714002e8da0bfba680414df6903ecfa544d74367ec5}" drawable="spardabank"/>
 
 	<!-- Woolworths -->
 	<item component="ComponentInfo{au.com.woolworths.android.onesite.Launcher}" drawable="woolworths"/>
