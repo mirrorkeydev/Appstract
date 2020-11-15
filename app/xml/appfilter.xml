@@ -4799,11 +4799,10 @@
 	<!---ifood-->
 	<item component="ComponentInfo{br.com.brainweb.ifood/br.com.brainweb.ifood.mvp.splash.view.SplashScreenActivity}" drawable="ifood" />
 
-	<!---Rocket.Chat-->
-	<item component="ComponentInfo{com.konecty.rocket.chat/com.konecty.rocket.chat.MainActivity}" drawable="rocket.chat" /> <!-- already in appfilter -->
-	<item component="ComponentInfo{chat.rocket.android/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="rocket.chat"/> <!-- at my device -->
-	<item component="ComponentInfo{chat.rocket.android/chat.rocket.android.authentication.ui.AuthenticationActivity}" drawable="rocket.chat" /> <!-- found via google -->
-
+	<!---Rocket_Chat-->
+	<item component="ComponentInfo{com.konecty.rocket.chat/com.konecty.rocket.chat.MainActivity}" drawable="rocket_chat" /> <!-- already in appfilter -->
+	<item component="ComponentInfo{chat.rocket.android/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="rocket_chat"/> <!-- at my device -->
+	<item component="ComponentInfo{chat.rocket.android/chat.rocket.android.authentication.ui.AuthenticationActivity}" drawable="rocket_chat" /> <!-- found via google -->
 
 	<!---nzb360-->
 	<item component="ComponentInfo{com.kevinforeman.nzb360/com.kevinforeman.nzb360.StartupLauncher}" drawable="nzb360" />
