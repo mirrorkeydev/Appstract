@@ -3,9 +3,9 @@
 * [ ] Have you added an explanation of which icons you've added and why you'd like us to include them?
 * [ ] Have you created three versions of each icon across the `svgs`, `appstract-light`, and `appstract-dark` folders?
 * [ ] Do all three icons have the same name, except for the file type ending? (For example, `app.svg`, `app.png`, and `app.png`)
-* [ ] Is each file name only comprised of lowercase letters, numbers, and underscores? Underscores should be used only to replace spaces.
+* [ ] Is each file name only comprised of lowercase letters, numbers, and underscores? Underscores should be used only to replace spaces. File names may not begin with a number.
     - Acceptable names: `hello.svg`, `bye_bye.svg`, `disney_plus.svg`, `numbers_123.svg`
-    - Unacceptable names: `spaces everywhere.svg`, `YouTube.svg`, `$%*&^.svg`
+    - Unacceptable names: `spaces everywhere.svg`, `YouTube.svg`, `$%*&^.svg`, `dots.between.svg`, `1something.svg`.
 * [ ] Have you ensured that all svgs and pngs are 192x192 px with a line width of 6px and a transparent background?
 * [ ] Did you add activity names for all of your icons to `app/xml/appfilter.xml`?
 * [ ] Did you add yourself to the `app/xml/contributors.xml` file? :)
