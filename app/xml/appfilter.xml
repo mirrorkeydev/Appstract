@@ -6288,7 +6288,7 @@
 	<item component="ComponentInfo{de.sevenmind.android/de.sevenmind.android.MainActivity}" drawable="7mind"/>
 
 	<!-- Corona-Warn -->
-	<item component="ComponentInfo{de.rki.coronawarnapp/de.rki.coronawarnapp.ui.LauncherActivity}" drawable="corona-warn"/>
+	<item component="ComponentInfo{de.rki.coronawarnapp/de.rki.coronawarnapp.ui.LauncherActivity}" drawable="corona_warn"/>
 
 	<!-- DAVx⁵ -->
 	<item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}" drawable="davx"/>

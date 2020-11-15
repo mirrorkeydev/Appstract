@@ -72,7 +72,7 @@
 	<item drawable ="comedy_central" />
 	<item drawable ="compass" />
 	<item drawable ="contacts" />
-	<item drawable ="corona-warn" />
+	<item drawable ="corona_warn" />
 	<item drawable ="cyclingoo" />
 	<item drawable ="dark_sky" />
 	<item drawable ="dashlane" />
@@ -682,7 +682,7 @@
 	<item drawable="cakebrowser" />
 	<item drawable="chrome" />
 	<item drawable="classera" />
-	<item drawable="corona-warn" />
+	<item drawable="corona_warn" />
 	<item drawable="drops" />
 	<item drawable="ebay" />
 	<item drawable="facetune" />
