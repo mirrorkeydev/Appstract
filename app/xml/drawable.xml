@@ -2,7 +2,7 @@
 <resources>
 	<version>1</version>
 
-	<item drawable ="7mind" />
+	<item drawable ="seven_mind" />
 	<item drawable ="accu_weather" />
 	<item drawable ="acorns" />
 	<item drawable ="adm" />
@@ -529,7 +529,7 @@
 	<item drawable="xbox" />
 
 	<category title ="blue" />
-	<item drawable="7mind" />
+	<item drawable="seven_mind" />
 	<item drawable="alexa" />
 	<item drawable="amaze_filemanager" />
 	<item drawable="amazon_music" />

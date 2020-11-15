@@ -6284,8 +6284,8 @@
 	<!-- Fielmann -->
 	<item component="ComponentInfo{com.fielmann.kls/com.fielmann.kls.SplashActivity}" drawable="fielmann"/>
 
-	<!-- 7Mind -->
-	<item component="ComponentInfo{de.sevenmind.android/de.sevenmind.android.MainActivity}" drawable="7mind"/>
+	<!-- 7mind -->
+	<item component="ComponentInfo{de.sevenmind.android/de.sevenmind.android.MainActivity}" drawable="seven_mind"/>
 
 	<!-- Corona-Warn -->
 	<item component="ComponentInfo{de.rki.coronawarnapp/de.rki.coronawarnapp.ui.LauncherActivity}" drawable="corona_warn"/>
