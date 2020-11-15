@@ -273,7 +273,7 @@
 	<item drawable ="reddit" />
 	<item drawable ="reddit_is_fun" />
 	<item drawable ="retrica" />
-	<item drawable ="rocket.chat" />
+	<item drawable ="rocket_chat" />
 	<item drawable ="roku" />
 	<item drawable ="runtastic" />
 	<item drawable ="scanpro" />
@@ -405,7 +405,7 @@
 	<item drawable="pokemongo" />
 	<item drawable="quora" />
 	<item drawable="retrica" />
-	<item drawable="rocket.chat" />
+	<item drawable="rocket_chat" />
 	<item drawable="scanpro" />
 	<item drawable="sound_recorder" />
 	<item drawable="target" />
