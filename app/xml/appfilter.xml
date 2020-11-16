@@ -1217,6 +1217,7 @@
 
 	<!---phototan-->
 	<item component="ComponentInfo{com.commerzbank.photoTAN/com.vasco.crontosign.phototan.MainActivity}" drawable="phototan"/>
+	<item component="ComponentInfo{com.db.pbc.phototan.nb/com.db.pbc.phototan.db.activities.splash.SplashActivity}" drawable="phototan"/>
 
 	<!---bla_bla_car-->
 	<item component="ComponentInfo{com.comuto/com.comuto.SplashActivity}" drawable="bla_bla_car"/>
