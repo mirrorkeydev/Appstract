@@ -137,7 +137,6 @@
 	<item component="ComponentInfo{com.skuld.calendario/com.skuld.calendario.ui.home.activity.MainActivity}" drawable="calendar"/>
 	<item component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar"/>
 	<item component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Grey_black}" drawable="calendar"/>
-	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calender"/>
 
 	<!---camera-->
 	<item component=":CAMERA" drawable="camera" />
@@ -623,7 +622,8 @@
 	<item component="ComponentInfo{com.alorma.github/com.alorma.github.ui.activity.WelcomeActivity}" drawable="gitskarios" />
 
 	<!---amaze_filemanager-->
-	<item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze_filemanager" />
+	<item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.activities.MainActivity}" drawable="amaze_filemanager" /> <!-- fdroid version-->
+	<item component="ComponentInfo{com.amaze.filemanager/com.amaze.filemanager.ui.activities.MainActivity}" drawable="amaze_filemanager" /> <!-- playstore version-->
 
 	<!---amazon_video-->
 	<item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="amazon_video" />
@@ -1138,9 +1138,6 @@
 	<!---destiny-->
 	<item component="ComponentInfo{com.bungieinc.bungiemobile/com.bungieinc.bungiemobile.LoaderActivity}" drawable="destiny" />
 
-	<!---one_plusfm_radio-->
-	<item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="one_plusfm_radio" />
-
 	<!---mood-->
 	<item component="ComponentInfo{com.calea.echo/com.calea.echo.MainActivity}" drawable="mood" />
 
@@ -1362,7 +1359,8 @@
 	<item component="ComponentInfo{com.ebay.kijiji.ca/com.ebay.app.common.activities.SplashScreenActivity}" drawable="kijiji" />
 
 	<!---ebay_kleinanzeigen-->
-	<item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.home.HomeActivity}" drawable="ebay"/>
+    <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.home.HomeActivity}" drawable="ebay"/> <!-- old? -->
+	<item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.ui.splash.SplashActivity}" drawable="ebay"/>
 
 	<!---ebay-->
 	<item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.eBay}" drawable="ebay"/>
@@ -3397,7 +3395,8 @@
 	<item component="ComponentInfo{keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass_to_android"/>
     
 	<!---KeepassDX-->
-	<item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx"/>
+	<item component="ComponentInfo{com.kunzisoft.keepass.libre/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx"/> <!-- fdroid version-->
+	<item component="ComponentInfo{com.kunzisoft.keepass.free/com.kunzisoft.keepass.activities.FileDatabaseSelectActivity}" drawable="keepassdx"/> <!-- playstore version-->
 
 	<!---kik-->
 	<item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik"/>
@@ -5210,7 +5209,8 @@
 	<item component="ComponentInfo{de.flixbus.app/de.meinfernbus.Main}" drawable="flixbus" />
 
 	<!---warnwetter-->
-	<item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.MainActivity}" drawable="weather" />
+    <item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.MainActivity}" drawable="weather" /> <!-- old entry?-->
+	<item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.base.MainActivity}" drawable="weather" />
 
 	<!---zdf_mediathek-->
 	<item component="ComponentInfo{com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity}" drawable="zdf_mediathek" />
@@ -5312,10 +5312,6 @@
 
 	<!---xodo_docs-->
 	<item component="ComponentInfo{com.xodo.pdf.reader/viewer.CompleteReaderMainActivity}" drawable="xodo_docs"/>
-
-	<!---calendar-->
-	<item component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" drawable="calendar"/>
-	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
 
 	<!---blackberry_dtek-->
 	<item component="ComponentInfo{com.blackberry.privacydashboard/com.blackberry.privacydashboard.SafeguardActivity}" drawable="blackberry_dtek"/>
