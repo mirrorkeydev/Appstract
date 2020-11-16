@@ -4992,6 +4992,7 @@
 
 	<!---firefox_focus-->
 	<item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefox_focus" />
+	<item component="ComponentInfo{org.mozilla.klar/org.mozilla.focus.activity.MainActivity}" drawable="firefox_focus" /> <!-- differnt german version?-->
 
 	<!---hangouts_meet-->
 	<item component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}" drawable="hangouts_meet" />
