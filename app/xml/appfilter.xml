@@ -583,9 +583,6 @@
 	<!---adobe_clip-->
 	<item component="ComponentInfo{com.adobe.premiereclip/com.adobe.premiereclip.SplashScreenActivity}" drawable="adobe_clip" />
 
-	<!---adobe_reader-->
-	<item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_reader" />
-
 	<!---autodesk_sketchbook-->
 	<item component="ComponentInfo{com.adsk.sketchbook/com.adsk.sketchbook.SketchBook}" drawable="autodesk_sketchbook" />
 
