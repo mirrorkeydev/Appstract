@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="7mind.svg"
+   sodipodi:docname="seven_mind.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg8"
    version="1.1"
@@ -80,7 +80,7 @@
        transform="matrix(0.82312392,0.46368321,-0.46368321,0.82312392,19.517593,-11.145226)"
        d="m 41.337178,10.278417 c 1.386403,1.386402 6.695204,16.558085 6.475679,18.506425 C 47.593331,30.733183 39.041616,44.34316 37.38147,45.386299 35.721324,46.429438 19.748708,48.229119 17.898065,47.581551 16.047423,46.933983 4.6816113,35.568172 4.0340435,33.71753 3.3864757,31.866887 5.1861574,15.89427 6.2292961,14.234125 7.2724347,12.573979 20.882412,4.0222634 22.830753,3.8027382 24.779093,3.5832129 39.950776,8.8920144 41.337178,10.278417 Z" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.0267;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 12.604011,21.144469 H 31.5746 L 16.003484,48.114436"
        id="path834" />
   </g>
