@@ -1,0 +1,42 @@
+name: Lint Filenames
+
+on:
+  pull_request:
+    branches: [master]
+
+defaults:
+  run:
+    shell: python
+
+jobs:
+  lint-filenames:
+    name: Lint icon filenames
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Check that icon filenames have the correct format
+        run: |
+          import re, os, sys
+          os.chdir('icons')
+          filenames = os.listdir('appstract-dark') + os.listdir('appstract-light') + os.listdir('svgs')
+          all_good = True
+          for filename in filenames:
+            if not re.match(r'^[a-z]+(?:[a-z0-9]+_?[a-z0-9]+)*.(png|svg)$', filename):
+              all_good = False
+              print('Name: \033[34m' + filename + '\033[0m was misformatted.')
+          if all_good:
+            print('\033[32mAll files had correct naming convention! :)\033[0m')
+          else:
+            print('\033[33mWarning: One or more file names were misformatted. Please fix them, and then recommit your changes.\033[0m')
+            print(
+              '''
+              As a reminder, files can only be comprised of lowercase letters, numbers, and underscores.
+              They may not start with a number, must end with .png or .svg, and cannot have any other characters.
+              Refer to https://github.com/mirrorkeydev/Appstract/blob/master/CONTRIBUTING.md for help.
+              '''
+              )
+            sys.exit(1)
