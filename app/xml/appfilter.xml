@@ -6298,7 +6298,8 @@
 	<item component="ComponentInfo{au.com.up.money/au.com.up.money.MainActivity}" drawable="up"/>
 
 	<!-- c:geo -->
-	<item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}" drawable="geocaching"/>
+	<item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.MainActivity}" drawable="geocaching"/> <!-- deprecated? -->
+	<item component="ComponentInfo{cgeo.geocaching/cgeo.geocaching.SplashActivity}" drawable="geocaching"/>
 
 	<!-- SecureGo -->
 	<item component="ComponentInfo{de.fiducia.smartphone.android.securego.wl/de.fiducia.smartphone.android.securego.wl.launcher_ceee54dfff0adb568a4fc408d93b5740bb0a7f0a142c39b76958ef71fd7a5c5e}" drawable="securego"/>
@@ -6309,5 +6310,23 @@
 	<!-- Woolworths -->
 	<item component="ComponentInfo{au.com.woolworths.android.onesite.Launcher}" drawable="woolworths"/>
 	<item component="ComponentInfo{au.com.woolworths.android.onesite.modules.main.MainActivity}" drawable="woolworths"/>
+
+	<!-- Carbon MTG -->
+	<item component="ComponentInfo{com.getcarbonapp.carbonv4/com.github.nanotube.carbon.HomeActivity}" drawable="carbon_mtg"/>
+
+	<!-- Turtl Notes -->
+	<item component="ComponentInfo{com.lyonbros.turtl/com.lyonbros.turtl.MainActivity}" drawable="turtl_notes"/>
+
+	<!-- Turtl Icons -->
+	<item component="ComponentInfo{org.xphnx.iconsubmit/org.xphnx.iconsubmit.MainActivity}" drawable="turtl_icons"/>
+
+	<!-- Contact Diary -->
+	<item component="ComponentInfo{com.apozas.contactdiary/com.apozas.contactdiary.MainActivity}" drawable="contact_diary"/>
+
+	<!-- Personal Safety -->
+	<item component="ComponentInfo{com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity}" drawable="personal_safety"/>
+
+	<!-- OpenDocument Reader -->
+	<item component="ComponentInfo{at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity}" drawable="open_document_reader"/>
 
 </resources>
