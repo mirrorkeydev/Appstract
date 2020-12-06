@@ -3610,6 +3610,9 @@
 
 	<!---firefox_beta-->
 	<item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox_beta" />
+	
+	<!---firefox_nightly-->
+	<item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.App}" drawable="firefox_nightly" />
 
 	<!---train_timetable-->
 	<item component="ComponentInfo{org.paoloconte.treni_lite/org.paoloconte.orariotreni.app.activities.MainActivity}" drawable="train_timetable" />
@@ -6310,4 +6313,16 @@
 	<item component="ComponentInfo{au.com.woolworths.android.onesite.Launcher}" drawable="woolworths"/>
 	<item component="ComponentInfo{au.com.woolworths.android.onesite.modules.main.MainActivity}" drawable="woolworths"/>
 
+	<!-- Tachiyomi-->
+	<item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi"/>
+    <item component="ComponentInfo{eu.kanade.tachiyomi.dev/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi"/>
+
+	<!-- OUI.sncf -->
+    <item component="ComponentInfo{com.vsct.vsc.mobile.horaireetresa.android/com.vsct.vsc.mobile.horaireetresa.android.activity.SplashActivity}" drawable="oui_sncf"/>
+	
+	<!-- Société Générale -->
+	<item component="ComponentInfo{mobi.societegenerale.mobile.lappli/mobi.societegenerale.mobile.lappli.react.MainActivity}" drawable="societe_generale" />
+	
+	<!-- Lio Occitanie -->
+	<item component="ComponentInfo{fr.airweb.occitanie/fr.airweb.catp.ui.splash.SplashActivity" drawable="lio_occitanie"/>
 </resources>
