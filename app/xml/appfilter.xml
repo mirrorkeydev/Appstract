@@ -6309,5 +6309,53 @@
 	<!-- Woolworths -->
 	<item component="ComponentInfo{au.com.woolworths.android.onesite.Launcher}" drawable="woolworths"/>
 	<item component="ComponentInfo{au.com.woolworths.android.onesite.modules.main.MainActivity}" drawable="woolworths"/>
+    
+    <!-- AllTrails -->
+    <item component="ComponentInfo{com.alltrails.alltrails/com.alltrails.alltrails.StartActivity}" drawable="all__trails" />
+    
+    <!-- AMEX -->
+    <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />
+    
+    <!-- Asana -->
+    <item component="ComponentInfo{com.asana.app/com.asana.ui.activities.LaunchActivity}" drawable="asana" />
+    
+    <!-- Basecamp -->
+    <item component="ComponentInfo{com.basecamp.bc3/com.basecamp.bc3.activities.HomeActivity}" drawable="basecamp" />
+    
+    <!-- Bigcommerce -->
+    <item component="ComponentInfo{com.bigcommerce.mobile/com.bigcommerce.heartbeat.ui.launch.LaunchActivity}" drawable="bigcommerce" />
+    
+    <!-- BofA -->
+    <item component="ComponentInfo{com.infonow.bofa/com.infonow.bofa.Launcher}" drawable="bank_of_america" />
+    
+    <!-- CBS -->
+    <item component="ComponentInfo{com.cbs.app/com.cbs.app.view.SplashActivity}" drawable="cbs" />
+    <item component="ComponentInfo{com.cbs.app/com.cbs.app.screens.startup.SplashActivity}" drawable="cbs" />
+    
+    <!-- ESPN -->
+    <item component="ComponentInfo{air.WatchESPN/com.espn.watchespn.main.Main}" drawable="espn" />
+    <item component="com.espn.score_center/com.espn.sportscenter.ui.EspnLaunchActivity}" drawable="espn" />
+    
+    <!-- Kickstarter -->
+    <item component="ComponentInfo{com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity}" drawable="kickstarter" />
+    
+    <!-- Live Soccer TV -->
+    <item component="ComponentInfo{com.livesoccertv/com.livesoccertv.RootActivity}" drawable="live_soccer_tv" />
+    
+    <!-- Opentable -->
+    <item component="ComponentInfo{com.opentable/com.opentable.activities.search.SearchResults}" drawable="opentable" />
+    
+    <!-- Strong -->
+    <item component="ComponentInfo{io.strongapp.strong/io.strongapp.strong.MainActivity}" drawable="strong" />
+    
+    <!-- Tidio -->
+    <item component="ComponentInfo{com.tidiochat.app/com.tidiochat.app.activity.MainActivity}" drawable="tidio"/>
+    <item component="ComponentInfo{com.tidiochat.app/com.tidiochat.app.SplashActivity}" drawable="tidio"/>
+    
+    <!-- The Athletic -->
+    <item component="ComponentInfo{com.theathletic/com.theathletic.activity.SplashActivity}" drawable="the_athletic"/>
+    
+    <!-- Youtube TV -->
+    <item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.features.main.MainActivity}" drawable="youtube_tv" />
 
 </resources>
