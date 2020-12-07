@@ -6357,5 +6357,21 @@
     
     <!-- Youtube TV -->
     <item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.features.main.MainActivity}" drawable="youtube_tv" />
-
+    
+    <!-- Disney+ -->
+    <item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="disney+"/>
+    <item component="ComponentInfo{jp.co.disney.apps.gm.disneyvod/com.ascendon.disney.activity.DJLoaderActivity}" drawable="disney+"/>
+    
+    <!-- Dribbble -->
+    <item component="ComponentInfo{mathieumaree.rippple/mathieumaree.rippple.MainActivity}" drawable="dribbble"/>
+    
+    <!-- Kiwi Browser -->
+    <item component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}" drawable="kiwi_browser"/>
+    
+    <!-- Niagara Launcher -->
+    <item component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}" drawable="niagara_launcher"/>
+    
+    <!-- Sesame -->
+    <item component="ComponentInfo{ninja.sesame.app.edge/ninja.sesame.app.edge.activities.MainActivity}" drawable="sesame"/>
+    
 </resources>
