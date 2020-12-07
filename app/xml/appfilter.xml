@@ -6360,8 +6360,8 @@
   <item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.features.main.MainActivity}" drawable="youtube_tv" />
 
   <!-- Disney+ -->
-  <item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="disney+"/>
-  <item component="ComponentInfo{jp.co.disney.apps.gm.disneyvod/com.ascendon.disney.activity.DJLoaderActivity}" drawable="disney+"/>
+  <item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="disney_plus"/>
+  <item component="ComponentInfo{jp.co.disney.apps.gm.disneyvod/com.ascendon.disney.activity.DJLoaderActivity}" drawable="disney_plus"/>
 
   <!-- Dribbble -->
   <item component="ComponentInfo{mathieumaree.rippple/mathieumaree.rippple.MainActivity}" drawable="dribbble"/>
