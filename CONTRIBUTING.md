@@ -9,15 +9,15 @@ You're welcome to designs icons for apps you'd like to see supported by Appstrac
 Don't know what to add, but want to help? See Appstract's [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt). You'll want to verify that these icons don't already exist - [`drawable.xml`](https://github.com/mirrorkeydev/Appstract/blob/master/app/xml/drawable.xml) has a list of all icons that have been created. You're also welcome to redesign existing icons if you don't like the way they look, but be aware that redesigns will have to hold up to a higher level of scrutiny than adding new icons.
 
 #### Color Palette
-![](https://raw.githubusercontent.com/mirrorkeydev/Appstract/master/colorpalette.png)
+![](https://user-images.githubusercontent.com/35010111/101709385-39fcfb80-3a44-11eb-9521-80d8ec0891db.png)
 
 #### Design Ethos
 - Keep shapes simple and large
 - Use as few lines as possible
 - When in doubt, prefer simplicity over recognizability
 
-![](https://raw.githubusercontent.com/mirrorkeydev/Appstract/master/examples.png)
-![](https://user-images.githubusercontent.com/35010111/98139223-caaa4f80-1e78-11eb-9d0c-6e037db6a91e.png)
+![](https://user-images.githubusercontent.com/35010111/101709413-44b79080-3a44-11eb-8585-a8b65a9d1007.png)
+![](https://user-images.githubusercontent.com/35010111/101709420-45e8bd80-3a44-11eb-9321-2d41a946a6ba.png)
 
 To add new icons to Appstract, follow these steps:
 
