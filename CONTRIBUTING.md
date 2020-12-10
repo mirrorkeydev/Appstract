@@ -16,8 +16,8 @@ Don't know what to add, but want to help? See Appstract's [most-requested icons]
 - Use as few lines as possible
 - When in doubt, prefer simplicity over recognizability
 
-![](https://user-images.githubusercontent.com/35010111/101709413-44b79080-3a44-11eb-8585-a8b65a9d1007.png)
-![](https://user-images.githubusercontent.com/35010111/101709420-45e8bd80-3a44-11eb-9321-2d41a946a6ba.png)
+![](https://user-images.githubusercontent.com/35010111/101709693-cc050400-3a44-11eb-9998-b77fcd66ec30.png)
+![](https://user-images.githubusercontent.com/35010111/101709697-cdcec780-3a44-11eb-8c14-001a1236619b.png)
 
 To add new icons to Appstract, follow these steps:
 
