@@ -65,6 +65,7 @@ An icon must always have at least one activity name associated with it. Generic 
 
 ### Finding activity names for your icon
 - If your icon is in the list of [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt), you should be able to find activity names there.
+- Download an app such as [Package Name Viewer](https://play.google.com/store/apps/details?id=com.csdroid.pkg&hl=en_US&gl=US) or [Turtl](https://f-droid.org/en/packages/org.xphnx.iconsubmit/) to view activity names for apps on your personal device.
 - Google `"ComponentInfo" [name of app] "appfilter.xml"` (with the `"`s) - there you should find other `appfilter.xml` files, with the corresponding activity names there.
 
 ### Adding activity names to `appfilter.xml`
