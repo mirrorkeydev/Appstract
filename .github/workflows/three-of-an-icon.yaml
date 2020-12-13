@@ -1,0 +1,65 @@
+name: Three Of Each Icon
+on:
+  pull_request:
+    branches: [master]
+
+defaults:
+  run:
+    shell: python
+
+jobs:
+  lint-filenames:
+    name: Check numbers of each icon
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Check icon numbers
+        run: |
+          import os, sys
+          path = "C:\\Users\\Melanie\\Documents\\Github\\Appstract\\icons"
+          os.chdir('icons')
+          count_filenames = {}
+          dark_filenames = os.listdir('appstract-dark')
+          light_filenames = os.listdir('appstract-light')
+          svg_filenames = os.listdir('svgs')
+          all_filenames = dark_filenames + light_filenames + svg_filenames
+          for filename in all_filenames:
+            raw_name = filename.split(".")[0]
+            if raw_name in count_filenames:
+              count_filenames[raw_name] += 1
+            else:
+              count_filenames[raw_name] = 1
+          bad = False
+          for filename in count_filenames:
+            count = count_filenames[filename]
+            if count != 3:
+              if count < 3:
+                print('\033[33mError: File named {} was only found {} time(s) instead of 3 times.\033[0m'.format(filename, count))
+              else:
+                print('\033[33mError: File named {} was found too many times: {} times instead of 3 times.\033[0m'.format(filename, count))
+              print(
+                '''
+                As a reminder, there need to be exactly three files for each icon, one .png in 'appstract-dark',
+                one .png in 'appstract-light', and one .svg in 'svgs'.
+                Refer to https://github.com/mirrorkeydev/Appstract/blob/master/CONTRIBUTING.md for help.
+                '''
+                )
+              bad = True
+          for filename in count_filenames:
+            if filename not in [x.split(".")[0] for x in dark_filenames]:
+              print('\033[33mError: File named {} was not found in \'appstract-dark\'.\033[0m'.format(filename))
+              bad = True
+            if filename not in [x.split(".")[0] for x in light_filenames]:
+              print('\033[33mError: File named {} was not found in \'appstract-light\'.\033[0m'.format(filename))
+              bad = True
+            if filename not in [x.split(".")[0] for x in svg_filenames]:
+              print('\033[33mError: File named {} was not found in \'svgs\'.\033[0m'.format(filename))
+              bad = True
+          if bad:
+            sys.exit(1)
+          else:
+            print('\033[32mAll icons had the correct number of files! :)\033[0m')
