@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 192 192" style="enable-background:new 0 0 192 192;" xml:space="preserve">
+<svg version="1.1"
+	 id="svg2" inkscape:export-filename="/home/fbn/SynologyDrive/Privat/Appstract-Icons/upload/firefox_focus.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="tachiyomi.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 192 192"
+	 style="enable-background:new 0 0 192 192;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#87AADE;}
-	.st1{fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10;}
-	.st2{fill:none;}
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:none;stroke:#666666;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:#9EBAE4;}
+	.st4{fill:none;stroke:#000000;stroke-width:4.6059;stroke-linecap:round;stroke-linejoin:round;}
+	.st5{fill:none;stroke:#000000;stroke-width:4.6124;stroke-linecap:round;stroke-linejoin:round;}
 </style>
-<path class="st0" d="M147.9,79.2c-4.6,20.9-10.3,42.5-17.2,64.7c-1.5,4.9-3.1,9.8-4.7,14.6c-7.2-2-14.4-4-21.7-6
-	c1.6-4.6,3.1-9.2,4.6-13.9c7.2-22.5,12.8-44.4,17.3-65.4C133.5,75.2,140.7,77.2,147.9,79.2z"/>
-<rect x="30.2" y="150.1" class="st0" width="129.8" height="21.7"/>
-<circle class="st1" cx="96" cy="94.2" r="74"/>
-<path class="st0" d="M59,73.4c4.4,8.4,8.8,17.6,13,27.8c4.4,10.6,7.9,20.7,10.8,30c-6.9,2.9-13.8,5.7-20.8,8.6
-	c-3.3-9.3-6.9-19-11.1-29.1c-4.2-10.2-8.5-19.7-12.8-28.7C45.1,79.1,52.1,76.2,59,73.4z"/>
-<rect x="78.7" y="36.1" transform="matrix(-4.772997e-07 -1 1 -4.772997e-07 49.5291 144.2226)" class="st0" width="36.4" height="22.5"/>
-<rect x="30.7" y="44.1" class="st0" width="129.8" height="21.7"/>
-<image style="overflow:visible;" width="200" height="200" xlink:href="C:\Users\ewenl\Downloads\53302311.png"  transform="matrix(0.8967 0 0 0.8967 -205.6667 6.3333)">
-</image>
-<rect x="0" class="st2" width="192" height="192"/>
+<defs>
+	
+	<inkscape:path-effect  effect="spiro" id="path-effect4581" is_visible="true"></inkscape:path-effect>
+	<inkscape:path-effect  effect="spiro" id="path-effect4577" is_visible="true"></inkscape:path-effect>
+	<inkscape:path-effect  effect="spiro" id="path-effect4573" is_visible="true"></inkscape:path-effect>
+	<inkscape:path-effect  effect="spiro" id="path-effect4569" is_visible="true"></inkscape:path-effect>
+	<inkscape:path-effect  effect="spiro" id="path-effect4565" is_visible="true"></inkscape:path-effect>
+	<inkscape:path-effect  effect="spiro" id="path-effect4581-0" is_visible="true"></inkscape:path-effect>
+</defs>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="g4227" inkscape:cx="94.082869" inkscape:cy="65.994127" inkscape:document-rotation="0" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="920" inkscape:window-maximized="0" inkscape:window-width="1064" inkscape:window-x="2560" inkscape:window-y="928" inkscape:zoom="1" pagecolor="#ffffff" showgrid="false" showguides="true" units="px">
+	<inkscape:grid  id="grid4136" type="xygrid"></inkscape:grid>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-860.36222)" inkscape:groupmode="layer" inkscape:label="Layer 1" sodipodi:insensitive="true" class="st0">
+	<g id="g5381" transform="translate(0,860.36222)" class="st1">
+		<rect id="rect4140" x="4.1" y="4.1" class="st2" width="183.9" height="183.9"/>
+	</g>
+</g>
+<circle id="path4561" class="st3" cx="96" cy="96" r="73.1"/>
+<path id="path4567" inkscape:connector-curvature="0" inkscape:original-d="m 91.247495,55.076078 c 6.75e-4,-7.114952 6.75e-4,-13.777531 0,-20.66528" inkscape:path-effect="#path-effect4569" class="st4" d="
+	M96.1,45.6V18.7"/>
+<g id="g4589" transform="matrix(0.86241433,0,0,1.1570364,12.51965,-22.714485)">
+	
+		<path id="path4563" inkscape:connector-curvature="0" inkscape:original-d="m 23.995485,69.557467 c 44.667291,-7.68e-4 89.333815,-7.68e-4 133.999575,0" inkscape:path-effect="#path-effect4565" class="st5" d="
+		M9.3,62.1h174.5"/>
+	
+		<path id="path4575" inkscape:connector-curvature="0" inkscape:original-d="m 24.763391,136.36528 c 43.899385,-7.7e-4 88.053969,-7.7e-4 132.079809,0" inkscape:path-effect="#path-effect4577" class="st5" d="
+		M10.3,149.1h172"/>
+</g>
+<path id="path4637" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" class="st4" d="M105,148c18.5-22.6,30.2-49.3,37.2-79
+	"/>
+<path id="path4639" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" class="st4" d="M53.5,75.5c8.2,9.7,14.2,20.2,20,36"
+	/>
 </svg>
