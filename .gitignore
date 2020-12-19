@@ -95,3 +95,5 @@ proguard/
 /projectFilesBackup
 /reports
 /report
+
+.vscode

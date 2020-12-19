@@ -9,15 +9,15 @@ You're welcome to designs icons for apps you'd like to see supported by Appstrac
 Don't know what to add, but want to help? See Appstract's [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt). You'll want to verify that these icons don't already exist - [`drawable.xml`](https://github.com/mirrorkeydev/Appstract/blob/master/app/xml/drawable.xml) has a list of all icons that have been created. You're also welcome to redesign existing icons if you don't like the way they look, but be aware that redesigns will have to hold up to a higher level of scrutiny than adding new icons.
 
 #### Color Palette
-![](https://raw.githubusercontent.com/mirrorkeydev/Appstract/master/colorpalette.png)
+![](https://user-images.githubusercontent.com/35010111/101709385-39fcfb80-3a44-11eb-9521-80d8ec0891db.png)
 
 #### Design Ethos
 - Keep shapes simple and large
 - Use as few lines as possible
 - When in doubt, prefer simplicity over recognizability
 
-![](https://raw.githubusercontent.com/mirrorkeydev/Appstract/master/examples.png)
-![](https://user-images.githubusercontent.com/35010111/98139223-caaa4f80-1e78-11eb-9d0c-6e037db6a91e.png)
+![](https://user-images.githubusercontent.com/35010111/101709693-cc050400-3a44-11eb-9998-b77fcd66ec30.png)
+![](https://user-images.githubusercontent.com/35010111/101709697-cdcec780-3a44-11eb-8c14-001a1236619b.png)
 
 To add new icons to Appstract, follow these steps:
 
@@ -65,6 +65,7 @@ An icon must always have at least one activity name associated with it. Generic 
 
 ### Finding activity names for your icon
 - If your icon is in the list of [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt), you should be able to find activity names there.
+- Download an app such as [Package Name Viewer](https://play.google.com/store/apps/details?id=com.csdroid.pkg&hl=en_US&gl=US) or [Turtl](https://f-droid.org/en/packages/org.xphnx.iconsubmit/) to view activity names for apps on your personal device.
 - Google `"ComponentInfo" [name of app] "appfilter.xml"` (with the `"`s) - there you should find other `appfilter.xml` files, with the corresponding activity names there.
 
 ### Adding activity names to `appfilter.xml`
