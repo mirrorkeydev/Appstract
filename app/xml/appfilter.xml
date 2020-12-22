@@ -6455,9 +6455,9 @@
 	<!-- burger_king -->
 	<item component="ComponentInfo{de.burgerking.kingfinder/de.xroot.burgerking.ui.activity.SplashScreenActivity}" drawable="burger_king" />
 
-	<!-- camera_fv_-_5 -->
-	<item component="ComponentInfo{com.flavionet.android.camera.pro/com.flavionet.android.camera.pro.Main}" drawable="camera_fv_-_5" />
-	<item component="ComponentInfo{com.flavionet.android.camera.lite/com.flavionet.android.camera.lite.Main}" drawable="camera_fv_-_5" />
+	<!-- camera_fv_5 -->
+	<item component="ComponentInfo{com.flavionet.android.camera.pro/com.flavionet.android.camera.pro.Main}" drawable="camera_fv_5" />
+	<item component="ComponentInfo{com.flavionet.android.camera.lite/com.flavionet.android.camera.lite.Main}" drawable="camera_fv_5" />
 
 	<!-- camera_mx -->
 	<item component="ComponentInfo{com.magix.camera_mx/com.magix.android.cameramx.main.LaunchingActivity}" drawable="camera_mx" />
