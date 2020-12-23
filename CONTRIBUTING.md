@@ -19,6 +19,8 @@ Don't know what to add, but want to help? See Appstract's [most-requested icons]
 ![](https://user-images.githubusercontent.com/35010111/101709693-cc050400-3a44-11eb-9998-b77fcd66ec30.png)
 ![](https://user-images.githubusercontent.com/35010111/101709697-cdcec780-3a44-11eb-8c14-001a1236619b.png)
 
+Have a question about any of this or any of your icons, but don't want to open a pull request yet? Head over to [Appstract Discussions](https://github.com/mirrorkeydev/Appstract/discussions) and post there.
+
 To add new icons to Appstract, follow these steps:
 
 ### For people who have used Git/GitHub before:
@@ -81,6 +83,23 @@ An `appfilter.xml` entry for an icon looks like this:
 The activity name goes between the curly braces in `"ComponentInfo{}"`. The icon file name (without `.svg` or `.png`) goes between the double quotes in `drawable=""`. For every activity name, a new `<item component="ComponentInfo{ ... }" drawable=""/>` line is added beneath others.
 
 **Important:** before you add a new activity name to `appfilter.xml`, do a `ctrl-f` and search for your icon - it's possible that a section for your icon already exists. If that's the case, just modify that section to match your icon file name and add any new activity names not already in that section. If you don't check for existing sections before adding a new one, your icons might not apply correctly. 
+
+## Documentation
+
+Any of these instructions seem unclear? Think the `README` needs a new section? Found a typo?
+
+Feel free to make changes to documentation files. If you want to propose a large, restructuring change to these docs, or even just discuss a smaller one, feel free to head over to [Appstract Discussions](https://github.com/mirrorkeydev/Appstract/discussions) and post there.
+
+## Actions/Workflows
+
+If you'd like to contribute to the web of tiny GitHub workflows that run against new PRs, feel free to do so :)
+
+Ideas:
+- A workflow that checks that all lines in the svgs provided are 6px wide. (I've tried to do this, turns out that vector matrix transformation stuff makes it hard to tell what a line width is just based on the svg xml. It'll say 16.299382 in the file and I'll open it in Inkscape and it'll be 6px)
+- A workflow that ensures that lines are always
+round-capped and black or white
+- A workflow that analyzes the colors in the svg and ensures that they fall into certain ranges based on the design ethos color palette
+- A workflow that checks that filenames in `appfilter.xml` actually match the names of files submitted
 
 ## Code
 
