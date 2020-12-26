@@ -18,6 +18,7 @@ Don't know what to add, but want to help? See Appstract's [most-requested icons]
 
 ![](https://user-images.githubusercontent.com/35010111/101709693-cc050400-3a44-11eb-9998-b77fcd66ec30.png)
 ![](https://user-images.githubusercontent.com/35010111/101709697-cdcec780-3a44-11eb-8c14-001a1236619b.png)
+![](https://user-images.githubusercontent.com/35010111/103143686-872dce00-46d0-11eb-87f8-67707e1f6c07.png)
 
 Have a question about any of this or any of your icons, but don't want to open a pull request yet? Head over to [Appstract Discussions](https://github.com/mirrorkeydev/Appstract/discussions) and post there.
 
@@ -100,6 +101,7 @@ Ideas:
 round-capped and black or white
 - A workflow that analyzes the colors in the svg and ensures that they fall into certain ranges based on the design ethos color palette
 - A workflow that checks that filenames in `appfilter.xml` actually match the names of files submitted
+- A workflow that checks that there aren't more than 4 colors in a given icon.
 
 ## Code
 
