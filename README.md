@@ -1,6 +1,6 @@
 # Appstract Icon Pack
 
-An Android icon pack based on the principles of artistic abstraction. Built on [CandyBar Library](https://github.com/danimahardhika/candybar-library). Available on the [Play Store](https://play.google.com/store/apps/details?id=com.melon.appstract).
+An abstract Android icon pack. Built on [CandyBar Library](https://github.com/zixpo/candybar-sample). Available on the [Play Store](https://play.google.com/store/apps/details?id=com.melon.appstract).
 
 ![Icon Preview](https://github.com/mirrorkeydev/Appstract/blob/master/bothimage.png)
 

@@ -18,6 +18,9 @@ Don't know what to add, but want to help? See Appstract's [most-requested icons]
 
 ![](https://user-images.githubusercontent.com/35010111/101709693-cc050400-3a44-11eb-9998-b77fcd66ec30.png)
 ![](https://user-images.githubusercontent.com/35010111/101709697-cdcec780-3a44-11eb-8c14-001a1236619b.png)
+![](https://user-images.githubusercontent.com/35010111/103143686-872dce00-46d0-11eb-87f8-67707e1f6c07.png)
+
+Have a question about any of this or any of your icons, but don't want to open a pull request yet? Head over to [Appstract Discussions](https://github.com/mirrorkeydev/Appstract/discussions) and post there.
 
 To add new icons to Appstract, follow these steps:
 
@@ -38,7 +41,7 @@ Don't worry about adding your icon to `app/xml/drawable.xml`; that file is autog
 ### For people who haven't used Git/GitHub before:
 
 1. Follow [this guide](https://dev.to/highflyer910/the-beginners-guide-to-contributing-to-projects-with-githubdesktop-46o3). It'll tell you to install GitHub Desktop and walk you through the steps of forking a repository and getting it open on your local machine. It assumes that you already have Git [installed](https://git-scm.com/downloads), so make sure that you've done that before starting the guide. After you read the "Time to do some work" section, come back here.
-2. Open the `icons` folder using the file explorer, and then open one of the template icons in the [`svgs` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/svgs) using your preferred editing software (Inkscape, Illustrator, or similar). Use `Save As` to save the file with a new name, separated by underscores where there were spaces (e.g. "Clash Of Clans" becomes `clash_of_clans.svg`). The file name cannot start with a number. Again, this should create a new file separate from those that already exist, not overwrite/delete any of the existing ones (unless you are redesigning an icon). Then, design your icon!
+2. Open the `icons` folder using the file explorer, and then open one of the template icons in the [`svgs` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/svgs) using your preferred editing software (Inkscape, Illustrator, or similar). Use `Save As` to save the file with a new name, separated by underscores where there were spaces (e.g. "Clash Of Clans" becomes `clash_of_clans.svg`). The file name cannot start with a number (if the original one does, do something like "9gag" -> `nine_gag.svg`). Again, this should create a new file separate from those that already exist, not overwrite/delete any of the existing ones (unless you are redesigning an icon). Then, design your icon!
     - Refer to the design ethos above in creating your icons.
     - Icons use a document size of 192x192 pixels, and a stroke size of 6px.
 3. Export the icons as 192x192px .PNGs to the [`appstract-light` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with black lines, and to the [`appstract-dark` folder](https://github.com/mirrorkeydev/Appstract/tree/master/icons/appstract-light) with white lines. **At no point should you delete or replace any of the existing icons unless you are redesigning an icon.**
@@ -49,7 +52,9 @@ Don't worry about adding your icon to `app/xml/drawable.xml`; that file is autog
     ![](https://user-images.githubusercontent.com/35010111/98146243-43f97080-1e80-11eb-92f2-4e65cbd46400.png)
     - If you only added new icons, you should only see ![](https://user-images.githubusercontent.com/35010111/98145699-e8c77e00-1e7f-11eb-8a87-fdfbc8fd1655.png) next to your icon files. If you redesigned an icon, you'll probably see ![](https://user-images.githubusercontent.com/35010111/98145877-0563b600-1e80-11eb-84d6-beb200fd7c2e.png) for those icons. You'll also see the modified symbol for the two text files. Except in rare cases, you shouldn't see any ![](https://user-images.githubusercontent.com/35010111/98145985-19a7b300-1e80-11eb-9ad8-e090b1485a4d.png) - if you do (and it wasn't intentional), just uncheck those changes, as demonstrated in the above image. This will prevent those deletions from being recorded as "history". If all else fails and you can't figure out how to fix your changes, (or you already committed), feel free to continue to the next steps and make a note in your PR that you need help cleaning up your commits. I have write access to most forks and can help :)
 7. "Push" your commit to your "fork" (sync your changes with the repository under your account). See [step: "Push your Changes"](https://dev.to/highflyer910/the-beginners-guide-to-contributing-to-projects-with-githubdesktop-46o3).
-8. Open a "pull request" (a request to add your changes back to this repository). See [step: "Submit your PR"](https://dev.to/highflyer910/the-beginners-guide-to-contributing-to-projects-with-githubdesktop-46o3).
+8. Open a "pull request" (a request to add your changes back to this repository). See [step: "Submit your PR"](https://dev.to/highflyer910/the-beginners-guide-to-contributing-to-projects-with-githubdesktop-46o3). Here, you might get some errors that look like the below image. This is expected - the repository is running a series of automated checks against your changes, to make sure that they conform to the expected format. If you get any, you can click "Details" on the failing check and it should tell you exactly what isn't looking as expected. If you make a new commit that fixes the problem, then the check will start passing.
+    ![](https://user-images.githubusercontent.com/35010111/103030943-afbb9980-4511-11eb-98e7-cd01c17eda30.png)
+Once you've opened the PR, you might see a button that says "Comment and Close". Closing the PR means that you don't want me to look at your changes anymore. Make sure you don't press the "Comment and Close" button unless that's what you want to happen; use the "Comment" button instead.
 9. Once I approve the icons, I'll merge the pull request (add your changes to the main repository).
 
 If at any point you're having trouble with any of the steps, feel free to reach out to me at mirrorkeydev@gmail.com :)
@@ -65,8 +70,9 @@ An icon must always have at least one activity name associated with it. Generic 
 
 ### Finding activity names for your icon
 - If your icon is in the list of [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt), you should be able to find activity names there.
-- Download an app such as [Package Name Viewer](https://play.google.com/store/apps/details?id=com.csdroid.pkg&hl=en_US&gl=US) or [Turtl](https://f-droid.org/en/packages/org.xphnx.iconsubmit/) to view activity names for apps on your personal device.
+- Download an app such as [Package Name Viewer](https://play.google.com/store/apps/details?id=com.csdroid.pkg&hl=en_US&gl=US) or [Turtl](https://f-droid.org/en/packages/org.xphnx.iconsubmit/) to view activity names for apps on your personal device. Note that the app might show you two smaller names, such as `uk.co.aifactory.chessfree` and `uk.co.aifactory.chessfree.ChessFreeActivity`; these are to be combined with a `/` between them, like so: `uk.co.aifactory.chessfree/uk.co.aifactory.chessfree.ChessFreeActivity`.
 - Google `"ComponentInfo" [name of app] "appfilter.xml"` (with the `"`s) - there you should find other `appfilter.xml` files, with the corresponding activity names there.
+- Google `hybrid analysis [name of large icon pack, such as Linebit, Crayon, etc.]`. Go to the page matching something like `Linebit_1.4.6.apk - Hybrid Analysis`, and scroll down to the Extracted Strings section. Search for your icon (e.g. `clash_of_clans`), and there you'll find full activity names.
 
 ### Adding activity names to `appfilter.xml`
 An `appfilter.xml` entry for an icon looks like this:
@@ -78,6 +84,24 @@ An `appfilter.xml` entry for an icon looks like this:
 The activity name goes between the curly braces in `"ComponentInfo{}"`. The icon file name (without `.svg` or `.png`) goes between the double quotes in `drawable=""`. For every activity name, a new `<item component="ComponentInfo{ ... }" drawable=""/>` line is added beneath others.
 
 **Important:** before you add a new activity name to `appfilter.xml`, do a `ctrl-f` and search for your icon - it's possible that a section for your icon already exists. If that's the case, just modify that section to match your icon file name and add any new activity names not already in that section. If you don't check for existing sections before adding a new one, your icons might not apply correctly. 
+
+## Documentation
+
+Any of these instructions seem unclear? Think the `README` needs a new section? Found a typo?
+
+Feel free to make changes to documentation files. If you want to propose a large, restructuring change to these docs, or even just discuss a smaller one, feel free to head over to [Appstract Discussions](https://github.com/mirrorkeydev/Appstract/discussions) and post there.
+
+## Actions/Workflows
+
+If you'd like to contribute to the web of tiny GitHub workflows that run against new PRs, feel free to do so :)
+
+Ideas:
+- A workflow that checks that all lines in the svgs provided are 6px wide. (I've tried to do this, turns out that vector matrix transformation stuff makes it hard to tell what a line width is just based on the svg xml. It'll say 16.299382 in the file and I'll open it in Inkscape and it'll be 6px)
+- A workflow that ensures that lines are always
+round-capped and black or white
+- A workflow that analyzes the colors in the svg and ensures that they fall into certain ranges based on the design ethos color palette
+- A workflow that checks that filenames in `appfilter.xml` actually match the names of files submitted
+- A workflow that checks that there aren't more than 4 colors in a given icon.
 
 ## Code
 
