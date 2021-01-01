@@ -6407,7 +6407,7 @@
 	<item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="nine_gag" />
 
 	<!-- 500Px -->
-	<item component="ComponentInfo{com.fivehundredpx.viewer/com.fivehundredpx.android.login.LoginActivity}" drawable="app_500_px" />
+	<item component="ComponentInfo{com.fivehundredpx.viewer/com.fivehundredpx.android.login.LoginActivity}" drawable="five_hundred_px" />
 
 	<!---adobe_capture -->
 	<item component="ComponentInfo{com.adobe.creativeapps.gather/com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity}" drawable="adobe_capture" />
