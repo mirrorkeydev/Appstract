@@ -2585,7 +2585,7 @@
 	<item component="ComponentInfo{com.pixelcrater.diaro/com.pixelcrater.diaro.MainActivity}" drawable="diaro" />
 
 	<!---autodesk_pixlr-->
-	<item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="autodesk_pixlr" />
+	<item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
 
 	<!---premier_league-->
 	<item component="ComponentInfo{com.pl.premierleague/com.pl.premierleague.LaunchActivity}" drawable="premier_league"/>
