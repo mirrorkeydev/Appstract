@@ -6027,6 +6027,9 @@
 
 	<!-- HelloTalk -->
 	<item component="ComponentInfo{com.hellotalk/com.hellotalkx.modules.sign.ui.LaunchActivity}" drawable="hellotalk" />
+	
+	<!--- Hjelp_113 -->
+	<item component="ComponentInfo{com.favouritesystems.android.emergencyapp/com.favouritesystems.android.emergencyapp.nla113crc64af550863d7fdfc02.MainActivity}" drawable="hjelp_113"/>
 
 	<!-- ipsy -->
 	<item component="ComponentInfo{com.ipsy.mobile.production/com.ipsy.mobile.MainActivity}" drawable="ipsy" />
