@@ -6596,4 +6596,9 @@
 	<!---gopro-->
 	<item component="ComponentInfo{com.gopro.smarty/com.gopro.smarty.activity.HomeActivity}" drawable="gopro"/>
 
+	<!-- komoot -->
+
+	<item component="ComponentInfo{de.komoot.android/de.komoot.android.ui.inspiration.InspirationActivity}" drawable="komoot"/>
+	<item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="komoot"/>
+
 </resources>
