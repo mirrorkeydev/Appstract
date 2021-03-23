@@ -76,6 +76,7 @@
 	<item drawable ="calendar" />
 	<item drawable ="call_of_duty" />
 	<item drawable ="camera" />
+	<item drawable ="camera2" />
 	<item drawable ="camera_fv_5" />
 	<item drawable ="camera_mx" />
 	<item drawable ="camscanner" />
@@ -113,6 +114,7 @@
 	<item drawable ="dictionary_com" />
 	<item drawable ="digital_wellbeing" />
 	<item drawable ="discord" />
+	<item drawable ="discord2" />
 	<item drawable ="disney_plus" />
 	<item drawable ="dolby" />
 	<item drawable ="dominos" />
@@ -315,6 +317,7 @@
 	<item drawable ="pay_tm" />
 	<item drawable ="personal_safety" />
 	<item drawable ="phone" />
+	<item drawable ="phone2" />
 	<item drawable ="phonepe" />
 	<item drawable ="phototan" />
 	<item drawable ="picsart" />
@@ -747,6 +750,7 @@
 	<item drawable="paypal" />
 	<item drawable="pay_tm" />
 	<item drawable="phone" />
+	<item drawable="phone2" />
 	<item drawable="rail_connect" />
 	<item drawable="reddit_is_fun" />
 	<item drawable="runtastic" />
@@ -792,6 +796,7 @@
 	<item drawable="contacts" />
 	<item drawable="daylio" />
 	<item drawable="discord" />
+	<item drawable="discord2" />
 	<item drawable="fasthub" />
 	<item drawable="fm_radio" />
 	<item drawable="f_watch" />
@@ -816,6 +821,7 @@
 	<item drawable="buffer" />
 	<item drawable="call_of_duty" />
 	<item drawable="camera" />
+	<item drawable="camera2" />
 	<item drawable="fielmann" />
 	<item drawable="five_hundred_px" />
 	<item drawable="google_authenticator" />
