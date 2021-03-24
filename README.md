@@ -34,5 +34,11 @@ Removed premium icon requests. Added some more new icons based on the most popul
 #### V4.0.0 November 2020
 Fourth major release. Ported to the maintained fork of CandyBar [here](https://github.com/zixpo/candybar-sample). Opened up app to [contributions](https://github.com/mirrorkeydev/Appstract/blob/master/CONTRIBUTING.md).
 
+#### V4.0.4 March 2021
+Added more contributor icons. Added "old" icon versions so users can manually apply them.
+
+#### Planned June 2021
+Bump version of CandyBar and clean up assets. More icons 🤞
+
 # License
 All work in this repository is licensed under Apache 2.0.
