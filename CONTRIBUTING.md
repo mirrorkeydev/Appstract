@@ -70,6 +70,7 @@ An icon must always have at least one activity name associated with it. Generic 
 
 ### Finding activity names for your icon
 - If your icon is in the list of [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt), you should be able to find activity names there.
+- Use [iconpusher.com](https://iconpusher.com/) to search for your app. Make sure you use entries from the `appfilter.xml` section, not the `appmap.xml`.
 - Download an app such as [Package Name Viewer](https://play.google.com/store/apps/details?id=com.csdroid.pkg&hl=en_US&gl=US) or [Turtl](https://f-droid.org/en/packages/org.xphnx.iconsubmit/) to view activity names for apps on your personal device. Note that the app might show you two smaller names, such as `uk.co.aifactory.chessfree` and `uk.co.aifactory.chessfree.ChessFreeActivity`; these are to be combined with a `/` between them, like so: `uk.co.aifactory.chessfree/uk.co.aifactory.chessfree.ChessFreeActivity`.
 - Google `"ComponentInfo" [name of app] "appfilter.xml"` (with the `"`s) - there you should find other `appfilter.xml` files, with the corresponding activity names there.
 - Google `hybrid analysis [name of large icon pack, such as Linebit, Crayon, etc.]`. Go to the page matching something like `Linebit_1.4.6.apk - Hybrid Analysis`, and scroll down to the Extracted Strings section. Search for your icon (e.g. `clash_of_clans`), and there you'll find full activity names.
