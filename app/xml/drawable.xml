@@ -51,6 +51,7 @@
 	<item drawable ="bigcommerce" />
 	<item drawable ="bing" />
 	<item drawable ="bitmoji" />
+	<item drawable ="bitwarden" />
 	<item drawable ="bit_torrent" />
 	<item drawable ="blackberry_device_search" />
 	<item drawable ="blackberry_hub_calendar" />
@@ -291,6 +292,7 @@
 	<item drawable ="niagara_launcher" />
 	<item drawable ="nine_gag" />
 	<item drawable ="nordvpn" />
+	<item drawable ="notion" />
 	<item drawable ="nova" />
 	<item drawable ="oculus" />
 	<item drawable ="oeffi_directions" />
@@ -346,6 +348,7 @@
 	<item drawable ="reddit_is_fun" />
 	<item drawable ="remini" />
 	<item drawable ="retrica" />
+	<item drawable ="roblox" />
 	<item drawable ="rocketbook" />
 	<item drawable ="rocket_chat" />
 	<item drawable ="roku" />
@@ -515,6 +518,7 @@
 	<item drawable="quora" />
 	<item drawable="remini" />
 	<item drawable="retrica" />
+	<item drawable="roblox" />
 	<item drawable="rocket_chat" />
 	<item drawable="scanpro" />
 	<item drawable="sound_recorder" />
@@ -680,6 +684,7 @@
 	<item drawable="automa_tag" />
 	<item drawable="bigcommerce" />
 	<item drawable="bing" />
+	<item drawable="bitwarden" />
 	<item drawable="blackberry_device_search" />
 	<item drawable="blackberry_hub_calendar" />
 	<item drawable="blackberry_hub_contacts" />
@@ -830,6 +835,7 @@
 	<item drawable="limbo" />
 	<item drawable="medium" />
 	<item drawable="nine_gag" />
+	<item drawable="notion" />
 	<item drawable="oculus" />
 	<item drawable="ookla_speedtest" />
 	<item drawable="poweramp" />
