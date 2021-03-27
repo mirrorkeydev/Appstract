@@ -6531,6 +6531,9 @@
 	<!-- brawl_stars -->
 	<item component="ComponentInfo{com.supercell.brawlstars/com.supercell.brawlstars.GameApp}" drawable="brawl_stars" />
 
+	<!-- brainly -->
+	<item component="ComponentInfo{co.brainly/com.brainly.StartActivity}" drawable="brainly"/>
+
 	<!-- burger_king -->
 	<item component="ComponentInfo{de.burgerking.kingfinder/de.xroot.burgerking.ui.activity.SplashScreenActivity}" drawable="burger_king" />
 
@@ -6579,6 +6582,11 @@
 
 	<!-- gaana -->
 	<item component="ComponentInfo{com.gaana/com.gaana.SplashScreenActivity-Original}" drawable="gaana" />
+	
+	<!-- game space -->
+	<item component="ComponentInfo{com.coloros.gamespaceui/com.coloros.gamespaceui.activity.StartActivity}" drawable="game_space"/>
+	<item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="game_space"/>
+	<item component="ComponentInfo{com.coloros.gamespace/com.coloros.gamespace.activity.GameBoxActivity}" drawable="game_space"/>
 
 	<!-- google_camera -->
 	<item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="google_camera" />
@@ -6624,6 +6632,8 @@
 
 	<!-- pay_tm -->
 	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.AJRJarvisSplash}" drawable="pay_tm" />
+	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.app.LauncherActivity}" drawable="pay_tm"/>
+	<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}" drawable="pay_tm"/>
 
 	<!-- picsart -->
 	<item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="picsart"/>
@@ -6641,6 +6651,12 @@
 
 	<!-- remini -->
 	<item component="ComponentInfo{com.bigwinepot.nwdn.international/com.bigwinepot.nwdn.MainActivity}" drawable="remini" />
+	
+	<!-- shopee -->
+	<item component="ComponentInfo{com.shopee.br/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
+	<item component="ComponentInfo{com.shopee.ph/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
+	<item component="ComponentInfo{com.shopee.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
+	<item component="ComponentInfo{com.shopee.th/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
 
 	<!-- starbucks -->
 	<item component="ComponentInfo{com.starbucks.mobilecard/com.starbucks.mobilecard.main.activity.LandingPageActivity}" drawable="starbucks"/>
@@ -6676,6 +6692,9 @@
 	<!---zomato-->
 	<item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomato" />
 
+	<!-- zoom -->
+	<item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
+	
 	<!--bitwarden-->
 	<item component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}" drawable="bitwarden"/>
 
