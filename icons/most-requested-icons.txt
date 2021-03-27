@@ -1,28 +1,7 @@
 TOP ICONS:
 -------------------------------------------------------
-Icon: Paytm                    Requested: 36
-<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.app.LauncherActivity}" drawable="paytm"/>
-<item component="ComponentInfo{net.one97.paytm/net.one97.paytm.landingpage.activity.AJRMainActivity}" drawable="paytm"/>
--------------------------------------------------------
-Icon: Shopee                   Requested: 27
-<item component="ComponentInfo{com.shopee.br/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
-<item component="ComponentInfo{com.shopee.ph/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
-<item component="ComponentInfo{com.shopee.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
-<item component="ComponentInfo{com.shopee.th/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
--------------------------------------------------------
-Icon: Game Space               Requested: 20
-<item component="ComponentInfo{com.coloros.gamespaceui/com.coloros.gamespaceui.activity.StartActivity}" drawable="game_space"/>
-<item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="game_space"/>
-<item component="ComponentInfo{com.coloros.gamespace/com.coloros.gamespace.activity.GameBoxActivity}" drawable="game_space"/>
--------------------------------------------------------
-Icon: Brainly                  Requested: 20
-<item component="ComponentInfo{co.brainly/com.brainly.StartActivity}" drawable="brainly"/>
--------------------------------------------------------
 Icon: Google Go                Requested: 20
 <item component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" drawable="google_go"/>
--------------------------------------------------------
-Icon: Zoom                     Requested: 20
-<item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
 -------------------------------------------------------
 Icon: Crunchyroll              Requested: 19
 <item component="ComponentInfo{com.crunchyroll.crunchyroid/com.ellation.crunchyroll.presentation.startup.StartupActivity}" drawable="crunchyroll"/>
