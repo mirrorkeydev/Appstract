@@ -6278,9 +6278,6 @@
 	<item component="ComponentInfo{com.activision.callofduty.companion/com.activision.callofduty.companion.MainActivity}" drawable="call_of_duty"/>
 	<item component="ComponentInfo{com.activision.callofduty.shooter/com.tencent.tmgp.cod.PermissionGrantActivity}" drawable="call_of_duty"/>
 
-	<!--Zoom-->
-	<item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
-
 	<!--Free fire-->
 	<item component="ComponentInfo{com.dts.freefireth/com.dts.freefireth.FFMainActivity}" drawable="free_fire"/>
 	<item component="ComponentInfo{com.dts.freefireth.huawei/com.dts.freefireth.FFMainActivity}" drawable="free_fire"/>
@@ -6687,6 +6684,11 @@
 	<!--roblox-->
 	<item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox"/>
 
+	<!---blackplayer-->
+	<item component="ComponentInfo{com.kodarkooperativet.blackplayer/com.kodarkooperativet.blackplayer.activities.ViewPagerActivity}" drawable="blackplayer"/>
+	<item component="ComponentInfo{com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity}" drawable="blackplayer"/>
+	<item component="ComponentInfo{com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity}" drawable="blackplayer"/>
+
 	<!-- brainly -->
 	<item component="ComponentInfo{co.brainly/com.brainly.StartActivity}" drawable="brainly"/>
 
@@ -6701,12 +6703,7 @@
 	<item component="ComponentInfo{com.shopee.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
 	<item component="ComponentInfo{com.shopee.th/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
 
-	<!-- zoom alt -->
-	<item component="ComponentInfo{alternative.us.zoom.videomeetings/com.zipow.videobox.alternative.LauncherActivity}" drawable="zoom_alt"/>
-
-	<!--- blackplayer alt -->
-	<item component="ComponentInfo{alternative.com.kodarkooperativet.blackplayer/com.kodarkooperativet.blackplayer.activities.ViewPagerActivity}" drawable="blackplayer_alt"/>
-	<item component="ComponentInfo{alternative.com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity}" drawable="blackplayer_alt"/>
-	<item component="ComponentInfo{alternative.com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity}" drawable="blackplayer_alt"/>
+	<!-- zoom -->
+	<item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
 
 </resources>
