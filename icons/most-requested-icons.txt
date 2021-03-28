@@ -1,11 +1,5 @@
 TOP ICONS:
 -------------------------------------------------------
-Icon: Crunchyroll              Requested: 19
-<item component="ComponentInfo{com.crunchyroll.crunchyroid/com.ellation.crunchyroll.presentation.startup.StartupActivity}" drawable="crunchyroll"/>
--------------------------------------------------------
-Icon: CapCut                   Requested: 19
-<item component="ComponentInfo{com.lemon.lvoverseas/com.vega.launcher.precondition.PreInstallConfirmActivity}" drawable="capcut"/>
--------------------------------------------------------
 Icon: Flo                      Requested: 19
 <item component="ComponentInfo{org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity}" drawable="flo"/>
 -------------------------------------------------------
@@ -107,9 +101,6 @@ Icon: YouTube Go               Requested: 10
 -------------------------------------------------------
 Icon: Gacha Club               Requested: 9
 <item component="ComponentInfo{air.com.lunime.gachaclub/air.com.lunime.gachaclub.AppEntry}" drawable="gacha_club"/>
--------------------------------------------------------
-Icon: Aptoide                  Requested: 9
-<item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.view.MainActivity}" drawable="aptoide"/>
 -------------------------------------------------------
 Icon: SNOW                     Requested: 9
 <item component="ComponentInfo{com.campmobile.snow/com.linecorp.b612.android.activity.ActivityCamera}" drawable="snow"/>

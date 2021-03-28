@@ -6674,7 +6674,10 @@
 	<!--roblox-->
 	<item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox"/>
 
-	<!---blackplayer-->
+	<!-- aptoide -->
+	<item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.view.MainActivity}" drawable="aptoide"/>
+	
+	<!-- blackplayer -->
 	<item component="ComponentInfo{com.kodarkooperativet.blackplayer/com.kodarkooperativet.blackplayer.activities.ViewPagerActivity}" drawable="blackplayer"/>
 	<item component="ComponentInfo{com.kodarkooperativet.blackplayerex/com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity}" drawable="blackplayer"/>
 	<item component="ComponentInfo{com.kodarkooperativet.blackplayerfree/com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity}" drawable="blackplayer"/>
@@ -6682,8 +6685,11 @@
 	<!-- brainly -->
 	<item component="ComponentInfo{co.brainly/com.brainly.StartActivity}" drawable="brainly"/>
 
-	<!-- Bromite -->
+	<!-- bromite -->
 	<item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite"/>
+	
+	<!-- capcut -->
+	<item component="ComponentInfo{com.lemon.lvoverseas/com.vega.launcher.precondition.PreInstallConfirmActivity}" drawable="capcut"/>
 
 	<!-- game space -->
 	<item component="ComponentInfo{com.coloros.gamespaceui/com.coloros.gamespaceui.activity.StartActivity}" drawable="game_space"/>
