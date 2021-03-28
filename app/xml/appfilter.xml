@@ -6691,6 +6691,9 @@
 	<!-- capcut -->
 	<item component="ComponentInfo{com.lemon.lvoverseas/com.vega.launcher.precondition.PreInstallConfirmActivity}" drawable="capcut"/>
 
+	<!-- flo -->
+	<item component="ComponentInfo{org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity}" drawable="flo"/>
+
 	<!-- game space -->
 	<item component="ComponentInfo{com.coloros.gamespaceui/com.coloros.gamespaceui.activity.StartActivity}" drawable="game_space"/>
 	<item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="game_space"/>

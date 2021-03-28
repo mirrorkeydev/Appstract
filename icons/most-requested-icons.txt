@@ -1,8 +1,5 @@
 TOP ICONS:
 -------------------------------------------------------
-Icon: Flo                      Requested: 19
-<item component="ComponentInfo{org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity}" drawable="flo"/>
--------------------------------------------------------
 Icon: InShot                   Requested: 19
 <item component="ComponentInfo{com.camerasideas.instashot/com.camerasideas.instashot.DummyActivity}" drawable="inshot"/>
 -------------------------------------------------------
