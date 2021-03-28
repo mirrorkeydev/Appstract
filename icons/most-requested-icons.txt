@@ -1,8 +1,5 @@
 TOP ICONS:
 -------------------------------------------------------
-Icon: Google Go                Requested: 20
-<item component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" drawable="google_go"/>
--------------------------------------------------------
 Icon: Crunchyroll              Requested: 19
 <item component="ComponentInfo{com.crunchyroll.crunchyroid/com.ellation.crunchyroll.presentation.startup.StartupActivity}" drawable="crunchyroll"/>
 -------------------------------------------------------

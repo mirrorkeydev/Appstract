@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   inkscape:export-filename="/home/fbn/SynologyDrive/Privat/Appstract-Icons/upload/firefox_focus.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="firefox_beta.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 192 192"
+   style="enable-background:new 0 0 192 192;"
+   xml:space="preserve"><title
+   id="title824">firefox_beta</title><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>firefox_beta</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:none;stroke:#666666;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:#90E7C0;}
+	.st4{fill:#6A86D5;}
+	.st5{fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{fill:none;}
+</style>
+<sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1.0"
+   id="base"
+   inkscape:current-layer="svg2"
+   inkscape:cx="106.23071"
+   inkscape:cy="61.286251"
+   inkscape:document-rotation="0"
+   inkscape:document-units="px"
+   inkscape:pageopacity="0.0"
+   inkscape:pageshadow="2"
+   inkscape:window-height="1421"
+   inkscape:window-maximized="1"
+   inkscape:window-width="2498"
+   inkscape:window-x="2617"
+   inkscape:window-y="-5"
+   inkscape:zoom="2.8284272"
+   pagecolor="#ffffff"
+   showgrid="false"
+   showguides="true"
+   units="px">
+	<inkscape:grid
+   id="grid4136"
+   type="xygrid" />
+</sodipodi:namedview>
+<g
+   id="layer1"
+   transform="translate(0,-860.36222)"
+   inkscape:groupmode="layer"
+   inkscape:label="Layer 1"
+   sodipodi:insensitive="true"
+   class="st0"
+   style="display:none">
+	<g
+   id="g5381"
+   transform="translate(0,860.36222)"
+   class="st1"
+   style="display:inline">
+		<rect
+   id="rect4140"
+   x="4.0999999"
+   y="4.0999999"
+   class="st2"
+   width="183.89999"
+   height="183.89999"
+   style="display:inline;fill:none;stroke:#666666;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+	</g>
+</g>
+<path
+   id="path4218"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="ssssss"
+   class="st3"
+   d="M139.2,146.9  c5.4,20.2-32.7,35.3-69.9,25.8C5.2,156.2-3.9,97.9,24.9,83.1c14.7-7.6,28.2-4.6,38.1,7.9c11.2,14,4,23.7,26.5,37.8  C110,141.7,134.1,127.7,139.2,146.9z"
+   inkscape:label="fox"
+   style="fill:#fab875;fill-opacity:1" />
+<circle
+   id="path4221"
+   class="st4"
+   cx="130.8"
+   cy="65.7"
+   r="52.4"
+   inkscape:label="planet"
+   style="fill:#87ded1;fill-opacity:1" />
+<circle
+   id="path5697"
+   class="st5"
+   cx="93.6"
+   cy="100.4"
+   r="56.6"
+   inkscape:label="ring" />
+<rect
+   x="0"
+   y="0"
+   class="st6"
+   width="192"
+   height="192"
+   id="rect12" />
+</svg>

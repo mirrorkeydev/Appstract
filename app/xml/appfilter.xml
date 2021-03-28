@@ -6693,6 +6693,9 @@
 	<!-- brainly -->
 	<item component="ComponentInfo{co.brainly/com.brainly.StartActivity}" drawable="brainly"/>
 
+	<!-- Bromite -->
+	<item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite"/>
+
 	<!-- game space -->
 	<item component="ComponentInfo{com.coloros.gamespaceui/com.coloros.gamespaceui.activity.StartActivity}" drawable="game_space"/>
 	<item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="game_space"/>
@@ -6701,9 +6704,12 @@
 	<!-- google go -->
 	<item component="ComponentInfo{com.google.android.apps.searchlite/com.google.android.apps.searchlite.ui.SearchActivity}" drawable="google_go"/>
 
+	<!-- infinity for reddit -->
+	<item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity_for_reddit"/>
+
 	<!-- last.fm (+ simple scrobbler) -->
-	<item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="last.fm"/>
-	<item component="ComponentInfo{com.adam.aslfms/com.adam.aslfms.SettingsActivity}" drawable="simplescrobbler"/>
+	<item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="last_fm"/>
+	<item component="ComponentInfo{com.adam.aslfms/com.adam.aslfms.SettingsActivity}" drawable="last_fm"/>
 	
 	<!-- shopee -->
 	<item component="ComponentInfo{com.shopee.br/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
