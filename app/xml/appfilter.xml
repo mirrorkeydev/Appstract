@@ -3648,17 +3648,6 @@
 	<!---khan_academy-->
 	<item component="ComponentInfo{org.khanacademy.android/org.khanacademy.android.ui.library.MainActivity}" drawable="khan_academy"/>
 
-	<!---klwp-->
-	<item component="ComponentInfo{org.kustom.wallpaper.pro/org.kustom.pro.MainActivity}" drawable="klwp" />
-	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.editor.WpAdvancedEditorActivity}" drawable="klwp" />
-	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.settings.SettingsActivity}" drawable="klwp" />
-	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.settings.WpSettingsActivity}" drawable="klwp" />
-
-	<!---kwgt-->
-	<item component="ComponentInfo{org.kustom.widget.pro/a.y.z.HZ}" drawable="kwgt" />
-	<item component="ComponentInfo{org.kustom.widget.pro/org.kustom.pro.MainActivity}" drawable="kwgt" />
-	<item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kwgt" />
-
 	<!---yatse-->
 	<item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.StartActivity}" drawable="yatse" />
 
@@ -6706,6 +6695,20 @@
 
 	<!-- infinity for reddit -->
 	<item component="ComponentInfo{ml.docilealligator.infinityforreddit/ml.docilealligator.infinityforreddit.activities.MainActivity}" drawable="infinity_for_reddit"/>
+
+	<!-- klck (kustom) -->
+	<item component="ComponentInfo{org.kustom.lockscreen/org.kustom.app.OnBoardingActivity}" drawable="kustom_klck"/>
+	
+	<!-- klwp (kustom) -->
+	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.app.OnBoardingActivity}" drawable="kustom_klwp"/>
+	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.editor.WpAdvancedEditorActivity}" drawable="kustom_klwp"/>
+	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.settings.SettingsActivity}" drawable="kustom_klwp"/>
+	<item component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.settings.WpSettingsActivity}" drawable="kustom_klwp"/>
+	
+	<!-- kwgt (kustom) -->
+	<item component="ComponentInfo{org.kustom.widget.pro/a.y.z.HZ}" drawable="kustom_kwgt"/>
+	<item component="ComponentInfo{org.kustom.widget.pro/org.kustom.pro.MainActivity}" drawable="kustom_kwgt"/>
+	<item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kustom_kwgt"/>
 
 	<!-- last.fm (+ simple scrobbler) -->
 	<item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="last_fm"/>
