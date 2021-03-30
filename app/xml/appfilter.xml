@@ -3596,9 +3596,6 @@
 	<!---hoyts_cinema-->
 	<item component="ComponentInfo{nz.co.vista.android.movie/nz.co.vista.android.movie.ui.activity.MainActivity}" drawable="hoyts_cinema"/>
 
-	<!---adaway-->
-	<item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
-
 	<!---adw_launcher-->
 	<item component="ComponentInfo{org.adw.launcher/org.adw.launcher.LauncherActivity}" drawable="adw_launcher"/>
 
@@ -3743,11 +3740,6 @@
 
 	<!---cornie_icons-->
 	<item component="ComponentInfo{pl.patrykgoworowski.cornieicons/pl.patrykgoworowski.cornieicons.HomeActivity}" drawable="cornie_icons" />
-
-	<!---solid_explorer-->
-	<item component="ComponentInfo{pl.solidexplorer/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
-	<item component="ComponentInfo{pl.solidexplorer1/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
-	<item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
 
 	<!---minima-->
 	<item component="ComponentInfo{pm.minima.android/pm.minima.android.application.Application_Main}" drawable="minima"/>
@@ -6673,6 +6665,10 @@
 
 	<!--roblox-->
 	<item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox"/>
+	
+	<!-- adaway -->
+	<item component="ComponentInfo{org.adaway/org.adaway.ui.home.HomeActivity}" drawable="adaway"/>
+	<item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
 
 	<!-- aptoide -->
 	<item component="ComponentInfo{cm.aptoide.pt/cm.aptoide.pt.view.MainActivity}" drawable="aptoide"/>
@@ -6729,6 +6725,11 @@
 	<item component="ComponentInfo{com.shopee.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
 	<item component="ComponentInfo{com.shopee.th/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
 
+	<!-- solid explorer -->
+	<item component="ComponentInfo{pl.solidexplorer/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
+	<item component="ComponentInfo{pl.solidexplorer1/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
+	<item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
+	
 	<!-- soundhound -->
 	<item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="soundhound"/>
 
