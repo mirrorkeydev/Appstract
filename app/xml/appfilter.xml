@@ -6684,5 +6684,8 @@
 
 	<!--roblox-->
 	<item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox"/>
+	
+	<!--bearable-->
+	<item component="ComponentInfo{com.bearable/com.bearable.MainActivity}" drawable="bearable" />
 
 </resources>
