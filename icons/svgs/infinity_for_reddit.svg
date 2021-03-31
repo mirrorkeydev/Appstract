@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="infinity_for_reddit.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="D:\ZeusOfTheCrows\My Files\LocalDev\Appstract\icons\appstract-dark\bromite.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>infinity_for_reddit</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2498"
+     inkscape:window-height="1421"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="78.072917"
+     inkscape:cy="46.878606"
+     inkscape:window-x="2617"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#ccc;}.cls-2{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:6px;}</style>
+  </defs>
+  <title
+     id="title6">infinity_for_reddit</title>
+  <path
+     style="opacity:1;fill:#7dcd73;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 147.84268,131.64793 c 0.24577,10.71074 -102.399933,16.34717 -102.921654,0 -3.762075,-117.877592 99.906394,-131.40678915 102.921654,0 z"
+     id="rect874"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sss"
+     inkscape:label="alien" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#070707;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 152.56323,95.451238 c 14.50169,2.8709 23.47117,6.837002 23.47118,11.217832 2e-5,8.76167 -35.87792,15.86441 -80.135591,15.86441 -44.257672,0 -80.135607,-7.10274 -80.13559,-15.86441 8e-6,-4.38083 8.969493,-8.346932 23.471182,-11.217832"
+     id="path877"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssc"
+     inkscape:label="saucer" />
+  <path
+     style="display:inline;fill:none;stroke:#000000;stroke-width:6px;stroke-linecap:round;stroke-linejoin:round"
+     d="m 107.12298,83.285132 c -3.62726,10.483316 -17.902051,10.194576 -23.902193,7e-6"
+     id="line11"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     inkscape:label="smile" />
+</svg>
