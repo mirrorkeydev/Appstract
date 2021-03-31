@@ -18,9 +18,9 @@
         link="http://github.com/aimorris" />
     <contributor
         name="Ewen Le Bihan"
-		contribution="22 icons, including OUI.sncf, Buffer &amp; liO Occitanie"
-		image="https://avatars1.githubusercontent.com/u/39094199"
-		link="https://ewen.works/" />
+        contribution="22 icons, including OUI.sncf, Buffer &amp; liO Occitanie"
+        image="https://avatars1.githubusercontent.com/u/39094199"
+        link="https://ewen.works/" />
     <contributor
         name="Charles Combs"
         contribution="21 icons"
@@ -31,9 +31,13 @@
         contribution="59 icons"
         image="https://avatars2.githubusercontent.com/u/42312300"
         link="https://github.com/The-King-Slayer" />
-    <contributor
+		<contributor
+        name="ZeusOfTheCrows"
+        contribution="16 icons"
+        image="https://avatars2.githubusercontent.com/u/29736148"
+        link="https://github.com/ZeusOfTheCrows" />
+  <contributor
         name="Matilde Ribeira"
         contribution="Bearable"
         link="https://github.com/MatildeRibeira" />
-	
 </resources>

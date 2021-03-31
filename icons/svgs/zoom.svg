@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" id="svg8" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g id="amex">
+    <path style="display:inline;opacity:1;fill:#71a3f7;fill-opacity:1;stroke:none;stroke-opacity:1" id="rect815" d="M 33.218 49.858 H 134.782 A 24 24 0 0 1 158.782 73.858 V 142.141 H 57.218 A 24 24 0 0 1 33.218 118.141 V 49.858 Z" bx:shape="rect 33.218 49.858 125.564 92.283 0 24 0 24 1@708c06d9"/>
+    <path style="fill:none;stroke:#000000;stroke-width:0.96070999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 25.088307,128.54608 5.84527,5.27917 m 5.84527,-5.27917 -5.84527,5.27917" id="path1228" transform="matrix(0,6.2453779,-6.2453779,0,975.96552,-99.022391)"/>
+  </g>
+</svg>
