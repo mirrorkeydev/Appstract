@@ -6666,6 +6666,9 @@
 	<!--roblox-->
 	<item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox"/>
 	
+	<!--bearable-->
+	<item component="ComponentInfo{com.bearable/com.bearable.MainActivity}" drawable="bearable" />
+	
 	<!-- adaway -->
 	<item component="ComponentInfo{org.adaway/org.adaway.ui.home.HomeActivity}" drawable="adaway"/>
 	<item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" />
