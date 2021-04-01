@@ -1,11 +1,5 @@
 TOP ICONS:
 -------------------------------------------------------
-Icon: Lazada                   Requested: 16
-<item component="ComponentInfo{com.lazada.android/com.lazada.activities.EnterActivity}" drawable="lazada"/>
--------------------------------------------------------
-Icon: Galaxy Themes            Requested: 15
-<item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="galaxy_themes"/>
--------------------------------------------------------
 Icon: ShareMe                  Requested: 15
 <item component="ComponentInfo{com.xiaomi.midrop/com.xiaomi.midrop.SplashScreen}" drawable="shareme"/>
 -------------------------------------------------------

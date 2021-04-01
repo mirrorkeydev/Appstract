@@ -6690,6 +6690,9 @@
 	<!-- flo -->
 	<item component="ComponentInfo{org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity}" drawable="flo"/>
 
+	<!-- galaxy themes -->
+	<item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="galaxy_themes"/>
+
 	<!-- game space -->
 	<item component="ComponentInfo{com.coloros.gamespaceui/com.coloros.gamespaceui.activity.StartActivity}" drawable="game_space"/>
 	<item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="game_space"/>
@@ -6718,6 +6721,9 @@
 	<!-- last.fm (+ simple scrobbler) -->
 	<item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="last_fm"/>
 	<item component="ComponentInfo{com.adam.aslfms/com.adam.aslfms.SettingsActivity}" drawable="last_fm"/>
+	
+	<!-- lazada -->
+	<item component="ComponentInfo{com.lazada.android/com.lazada.activities.EnterActivity}" drawable="lazada"/>
 	
 	<!-- shopee -->
 	<item component="ComponentInfo{com.shopee.br/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee"/>
