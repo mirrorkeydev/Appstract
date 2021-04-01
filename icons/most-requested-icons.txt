@@ -1,11 +1,5 @@
 TOP ICONS:
 -------------------------------------------------------
-Icon: InShot                   Requested: 19
-<item component="ComponentInfo{com.camerasideas.instashot/com.camerasideas.instashot.DummyActivity}" drawable="inshot"/>
--------------------------------------------------------
-Icon: ibisPaint X              Requested: 18
-<item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity}" drawable="ibispaint_x"/>
--------------------------------------------------------
 Icon: Lazada                   Requested: 16
 <item component="ComponentInfo{com.lazada.android/com.lazada.activities.EnterActivity}" drawable="lazada"/>
 -------------------------------------------------------
