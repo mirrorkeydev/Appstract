@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <contributor
-        name="CreepyCat225"
-        contribution="ADM, Mobily, Classera, STC, Vidmate, Microsoft-Teams"
-        image="https://avatars2.githubusercontent.com/u/66734989"
-        link="https://github.com/CreepyCat225" />
-    <contributor
-        name="Kaugummiheld"
-        contribution="36 icons"
-        image="https://avatars3.githubusercontent.com/u/61326100"
-        link="https://github.com/Kaugummiheld" />
-    <contributor
-        name="Adam Morris"
-        contribution="Up, Woolworths"
-        image="https://avatars2.githubusercontent.com/u/1687121?s=460"
-        link="http://github.com/aimorris" />
-    <contributor
-        name="Ewen Le Bihan"
-        contribution="22 icons, including OUI.sncf, Buffer &amp; liO Occitanie"
-        image="https://avatars1.githubusercontent.com/u/39094199"
-        link="https://ewen.works/" />
-    <contributor
-        name="Charles Combs"
-        contribution="21 icons"
-        image="https://avatars3.githubusercontent.com/u/75501809"
-        link="https://github.com/shutupayouface" />
-    <contributor
-        name="Aman R. Sharma"
-        contribution="59 icons"
-        image="https://avatars2.githubusercontent.com/u/42312300"
-        link="https://github.com/The-King-Slayer" />
-		<contributor
-        name="ZeusOfTheCrows"
-        contribution="16 icons"
-        image="https://avatars2.githubusercontent.com/u/29736148"
-        link="https://github.com/ZeusOfTheCrows" />
-  <contributor
-        name="Matilde Ribeira"
-        contribution="Bearable"
-        link="https://github.com/MatildeRibeira" />
+	<contributor
+		name="CreepyCat225"
+		contribution="ADM, Mobily, Classera, STC, Vidmate, Microsoft-Teams"
+		image="https://avatars2.githubusercontent.com/u/66734989"
+		link="https://github.com/CreepyCat225" />
+	<contributor
+		name="Kaugummiheld"
+		contribution="36 icons"
+		image="https://avatars3.githubusercontent.com/u/61326100"
+		link="https://github.com/Kaugummiheld" />
+	<contributor
+		name="Adam Morris"
+		contribution="Up, Woolworths"
+		image="https://avatars2.githubusercontent.com/u/1687121?s=460"
+		link="http://github.com/aimorris" />
+	<contributor
+		name="Ewen Le Bihan"
+		contribution="22 icons, including OUI.sncf, Buffer &amp; liO Occitanie"
+		image="https://avatars1.githubusercontent.com/u/39094199"
+		link="https://ewen.works/" />
+	<contributor
+		name="Charles Combs"
+		contribution="21 icons"
+		image="https://avatars3.githubusercontent.com/u/75501809"
+		link="https://github.com/shutupayouface" />
+	<contributor
+		name="Aman R. Sharma"
+		contribution="59 icons"
+		image="https://avatars2.githubusercontent.com/u/42312300"
+		link="https://github.com/The-King-Slayer" />
+	<contributor
+		name="ZeusOfTheCrows"
+		contribution="~22 icons"
+		image="https://avatars2.githubusercontent.com/u/29736148"
+		link="https://github.com/ZeusOfTheCrows" />
+	<contributor
+		name="Matilde Ribeira"
+		contribution="Bearable"
+		link="https://github.com/MatildeRibeira" />
 </resources>
