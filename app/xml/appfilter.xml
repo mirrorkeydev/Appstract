@@ -6745,4 +6745,18 @@
 	<!-- zoom -->
 	<item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
 
+	<!-- picPay -->
+	<item component="ComponentInfo{com.picpay/com.picpay.features.enter.ReleasePicPayEnter}" drawable="picpay" />
+
+	<!-- neon -->
+	<item component="ComponentInfo{br.com.neon/br.com.neon.features.login.ui.activities.HomeOnboardingActivity}" drawable="neon" />
+
+	<!-- nubank -->
+	<item component="ComponentInfo{com.nu.production/br.com.nubank.shell.screens.splash.SplashActivity}" drawable="nubank" />
+
+	<!-- seriesFad -->
+	<item component="ComponentInfo{fema.serietv2/com.femastudios.android.seriesfad.MainActivity}" drawable="seriesfad" />
+
+	<!-- spark -->
+	<item component="ComponentInfo{com.readdle.spark/com.readdle.spark.ui.MainActivity}" drawable="spark" />
 </resources>
