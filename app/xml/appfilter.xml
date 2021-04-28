@@ -6753,6 +6753,6 @@
 	<item component="ComponentInfo{com.android.samsung.utilityapp/com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity}" drawable="galaxy_labs"/>
 	
 	<!-- roborock -->
-	<item component="com.roborock.smart/com.roborock.smart.activity.SplashActivity}" drawable="galaxy_labs"/>
+	<item component="com.roborock.smart/com.roborock.smart.activity.SplashActivity}" drawable="roborock"/>
 	
 </resources>
