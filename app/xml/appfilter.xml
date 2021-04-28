@@ -1839,6 +1839,7 @@
 
 	<!---grab-->
 	<item component="ComponentInfo{com.grabtaxi.passenger/com.myteksi.passenger.splash.SplashActivity}" drawable="grab" />
+	<item component="ComponentInfo{com.grabtaxi.passenger/com.grab.pax.newface.presentation.newface.NewFace}" drawable="grab" />
 
 	<!---kernel_adiutor-->
 	<item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.activities.StartActivity-Material}" drawable="kernel_adiutor"/>
@@ -6745,4 +6746,13 @@
 	<!-- zoom -->
 	<item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom"/>
 
+	<!-- viu -->
+	<item component="ComponentInfo{com.viu.phone/com.viu.phone.ui.activity.WelcomeActivity}" drawable="viu"/>
+
+	<!-- galaxy_labs-->
+	<item component="ComponentInfo{com.android.samsung.utilityapp/com.android.samsung.utilityapp.app.presentation.welcomepage.WelcomeActivity}" drawable="galaxy_labs"/>
+	
+	<!-- roborock -->
+	<item component="com.roborock.smart/com.roborock.smart.activity.SplashActivity}" drawable="galaxy_labs"/>
+	
 </resources>
