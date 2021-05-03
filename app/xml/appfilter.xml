@@ -6755,4 +6755,28 @@
 	<!-- roborock -->
 	<item component="com.roborock.smart/com.roborock.smart.activity.SplashActivity}" drawable="roborock"/>
 	
+	<!-- picPay -->
+	<item component="ComponentInfo{com.picpay/com.picpay.features.enter.ReleasePicPayEnter}" drawable="picpay" />
+
+	<!-- neon -->
+	<item component="ComponentInfo{br.com.neon/br.com.neon.features.login.ui.activities.HomeOnboardingActivity}" drawable="neon" />
+
+	<!-- nubank -->
+	<item component="ComponentInfo{com.nu.production/br.com.nubank.shell.screens.splash.SplashActivity}" drawable="nubank" />
+
+	<!-- seriesFad -->
+	<item component="ComponentInfo{fema.serietv2/com.femastudios.android.seriesfad.MainActivity}" drawable="seriesfad" />
+
+	<!-- spark -->
+	<item component="ComponentInfo{com.readdle.spark/com.readdle.spark.ui.MainActivity}" drawable="spark" />
+
+	<!-- mercado pago -->
+	<item component="ComponentInfo{com.mercadopago.wallet/com.mercadopago.wallet.AccountSummaryActivity}" drawable="mercado_pago"/>
+
+	<!-- meu pag -->
+	<item component="ComponentInfo{br.com.meupag/br.com.avista.avista.telas.SplashScreenActivity}" drawable="meu_pag" />
+
+	<!-- github -->
+	<item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github"/>
+
 </resources>
