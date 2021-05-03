@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 50.8 50.8">
+<metadata>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+</metadata>
+<defs/>
+<g id="layer1" vectornator:layerName="layer1">
+<path d="M8.34156+9.56738L42.4584+9.56738L42.4584+9.56738L42.4584+41.2326L42.4584+41.2326L8.34156+41.2326L8.34156+41.2326L8.34156+9.56738L8.34156+9.56738Z" opacity="0.996" fill="#8ad2f0"/>
+<path stroke="#000000" stroke-width="1.5875" d="M46.565+34.3153C45.2178+34.203+43.727+34.1346+42.1276+34.1329C32.2444+34.1225+18.2178+36.661+8.34934+47.163C18.639+38.6806+21.9242+17.0452+20.6075+5.69487C22.8385+22.3228+34.2145+32.4303+46.565+34.3153Z" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+</svg>
