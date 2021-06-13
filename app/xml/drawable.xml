@@ -4,6 +4,7 @@
 
 	<item drawable ="accu_weather" />
 	<item drawable ="acorns" />
+	<item drawable ="adaway" />
 	<item drawable ="adm" />
 	<item drawable ="adobe_acrobat" />
 	<item drawable ="adobe_capture" />
@@ -14,6 +15,7 @@
 	<item drawable ="adobe_lightroom" />
 	<item drawable ="adobe_photoshop_express" />
 	<item drawable ="adobe_photoshop_sketch" />
+	<item drawable ="adobe_scan" />
 	<item drawable ="adobe_spark_post" />
 	<item drawable ="adobe_xd" />
 	<item drawable ="aib_mobile" />
@@ -37,6 +39,7 @@
 	<item drawable ="apex_launcher" />
 	<item drawable ="apple_music" />
 	<item drawable ="app_logo" />
+	<item drawable ="aptoide" />
 	<item drawable ="asana" />
 	<item drawable ="asphalt_9" />
 	<item drawable ="atomas" />
@@ -46,6 +49,7 @@
 	<item drawable ="bank_of_america" />
 	<item drawable ="barcode_scanner" />
 	<item drawable ="basecamp" />
+	<item drawable ="bearable" />
 	<item drawable ="behance" />
 	<item drawable ="bhim" />
 	<item drawable ="bigcommerce" />
@@ -61,12 +65,15 @@
 	<item drawable ="blackberry_hub_services" />
 	<item drawable ="blackberry_hub_tasks" />
 	<item drawable ="blackberry_password_keeper" />
+	<item drawable ="blackplayer" />
 	<item drawable ="blinkist" />
 	<item drawable ="book_my_show" />
 	<item drawable ="boomerang_instagram" />
 	<item drawable ="bose_connect" />
+	<item drawable ="brainly" />
 	<item drawable ="brawl_stars" />
 	<item drawable ="bring" />
+	<item drawable ="bromite" />
 	<item drawable ="browser" />
 	<item drawable ="buffer" />
 	<item drawable ="burger_king" />
@@ -84,6 +91,7 @@
 	<item drawable ="candy_crush" />
 	<item drawable ="canva" />
 	<item drawable ="canvas" />
+	<item drawable ="capcut" />
 	<item drawable ="carbon_mtg" />
 	<item drawable ="carddav_sync" />
 	<item drawable ="castbox" />
@@ -152,6 +160,7 @@
 	<item drawable ="filemanager" />
 	<item drawable ="filmora_go" />
 	<item drawable ="firefox" />
+	<item drawable ="firefox_beta" />
 	<item drawable ="firefox_focus" />
 	<item drawable ="firefox_lite" />
 	<item drawable ="firefox_nightly" />
@@ -165,6 +174,7 @@
 	<item drawable ="flickr" />
 	<item drawable ="flipboard" />
 	<item drawable ="flipkart" />
+	<item drawable ="flo" />
 	<item drawable ="fl_mobile" />
 	<item drawable ="fm_radio" />
 	<item drawable ="food_panda" />
@@ -173,8 +183,22 @@
 	<item drawable ="free_fire" />
 	<item drawable ="f_watch" />
 	<item drawable ="gaana" />
+	<item drawable ="galaxy_labs" />
+	<item drawable ="galaxy_themes" />
+	<item drawable ="galaxy_themes_alt" />
 	<item drawable ="gallery" />
+	<item drawable ="game_space" />
+	<item drawable ="generic_bank_eu" />
+	<item drawable ="generic_bank_uk" />
+	<item drawable ="generic_battery_empty" />
+	<item drawable ="generic_battery_full" />
+	<item drawable ="generic_battery_half" />
+	<item drawable ="generic_cell" />
+	<item drawable ="generic_wifi_1" />
+	<item drawable ="generic_wifi_2" />
+	<item drawable ="generic_wifi_3" />
 	<item drawable ="geocaching" />
+	<item drawable ="github" />
 	<item drawable ="gmail" />
 	<item drawable ="goodreads" />
 	<item drawable ="google" />
@@ -187,6 +211,7 @@
 	<item drawable ="google_earth" />
 	<item drawable ="google_files" />
 	<item drawable ="google_fit" />
+	<item drawable ="google_go" />
 	<item drawable ="google_keep" />
 	<item drawable ="google_lens" />
 	<item drawable ="google_one" />
@@ -198,6 +223,7 @@
 	<item drawable ="google_slides" />
 	<item drawable ="google_tasks" />
 	<item drawable ="google_translate" />
+	<item drawable ="grab" />
 	<item drawable ="grindr" />
 	<item drawable ="groupme" />
 	<item drawable ="groupon" />
@@ -217,6 +243,7 @@
 	<item drawable ="inbox" />
 	<item drawable ="infinite_design" />
 	<item drawable ="infinite_painter" />
+	<item drawable ="infinity_for_reddit" />
 	<item drawable ="inshorts" />
 	<item drawable ="inshot" />
 	<item drawable ="instagram" />
@@ -235,9 +262,14 @@
 	<item drawable ="kindle" />
 	<item drawable ="kinemaster" />
 	<item drawable ="kiwi_browser" />
+	<item drawable ="kustom_klck" />
+	<item drawable ="kustom_klwp" />
+	<item drawable ="kustom_kwgt" />
+	<item drawable ="last_fm" />
 	<item drawable ="last_pass" />
 	<item drawable ="last_pass_authenticator" />
 	<item drawable ="lawnchair" />
+	<item drawable ="lazada" />
 	<item drawable ="libby" />
 	<item drawable ="lieferando" />
 	<item drawable ="life_360" />
@@ -261,7 +293,9 @@
 	<item drawable ="mega" />
 	<item drawable ="memos" />
 	<item drawable ="mercado_libre" />
+	<item drawable ="mercado_pago" />
 	<item drawable ="messages" />
+	<item drawable ="meu_pag" />
 	<item drawable ="microsoft_excel" />
 	<item drawable ="microsoft_news" />
 	<item drawable ="microsoft_office" />
@@ -286,6 +320,7 @@
 	<item drawable ="my_fitness_pal" />
 	<item drawable ="natural_scientific_calculator" />
 	<item drawable ="naver" />
+	<item drawable ="neon" />
 	<item drawable ="netflix" />
 	<item drawable ="newpipe" />
 	<item drawable ="nextdoor" />
@@ -294,6 +329,7 @@
 	<item drawable ="nordvpn" />
 	<item drawable ="notion" />
 	<item drawable ="nova" />
+	<item drawable ="nubank" />
 	<item drawable ="oculus" />
 	<item drawable ="oeffi_directions" />
 	<item drawable ="oeffi_plans" />
@@ -322,7 +358,9 @@
 	<item drawable ="phone2" />
 	<item drawable ="phonepe" />
 	<item drawable ="phototan" />
+	<item drawable ="picpay" />
 	<item drawable ="picsart" />
+	<item drawable ="piktures" />
 	<item drawable ="pinterest" />
 	<item drawable ="pixlr" />
 	<item drawable ="play_books" />
@@ -349,6 +387,7 @@
 	<item drawable ="remini" />
 	<item drawable ="retrica" />
 	<item drawable ="roblox" />
+	<item drawable ="roborock" />
 	<item drawable ="rocketbook" />
 	<item drawable ="rocket_chat" />
 	<item drawable ="roku" />
@@ -359,11 +398,13 @@
 	<item drawable ="securego" />
 	<item drawable ="security" />
 	<item drawable ="sensors_multitool" />
+	<item drawable ="seriesfad" />
 	<item drawable ="sesame" />
 	<item drawable ="settings" />
 	<item drawable ="seven_mind" />
 	<item drawable ="share_it" />
 	<item drawable ="shazam" />
+	<item drawable ="shopee" />
 	<item drawable ="signal" />
 	<item drawable ="skwrt" />
 	<item drawable ="skype" />
@@ -374,10 +415,13 @@
 	<item drawable ="snapchat" />
 	<item drawable ="snapseed" />
 	<item drawable ="societe_generale" />
+	<item drawable ="solid_explorer" />
 	<item drawable ="sonos" />
 	<item drawable ="soundcloud" />
+	<item drawable ="soundhound" />
 	<item drawable ="sound_recorder" />
 	<item drawable ="spardabank" />
+	<item drawable ="spark" />
 	<item drawable ="spotify" />
 	<item drawable ="square_cash" />
 	<item drawable ="starbucks" />
@@ -426,6 +470,7 @@
 	<item drawable ="viki" />
 	<item drawable ="vikingnation" />
 	<item drawable ="vine" />
+	<item drawable ="viu" />
 	<item drawable ="vlc" />
 	<item drawable ="vodafone" />
 	<item drawable ="vsco_cam" />
@@ -456,6 +501,7 @@
 	<item drawable ="zoom" />
 
 	<category title ="red" />
+	<item drawable="adaway" />
 	<item drawable="adobe_acrobat" />
 	<item drawable="adobe_creative_cloud" />
 	<item drawable="adobe_spark_post" />
@@ -485,8 +531,11 @@
 	<item drawable="espn" />
 	<item drawable="fight_club" />
 	<item drawable="flipboard" />
+	<item drawable="flo" />
 	<item drawable="food_panda" />
 	<item drawable="gaana" />
+	<item drawable="galaxy_themes" />
+	<item drawable="galaxy_themes_alt" />
 	<item drawable="gmail" />
 	<item drawable="google_fit" />
 	<item drawable="google_one" />
@@ -497,6 +546,8 @@
 	<item drawable="instagram" />
 	<item drawable="ipsy" />
 	<item drawable="kinemaster" />
+	<item drawable="kustom_klwp" />
+	<item drawable="last_fm" />
 	<item drawable="last_pass" />
 	<item drawable="last_pass_authenticator" />
 	<item drawable="life_360" />
@@ -519,8 +570,10 @@
 	<item drawable="remini" />
 	<item drawable="retrica" />
 	<item drawable="roblox" />
+	<item drawable="roborock" />
 	<item drawable="rocket_chat" />
 	<item drawable="scanpro" />
+	<item drawable="seriesfad" />
 	<item drawable="sound_recorder" />
 	<item drawable="target" />
 	<item drawable="udemy" />
@@ -540,6 +593,7 @@
 	<category title ="orange" />
 	<item drawable="accu_weather" />
 	<item drawable="adobe_illustrator_draw" />
+	<item drawable="aptoide" />
 	<item drawable="autodesk_sketchbook" />
 	<item drawable="canvas" />
 	<item drawable="castbox" />
@@ -554,6 +608,8 @@
 	<item drawable="idm_plus" />
 	<item drawable="ivoox" />
 	<item drawable="jabong" />
+	<item drawable="kustom_klck" />
+	<item drawable="lazada" />
 	<item drawable="lieferando" />
 	<item drawable="lose_it" />
 	<item drawable="microsoft_office" />
@@ -564,8 +620,10 @@
 	<item drawable="phototan" />
 	<item drawable="podcast_addict" />
 	<item drawable="reddit" />
+	<item drawable="shopee" />
 	<item drawable="sleep_cycle" />
 	<item drawable="soundcloud" />
+	<item drawable="soundhound" />
 	<item drawable="swiggy" />
 	<item drawable="tinder" />
 	<item drawable="up" />
@@ -588,6 +646,9 @@
 	<item drawable="filemanager" />
 	<item drawable="flashlight" />
 	<item drawable="flipkart" />
+	<item drawable="galaxy_labs" />
+	<item drawable="generic_bank_eu" />
+	<item drawable="generic_bank_uk" />
 	<item drawable="goodreads" />
 	<item drawable="google_keep" />
 	<item drawable="google_slides" />
@@ -620,7 +681,10 @@
 	<item drawable="app_logo" />
 	<item drawable="bitmoji" />
 	<item drawable="blinkist" />
+	<item drawable="brainly" />
+	<item drawable="bromite" />
 	<item drawable="browser" />
+	<item drawable="capcut" />
 	<item drawable="cyclingoo" />
 	<item drawable="davx" />
 	<item drawable="desmos" />
@@ -632,14 +696,22 @@
 	<item drawable="everdo" />
 	<item drawable="evernote" />
 	<item drawable="feed_me" />
+	<item drawable="generic_battery_empty" />
+	<item drawable="generic_battery_full" />
+	<item drawable="generic_battery_half" />
+	<item drawable="generic_wifi_1" />
+	<item drawable="generic_wifi_2" />
+	<item drawable="generic_wifi_3" />
 	<item drawable="geocaching" />
 	<item drawable="google_classroom" />
 	<item drawable="google_sheets" />
+	<item drawable="grab" />
 	<item drawable="groupon" />
 	<item drawable="hangouts" />
 	<item drawable="hotstar" />
 	<item drawable="hulu" />
 	<item drawable="ic_splash_screen" />
+	<item drawable="infinity_for_reddit" />
 	<item drawable="journey_planner" />
 	<item drawable="keepassdx" />
 	<item drawable="khan_academy" />
@@ -651,6 +723,8 @@
 	<item drawable="nextdoor" />
 	<item drawable="pagerduty" />
 	<item drawable="parkmobile" />
+	<item drawable="picpay" />
+	<item drawable="piktures" />
 	<item drawable="play_games" />
 	<item drawable="pocketcamp" />
 	<item drawable="puffin_browser" />
@@ -671,6 +745,7 @@
 	<item drawable="adobe_lightroom" />
 	<item drawable="adobe_photoshop_express" />
 	<item drawable="adobe_photoshop_sketch" />
+	<item drawable="adobe_scan" />
 	<item drawable="alexa" />
 	<item drawable="amaze_filemanager" />
 	<item drawable="amazon_drive" />
@@ -682,6 +757,7 @@
 	<item drawable="antennapod" />
 	<item drawable="apex_launcher" />
 	<item drawable="automa_tag" />
+	<item drawable="bearable" />
 	<item drawable="bigcommerce" />
 	<item drawable="bing" />
 	<item drawable="bitwarden" />
@@ -692,6 +768,7 @@
 	<item drawable="blackberry_hub_notes" />
 	<item drawable="blackberry_hub_services" />
 	<item drawable="blackberry_hub_tasks" />
+	<item drawable="blackplayer" />
 	<item drawable="bring" />
 	<item drawable="calendar" />
 	<item drawable="camera_mx" />
@@ -720,9 +797,11 @@
 	<item drawable="fitbit" />
 	<item drawable="flashcards" />
 	<item drawable="fourdpa" />
+	<item drawable="generic_cell" />
 	<item drawable="google" />
 	<item drawable="google_docs" />
 	<item drawable="google_earth" />
+	<item drawable="google_go" />
 	<item drawable="google_opinion_rewards" />
 	<item drawable="google_tasks" />
 	<item drawable="google_translate" />
@@ -736,10 +815,13 @@
 	<item drawable="joey" />
 	<item drawable="kindle" />
 	<item drawable="kiwi_browser" />
+	<item drawable="kustom_kwgt" />
 	<item drawable="linked_in" />
 	<item drawable="magisk" />
 	<item drawable="mail" />
+	<item drawable="mercado_pago" />
 	<item drawable="messages" />
+	<item drawable="meu_pag" />
 	<item drawable="microsoft_outlook" />
 	<item drawable="microsoft_word" />
 	<item drawable="mobily" />
@@ -747,6 +829,7 @@
 	<item drawable="mx_player" />
 	<item drawable="my_fitness_pal" />
 	<item drawable="natural_scientific_calculator" />
+	<item drawable="neon" />
 	<item drawable="nordvpn" />
 	<item drawable="one_password" />
 	<item drawable="opentasks" />
@@ -769,6 +852,8 @@
 	<item drawable="skype" />
 	<item drawable="sky_scanner" />
 	<item drawable="smart_launcher" />
+	<item drawable="solid_explorer" />
+	<item drawable="spark" />
 	<item drawable="steam" />
 	<item drawable="strong" />
 	<item drawable="substratum" />
@@ -809,6 +894,7 @@
 	<item drawable="microsoft_one_note" />
 	<item drawable="microsoft_teams" />
 	<item drawable="mystc" />
+	<item drawable="nubank" />
 	<item drawable="opera_touch" />
 	<item drawable="phonepe" />
 	<item drawable="play_newsstand" />
@@ -829,6 +915,7 @@
 	<item drawable="camera2" />
 	<item drawable="fielmann" />
 	<item drawable="five_hundred_px" />
+	<item drawable="github" />
 	<item drawable="google_authenticator" />
 	<item drawable="google_camera" />
 	<item drawable="gsm_arena" />
@@ -874,6 +961,7 @@
 	<item drawable="fdroid" />
 	<item drawable="filmora_go" />
 	<item drawable="firefox" />
+	<item drawable="firefox_beta" />
 	<item drawable="firefox_focus" />
 	<item drawable="firefox_lite" />
 	<item drawable="firefox_nightly" />
@@ -881,6 +969,7 @@
 	<item drawable="fl_mobile" />
 	<item drawable="forest" />
 	<item drawable="gallery" />
+	<item drawable="game_space" />
 	<item drawable="google_assistant" />
 	<item drawable="google_drive" />
 	<item drawable="google_files" />
@@ -920,6 +1009,7 @@
 	<item drawable="sync" />
 	<item drawable="uber_eats" />
 	<item drawable="vikingnation" />
+	<item drawable="viu" />
 	<item drawable="wellsfargo" />
 	<item drawable="workday" />
 </resources>
