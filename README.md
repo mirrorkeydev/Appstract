@@ -37,8 +37,8 @@ Fourth major release. Ported to the maintained fork of CandyBar [here](https://g
 #### V4.0.4 March 2021
 Added more contributor icons. Added "old" icon versions so users can manually apply them.
 
-#### Planned June 2021
-Bump version of CandyBar and clean up assets. More icons 🤞
+#### V4.0.5 June 2021
+Bump version of CandyBar. Add more icons.
 
 # License
 All work in this repository is licensed under Apache 2.0.
