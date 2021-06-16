@@ -6782,4 +6782,7 @@
 	<!-- github -->
 	<item component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}" drawable="github"/>
 
+	<!-- google_chat -->
+	<item component="ComponentInfo{com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity}" drawable="google_chat"/>
+
 </resources>
