@@ -5860,6 +5860,7 @@
 	<item component="ComponentInfo{com.mcdo.mcdonalds/com.gigigo.mcdonaldsbr.modules.splash.SplashActivity}" drawable="mcdonalds"/>
 	<item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds"/>
 	<item component="ComponentInfo{com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity.White}" drawable="mcdonalds"/>
+	<item component="ComponentInfo{com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity}" drawable="mcdonalds" />
 
 	<!---moodpath-->
 	<item component="ComponentInfo{de.moodpath.android/de.moodpath.android.feature.main.presentation.MainActivity}" drawable="moodpath" />
