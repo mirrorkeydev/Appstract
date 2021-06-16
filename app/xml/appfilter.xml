@@ -6540,6 +6540,7 @@
 	<item component="ComponentInfo{com.dominospizza/com.dominos.activities.InitialLaunchActivity}" drawable="dominos" />
 	<item component="ComponentInfo{uk.co.dominos.android/com.futureplatforms.dominos.android.activities.KickOffActivity}" drawable="dominos"/>
 	<item component="ComponentInfo{com.Dominos/com.Dominos.activity.SplashActivity}" drawable="dominos"/>
+	<item component="ComponentInfo{no.DominosNorway.app/host.exp.exponent.MainActivity}" drawable="dominos"/>
 
 	<!-- duolingo -->
 	<item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo" />
