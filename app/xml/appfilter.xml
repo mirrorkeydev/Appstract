@@ -3594,6 +3594,9 @@
 	<!---vipps-->
 	<item component="ComponentInfo{no.dnb.vipps/com.dnb.vipps.ui.activities.SplashActivity}" drawable="vipps" />
 
+	<!---vipps2-->
+	<item component="ComponentInfo{no.dnb.vipps/com.dnb.vipps.ui.activities.SplashActivity}" drawable="vipps2" />
+
 	<!---hoyts_cinema-->
 	<item component="ComponentInfo{nz.co.vista.android.movie/nz.co.vista.android.movie.ui.activity.MainActivity}" drawable="hoyts_cinema"/>
 
