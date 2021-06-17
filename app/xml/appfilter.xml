@@ -6785,4 +6785,7 @@
 	<!-- google_chat -->
 	<item component="ComponentInfo{com.google.android.apps.dynamite/com.google.android.apps.dynamite.startup.StartUpActivity}" drawable="google_chat"/>
 
+	<!-- your_phone_companion -->
+	<item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="your_phone_companion"/>
+
 </resources>
