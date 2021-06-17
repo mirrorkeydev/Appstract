@@ -6794,4 +6794,10 @@
 	<!-- your_phone_companion -->
 	<item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="your_phone_companion"/>
 
+	<!-- ruter_billett -->
+	<item component="ComponentInfo{no.ruter.mobile/no.ruter.mobile.activity.SplashActivity}" drawable="ruter_billett"/>
+
+	<!-- ruter_reise -->
+	<item component="ComponentInfo{no.ruter.reise/no.ruter.reise.ui.activity.MainActivity}" drawable="ruter_reise"/>
+
 </resources>
