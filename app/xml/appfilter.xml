@@ -5516,6 +5516,9 @@
 	<!---chewy-->
 	<item component="ComponentInfo{com.chewy.android/com.chewy.android.sections.main.MainActivity}" drawable="chewy" />
 
+	<!-- adidas -->
+	<item component="ComponentInfo{com.adidas.app/com.adidas.intro.IntroActivity}" drawable="adidas"/>
+
 	<!---adidas_confirmed-->
 	<item component="ComponentInfo{com.gpshopper.adidas/com.adidas.confirmed.MainActivity}" drawable="adidas_confirmed" />
 
