@@ -6827,6 +6827,9 @@
 	<!-- infinitode -->
 	<item component="ComponentInfo{com.prineside.tdi/com.prineside.tdi.AndroidLauncher}" drawable="infinitode"/>
 
+	<!-- infinitode2 -->
+	<item component="ComponentInfo{com.prineside.tdi2/com.prineside.tdi2.AndroidLauncher}" drawable="infinitode2"/>
+
 
 
 </resources>
