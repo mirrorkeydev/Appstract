@@ -6818,4 +6818,9 @@
 	<!-- vg_alt -->
 	<item component="ComponentInfo{com.agens.android.vgsnarvei/com.schibsted.publishing.hermes.new_ui.MainActivity}" drawable="vg_alt"/>
 
+	<!-- cartogram -->
+	<item component="ComponentInfo{com.round_tower.app.android.wallpaper.cartogram/com.round_tower.cartogram.ui.map.MainActivity}" drawable="cartogram"/>
+
+	
+
 </resources>
