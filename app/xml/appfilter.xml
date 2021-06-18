@@ -6809,4 +6809,7 @@
 	<!-- klarna -->
 	<item component="ComponentInfo{com.myklarnamobile/com.myklarnamobile.SplashActivity}" drawable="klarna"/>
 
+	<!-- telenor -->
+	<item component="ComponentInfo{no.telenor.faktura/no.telenor.faktura.ui.DispatcherActivity}" drawable="telenor"/>
+
 </resources>
