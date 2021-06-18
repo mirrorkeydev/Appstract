@@ -6824,6 +6824,9 @@
 	<!-- discovery_plus -->
 	<item component="ComponentInfo{com.discovery.dplay/com.discovery.app.LaunchActivity}" drawable="discovery_plus"/>
 
+	<!-- infinitode -->
+	<item component="ComponentInfo{com.prineside.tdi/com.prineside.tdi.AndroidLauncher}" drawable="infinitode"/>
+
 
 
 </resources>
