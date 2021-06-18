@@ -6806,4 +6806,7 @@
 	<!-- finn_no -->
 	<item component="ComponentInfo{no.finn.android/no.finn.android.ui.homepage.HomeActivity}" drawable="finn_no"/>
 
+	<!-- klarna -->
+	<item component="ComponentInfo{com.myklarnamobile/com.myklarnamobile.SplashActivity}" drawable="klarna"/>
+
 </resources>
