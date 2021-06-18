@@ -6812,4 +6812,10 @@
 	<!-- telenor -->
 	<item component="ComponentInfo{no.telenor.faktura/no.telenor.faktura.ui.DispatcherActivity}" drawable="telenor"/>
 
+	<!-- vg -->
+	<item component="ComponentInfo{com.agens.android.vgsnarvei/com.schibsted.publishing.hermes.new_ui.MainActivity}" drawable="vg"/>
+
+	<!-- vg_alt -->
+	<item component="ComponentInfo{com.agens.android.vgsnarvei/com.schibsted.publishing.hermes.new_ui.MainActivity}" drawable="vg_alt"/>
+
 </resources>
