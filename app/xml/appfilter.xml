@@ -3594,8 +3594,8 @@
 	<!---vipps-->
 	<item component="ComponentInfo{no.dnb.vipps/com.dnb.vipps.ui.activities.SplashActivity}" drawable="vipps" />
 
-	<!---vipps2-->
-	<item component="ComponentInfo{no.dnb.vipps/com.dnb.vipps.ui.activities.SplashActivity}" drawable="vipps2" />
+	<!--- vipps_alt -->
+	<item component="ComponentInfo{no.dnb.vipps/com.dnb.vipps.ui.activities.SplashActivity}" drawable="vipps_alt" />
 
 	<!---hoyts_cinema-->
 	<item component="ComponentInfo{nz.co.vista.android.movie/nz.co.vista.android.movie.ui.activity.MainActivity}" drawable="hoyts_cinema"/>
@@ -6799,5 +6799,8 @@
 
 	<!-- ruter_reise -->
 	<item component="ComponentInfo{no.ruter.reise/no.ruter.reise.ui.activity.MainActivity}" drawable="ruter_reise"/>
+
+	<!-- another_widget -->
+	<item component="ComponentInfo{com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity}" drawable="another_widget"/>
 
 </resources>
