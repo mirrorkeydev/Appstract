@@ -6830,6 +6830,9 @@
 	<!-- infinitode2 -->
 	<item component="ComponentInfo{com.prineside.tdi2/com.prineside.tdi2.AndroidLauncher}" drawable="infinitode2"/>
 
+	<!-- kasa_home -->
+	<item component="ComponentInfo{com.tplink.kasa_android/com.tplink.hellotp.activity.SplashscreenActivity}" drawable="kasa_home"/>
+
 
 
 </resources>
