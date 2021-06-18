@@ -6803,4 +6803,7 @@
 	<!-- another_widget -->
 	<item component="ComponentInfo{com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activities.MainActivity}" drawable="another_widget"/>
 
+	<!-- finn_no -->
+	<item component="ComponentInfo{no.finn.android/no.finn.android.ui.homepage.HomeActivity}" drawable="finn_no"/>
+
 </resources>
