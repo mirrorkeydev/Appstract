@@ -6833,6 +6833,9 @@
 	<!-- kasa_home -->
 	<item component="ComponentInfo{com.tplink.kasa_android/com.tplink.hellotp.activity.SplashscreenActivity}" drawable="kasa_home"/>
 
+	<!-- viafree -->
+	<item component="ComponentInfo{no.viafree.android/com.viafree.android.SplashActivity}" drawable="viafree"/>
+
 
 
 </resources>
