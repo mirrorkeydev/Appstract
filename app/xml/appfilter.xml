@@ -6821,6 +6821,9 @@
 	<!-- cartogram -->
 	<item component="ComponentInfo{com.round_tower.app.android.wallpaper.cartogram/com.round_tower.cartogram.ui.map.MainActivity}" drawable="cartogram"/>
 
-	
+	<!-- discovery_plus -->
+	<item component="ComponentInfo{com.discovery.dplay/com.discovery.app.LaunchActivity}" drawable="discovery_plus"/>
+
+
 
 </resources>
