@@ -6849,4 +6849,6 @@
 	<!-- meny -->
 	<item component="ComponentInfo{no.norgesgruppen.apps.meny/no.norgesgruppen.apps.meny.Activities.MainActivity}" drawable="meny"/>
 
+	<!-- mr_porter -->
+	<item component="ComponentInfo{com.mrp/com.nap.android.apps.ui.activity.BootstrapActivity}" drawable="mr_porter"/>
 </resources>
