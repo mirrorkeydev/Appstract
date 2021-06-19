@@ -6855,4 +6855,7 @@
 	<!-- pricespy_prisjakt -->
 	<item component="ComponentInfo{se.prisjakt.pricespy/se.prisjakt.pricespy.activity.IndexActivity}" drawable="pricespy_prisjakt"/>
 
+	<!-- rikstv -->
+	<item component="ComponentInfo{no.rikstv.app/no.rikstv.app.MainActivity}" drawable="rikstv"/>
+
 </resources>
