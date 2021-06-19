@@ -6858,4 +6858,7 @@
 	<!-- rikstv -->
 	<item component="ComponentInfo{no.rikstv.app/no.rikstv.app.MainActivity}" drawable="rikstv"/>
 
+	<!-- ruler -->
+	<item component="ComponentInfo{fr.ecp.ruler.app/com.xalphalab.rulerlib.MainActivity}" drawable="ruler"/>
+
 </resources>
