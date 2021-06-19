@@ -1,5 +1,5 @@
 <h2 align="center">
-⚠️ Attention: Appstract is in "no-merges" mode until September 4th, 2021. ⚠️
+⚠️ Attention: Appstract is in "no-merges" mode until 9/4/2021 ⚠️
 </h2>
 
 <p align="center">
