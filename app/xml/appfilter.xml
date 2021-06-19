@@ -6861,4 +6861,7 @@
 	<!-- ruler -->
 	<item component="ComponentInfo{fr.ecp.ruler.app/com.xalphalab.rulerlib.MainActivity}" drawable="ruler"/>
 
+	<!-- zalando -->
+	<item component="ComponentInfo{de.zalando.mobile/de.zalando.mobile.ui.start.SplashActivity}" drawable="zalando"/>
+
 </resources>
