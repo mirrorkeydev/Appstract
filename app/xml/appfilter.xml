@@ -6839,6 +6839,9 @@
 	<!-- coop_medlem -->
 	<item component="ComponentInfo{no.coop.members/no.coop.app2020.MainActivity}" drawable="coop_medlem"/>
 
+	<!-- danske_bank_mobilbank -->
+	<item component="ComponentInfo{com.danskebank.mobilebank3.no/com.danskebank.mobilebank3.MainActivity}" drawable="danske_bank_mobilbank"/>
+
 
 
 </resources>
