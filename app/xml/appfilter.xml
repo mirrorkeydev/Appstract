@@ -6836,6 +6836,9 @@
 	<!-- viafree -->
 	<item component="ComponentInfo{no.viafree.android/com.viafree.android.SplashActivity}" drawable="viafree"/>
 
+	<!-- coop_medlem -->
+	<item component="ComponentInfo{no.coop.members/no.coop.app2020.MainActivity}" drawable="coop_medlem"/>
+
 
 
 </resources>
