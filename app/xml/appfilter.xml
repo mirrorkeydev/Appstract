@@ -6864,4 +6864,7 @@
 	<!-- zalando -->
 	<item component="ComponentInfo{de.zalando.mobile/de.zalando.mobile.ui.start.SplashActivity}" drawable="zalando"/>
 
+	<!-- zyxel_multy -->
+	<item component="ComponentInfo{com.zyxel.multyx/com.zyxel.multyx.SplashActivity}" drawable="zyxel_multy"/>
+
 </resources>
