@@ -6842,6 +6842,7 @@
 	<!-- danske_bank_mobilbank -->
 	<item component="ComponentInfo{com.danskebank.mobilebank3.no/com.danskebank.mobilebank3.MainActivity}" drawable="danske_bank_mobilbank"/>
 
-
+	<!-- espresso_house -->
+	<item component="ComponentInfo{com.mobivending.espressohouse/se.espressohouse.app.splash.SplashActivity}" drawable="espresso_house"/>
 
 </resources>
