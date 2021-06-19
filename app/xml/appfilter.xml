@@ -6851,4 +6851,8 @@
 
 	<!-- mr_porter -->
 	<item component="ComponentInfo{com.mrp/com.nap.android.apps.ui.activity.BootstrapActivity}" drawable="mr_porter"/>
+
+	<!-- pricespy_prisjakt -->
+	<item component="ComponentInfo{se.prisjakt.pricespy/se.prisjakt.pricespy.activity.IndexActivity}" drawable="pricespy_prisjakt"/>
+
 </resources>
