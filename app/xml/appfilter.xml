@@ -6846,4 +6846,7 @@
 	<!-- espresso_house -->
 	<item component="ComponentInfo{com.mobivending.espressohouse/se.espressohouse.app.splash.SplashActivity}" drawable="espresso_house"/>
 
+	<!-- meny -->
+	<item component="ComponentInfo{no.norgesgruppen.apps.meny/no.norgesgruppen.apps.meny.Activities.MainActivity}" drawable="meny"/>
+
 </resources>
