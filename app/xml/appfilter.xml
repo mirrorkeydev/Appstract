@@ -6876,4 +6876,7 @@
 	<!-- nrf_connect -->
 	<item component="ComponentInfo{no.nordicsemi.android.mcp/no.nordicsemi.android.mcp.DeviceListActivity}" drawable="nrf_connect"/>
 
+	<!-- spectroid -->
+	<item component="ComponentInfo{org.intoorbit.spectrum/org.intoorbit.spectrum.SpectrumActivity}" drawable="spectroid"/>
+
 </resources>
