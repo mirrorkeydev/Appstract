@@ -496,9 +496,6 @@ Icon: Home Workout             Requested: 4
 Icon: Likee                    Requested: 4
 <item component="ComponentInfo{video.like/com.yy.iheima.startup.MainActivity}" drawable="likee"/>
 -------------------------------------------------------
-Icon: Your Phone Companion     Requested: 4
-<item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpCoreActivity}" drawable="your_phone_companion"/>
--------------------------------------------------------
 Icon: Personas                 Requested: 4
 <item component="ComponentInfo{com.todo1.mobile/com.todo1.mobile.launcher_048f5484a80a34a06ff04ee21b9c1054f82e54e1c6d85790962931ca5b531f2d}" drawable="personas"/>
 <item component="ComponentInfo{com.todo1.mobile/com.todo1.mobile.MainActivity}" drawable="personas"/>
