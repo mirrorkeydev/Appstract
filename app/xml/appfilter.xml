@@ -6873,4 +6873,7 @@
 	<!-- gamepad_tester -->
 	<item component="ComponentInfo{ru.elron.gamepadtester/ru.elron.gamepadtester.ui.main.Main2Activity}" drawable="gamepad_tester"/>
 
+	<!-- nrf_connect -->
+	<item component="ComponentInfo{no.nordicsemi.android.mcp/no.nordicsemi.android.mcp.DeviceListActivity}" drawable="nrf_connect"/>
+
 </resources>
