@@ -6870,4 +6870,7 @@
 	<!-- app_sales -->
 	<item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity}" drawable="app_sales"/>
 
+	<!-- gamepad_tester -->
+	<item component="ComponentInfo{ru.elron.gamepadtester/ru.elron.gamepadtester.ui.main.Main2Activity}" drawable="gamepad_tester"/>
+
 </resources>
