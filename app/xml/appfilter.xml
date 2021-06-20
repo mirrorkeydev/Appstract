@@ -6879,4 +6879,7 @@
 	<!-- spectroid -->
 	<item component="ComponentInfo{org.intoorbit.spectrum/org.intoorbit.spectrum.SpectrumActivity}" drawable="spectroid"/>
 
+	<!-- star_walk2 -->
+	<item component="ComponentInfo{com.vitotechnology.StarWalk2Free/com.google.firebase.MessagingUnityPlayerActivity}" drawable="star_walk2"/>
+
 </resources>
