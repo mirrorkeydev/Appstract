@@ -567,9 +567,6 @@ Icon: Viu                      Requested: 4
 Icon: Sent from ProtonMail     Requested: 4
 <item component="ComponentInfo{Error parsing request code}" drawable="sent_from_protonmail_"/>
 -------------------------------------------------------
-Icon: AppSales                 Requested: 4
-<item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity}" drawable="appsales"/>
--------------------------------------------------------
 Icon: Samsung Pass             Requested: 4
 <item component="ComponentInfo{com.samsung.android.samsungpass/com.samsung.android.samsungpass.launcher.EntryLauncher}" drawable="samsung_pass"/>
 <item component="ComponentInfo{com.samsung.android.authfw/com.samsung.android.authfw.samsungpass.launcher.EntryLauncher}" drawable="samsung_pass"/>

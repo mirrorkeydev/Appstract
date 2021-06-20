@@ -6867,4 +6867,7 @@
 	<!-- zyxel_multy -->
 	<item component="ComponentInfo{com.zyxel.multyx/com.zyxel.multyx.SplashActivity}" drawable="zyxel_multy"/>
 
+	<!-- app_sales -->
+	<item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.ui.main.MainActivity}" drawable="app_sales"/>
+
 </resources>
