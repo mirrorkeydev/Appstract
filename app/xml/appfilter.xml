@@ -2206,6 +2206,7 @@
 
 	<!---ue_boom-->
 	<item component="ComponentInfo{com.logitech.ueboom/com.logitech.ue.activities.MainActivity}" drawable="ue_boom"/>
+	<item component="ComponentInfo{com.logitech.ueboom/com.logitech.ue.howhigh.activities.SplashActivity}" drawable="ue_boom"
 
 	<!---zello-->
 	<item component="ComponentInfo{com.loudtalks/com.loudtalks.client.ui.App}" drawable="zello"/>
