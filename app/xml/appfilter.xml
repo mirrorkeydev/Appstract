@@ -4159,6 +4159,7 @@
 
 	<!---flightradar-->
 	<item component="ComponentInfo{com.flightradar24pro/com.flightradar24pro.ProSplashActivity}" drawable="flightradar" />
+	<item component="ComponentInfo{com.flightradar24free/com.flightradar24free.SplashActivity}" drawable="flightradar"/>
 
 	<!---isotope-->
 	<item component="ComponentInfo{com.underwood.periodic_table/com.underwood.periodic_table.activity_main.MainActivity}" drawable="isotope" />
@@ -6887,5 +6888,7 @@
 
 	<!-- aftenposten -->
 	<item component="ComponentInfo{no.cita/com.schibsted.publishing.hermes.new_ui.MainActivity}" drawable="aftenposten"/>
+
+	<!-- flight
 
 </resources>
