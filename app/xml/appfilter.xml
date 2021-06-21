@@ -970,6 +970,7 @@
 	<item component="ComponentInfo{com.tdbank/com.td.dcts.android.us.app.SplashScreenActivity}" drawable="bank"/>
 	<item component="ComponentInfo{com.microsoft.amp.apps.bingfinance/com.microsoft.amp.apps.bingfinance.activities.views.MainActivity}" drawable="bank"/>
 	<item component="ComponentInfo{es.santander.money/es.appbank.imm.presentation.login.LoginActivity}" drawable="bank"/>
+	<item component="ComponentInfo{com.danskebank.mobilebank3.no/com.danskebank.mobilebank3.MainActivity}" drawable="bank"/>
 
 	<!---aim-->
 	<item component="ComponentInfo{com.aol.mobile.aim/com.aol.mobile.aim.ui.AimActivity}" drawable="aim" />
@@ -5578,6 +5579,7 @@
 
 	<!---bank_id-->
 	<item component="ComponentInfo{com.bankid.bus/com.bankid.bus.activities.InitActivity}" drawable="bank_id" />
+	<item component="ComponentInfo{com.danskebank.mobileid/com.danskebank.mobileid.ui.splash.SplashActivity}" drawable="bank_id"/>
 
 	<!---storytel-->
 	<item component="ComponentInfo{grit.storytel.app/grit.storytel.app.MainActivity}" drawable="storytel" />
@@ -6891,5 +6893,8 @@
 
 	<!-- getwardrobe -->
 	<item component="ComponentInfo{com.ThreeBoots/com.ThreeBoots.MainActivity}" drawable="getwardrobe"/>
+
+	<!-- mobil-id-bank-id -->
+	<item component="ComponentInfo{com.danskebank.mobileid/com.danskebank.mobileid.ui.splash.SplashActivity}" drawable="mobil_id_bank_id"/>
 
 </resources>
