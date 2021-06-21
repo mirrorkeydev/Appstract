@@ -2033,6 +2033,7 @@
 
 	<!---nsb-->
 	<item component="ComponentInfo{com.intele.nsbmob.app/com.intele.nsbmob.app.activities.old.main.Splash}" drawable="nsb" />
+	<item component="ComponentInfo{com.intele.nsbmob.app/com.vy.StartUpActivity}" drawable="nsb"/>
 
 	<!---cam_scanner-->
 	<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="camscanner"/>
@@ -6896,5 +6897,11 @@
 
 	<!-- mobil-id-bank-id -->
 	<item component="ComponentInfo{com.danskebank.mobileid/com.danskebank.mobileid.ui.splash.SplashActivity}" drawable="mobil_id_bank_id"/>
+
+	<!-- nsb_vy -->
+	<item component="ComponentInfo{com.intele.nsbmob.app/com.vy.StartupActivity}" drawable="nsb_vy"/>
+
+	<!-- vy_nsb -->
+	<item component="ComponentInfo{com.intele.nsbmob.app/com.vy.StartupActivity}" drawable="vy_nsb"/>
 
 </resources>
