@@ -6885,4 +6885,7 @@
 	<!-- 17track -->
 	<item component="ComponentInfo{yqtrack.app/yqtrack.app.ui.splash.SplashActivity}" drawable="17track"/>
 
+	<!-- aftenposten -->
+	<item component="ComponentInfo{no.cita/com.schibsted.publishing.hermes.new_ui.MainActivity}" drawable="aftenposten"/>
+
 </resources>
