@@ -6889,6 +6889,7 @@
 	<!-- aftenposten -->
 	<item component="ComponentInfo{no.cita/com.schibsted.publishing.hermes.new_ui.MainActivity}" drawable="aftenposten"/>
 
-	<!-- flight
+	<!-- getwardrobe -->
+	<item component="ComponentInfo{com.ThreeBoots/com.ThreeBoots.MainActivity}" drawable="getwardrobe"/>
 
 </resources>
