@@ -3851,8 +3851,9 @@
 	<!---acorns-->
 	<item component="ComponentInfo{com.acorns.android/com.acorns.android.activities.MainActivity}" drawable="acorns" />
 
-	<!---pornhub-->
-	<item component="ComponentInfo{com.app.pornhub/com.app.pornhub.alias.normal}" drawable="pornhub" />
+	<!-- ph_viewer -->
+	<item component="ComponentInfo{com.app.pornhub/com.app.pornhub.alias.normal}" drawable="ph_viewer"/>
+	<item component="ComponentInfo{com.app.pornhub/com.app.pornhub.alias.discreet}" drawable="ph_viewer"/>
 
 	<!---brainyoo-->
 	<item component="ComponentInfo{com.brainyoo.brainyoo2/com.brainyoo.brainyoo2.ui.BYChooseLoginActivity}" drawable="brainyoo" />
