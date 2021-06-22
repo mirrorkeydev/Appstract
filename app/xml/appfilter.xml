@@ -6932,4 +6932,7 @@
 	<!-- nordnet -->
 	<item component="ComponentInfo{com.nordnet/com.nordnet.MainActivity}" drawable="nordnet"/>
 
+	<!-- true_tie -->
+	<item component="ComponentInfo{net.kurdsofts.tieatie/net.kurdsofts.tieatie.SplashActivity}" drawable="true_tie"/>
+
 </resources>
