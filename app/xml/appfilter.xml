@@ -6925,4 +6925,7 @@
 	<!-- just_eat -->
 	<item component="ComponentInfo{com.justeat.app.no/com.takeaway.android.activity.Splash}" drawable="just_eat"/>
 
+	<!-- luisaviaroma -->
+	<item component="ComponentInfo{com.luisaviaroma.luisaviaromaapp_android/com.lvr.MainActivity}" drawable="luisaviaroma"/>
+
 </resources>
