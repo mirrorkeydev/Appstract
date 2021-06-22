@@ -6918,4 +6918,7 @@
 	<!-- color_line -->
 	<item component="ComponentInfo{com.colorline/com.colorline.MainActivity}" drawable="color_line"/>
 
+	<!-- frequency_generator -->
+	<item component="ComponentInfo{com.luxdelux.frequencygenerator/com.luxdelux.frequencygenerator.activity.LauncherActivity}" drawable="frequency_generator"/>
+
 </resources>
