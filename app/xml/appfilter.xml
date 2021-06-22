@@ -6935,4 +6935,7 @@
 	<!-- true_tie -->
 	<item component="ComponentInfo{net.kurdsofts.tieatie/net.kurdsofts.tieatie.SplashActivity}" drawable="true_tie"/>
 
+	<!-- trumf_medlem -->
+	<item component="ComponentInfo{no.norgesgruppen.apps.trumf.trumf/no.norgesgruppen.apps.trumf.MainActivity}" drawable="trumf_medlem"/>
+
 </resources>
