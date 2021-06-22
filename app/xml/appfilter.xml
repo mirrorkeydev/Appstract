@@ -2206,7 +2206,7 @@
 
 	<!---ue_boom-->
 	<item component="ComponentInfo{com.logitech.ueboom/com.logitech.ue.activities.MainActivity}" drawable="ue_boom"/>
-	<item component="ComponentInfo{com.logitech.ueboom/com.logitech.ue.howhigh.activities.SplashActivity}" drawable="ue_boom"
+	<item component="ComponentInfo{com.logitech.ueboom/com.logitech.ue.howhigh.activities.SplashActivity}" drawable="ue_boom"/>
 
 	<!---zello-->
 	<item component="ComponentInfo{com.loudtalks/com.loudtalks.client.ui.App}" drawable="zello"/>
@@ -4947,8 +4947,8 @@
 	<!---drone_mobile-->
 	<item component="ComponentInfo{com.whiz.droneapp/com.whiz.droneapp.Splash}" drawable="drone_mobile" />
 
-	<!---harmony-->
-	<item component="ComponentInfo{com.logitech.harmonyhub/com.logitech.harmonyhub.ui.SplashActivity}" drawable="harmony" />
+	<!---logitech_harmony-->
+	<item component="ComponentInfo{com.logitech.harmonyhub/com.logitech.harmonyhub.ui.SplashActivity}" drawable="logitech_harmony" />
 
 	<!---tracksmart_scheduling-->
 	<item component="ComponentInfo{com.hs.helloscheduling/com.hs.helloscheduling.CordovaApp}" drawable="tracksmart_scheduling" />
