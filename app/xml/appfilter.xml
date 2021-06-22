@@ -5918,6 +5918,7 @@
 
 	<!---tractive_gps-->
 	<item component="ComponentInfo{com.tractive.android.gps/com.tractive.android.gps.ui.activities.LoginActivity}" drawable="tractive_gps" />
+	<item component="ComponentInfo{com.tractive.android.gps/com.tractive.android.gps.features.login.GpsAppStartActivity}" drawable="tractive_gps"/>
 
 	<!---vpnunlimited-->
 	<item component="ComponentInfo{com.simplexsolutionsinc.vpn_unlimited/com.simplexsolutionsinc.vpn_unlimited.ui.activity.AuthActivity}" drawable="vpnunlimited" />
