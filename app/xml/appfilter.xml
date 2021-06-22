@@ -6928,4 +6928,7 @@
 	<!-- luisaviaroma -->
 	<item component="ComponentInfo{com.luisaviaroma.luisaviaromaapp_android/com.lvr.MainActivity}" drawable="luisaviaroma"/>
 
+	<!-- nordnet -->
+	<item component="ComponentInfo{com.nordnet/com.nordnet.MainActivity}" drawable="nordnet"/>
+
 </resources>
