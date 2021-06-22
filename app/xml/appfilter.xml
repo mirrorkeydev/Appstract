@@ -6915,4 +6915,7 @@
 	<!-- color_harmony -->
 	<item component="ComponentInfo{pl.powsty.colorharmony/pl.powsty.colorharmony.MainActivity}" drawable="color_harmony"/>
 
+	<!-- color_line -->
+	<item component="ComponentInfo{com.colorline/com.colorline.MainActivity}" drawable="color_line"/>
+
 </resources>
