@@ -6909,4 +6909,7 @@
 	<!-- stl_viewer -->
 	<item component="ComponentInfo{com.performance.meshview/com.performance.meshview.MeshViewActivity}" drawable="stl_viewer"/>
 
+	<!-- brewfather -->
+	<item component="ComponentInfo{com.warpkode.brewfather/com.warpkode.brewfather.MainActivity}" drawable="brewfather"/>
+
 </resources>
