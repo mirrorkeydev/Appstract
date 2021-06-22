@@ -6912,4 +6912,7 @@
 	<!-- brewfather -->
 	<item component="ComponentInfo{com.warpkode.brewfather/com.warpkode.brewfather.MainActivity}" drawable="brewfather"/>
 
+	<!-- color_harmony -->
+	<item component="ComponentInfo{pl.powsty.colorharmony/pl.powsty.colorharmony.MainActivity}" drawable="color_harmony"/>
+
 </resources>
