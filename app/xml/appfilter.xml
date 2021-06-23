@@ -6941,4 +6941,7 @@
 	<!-- foldersync -->
 	<item component="ComponentInfo{dk.tacit.android.foldersync.full/dk.tacit.android.foldersync.activity.MainActivity}" drawable="foldersync"/>
 
+	<!-- onedrive -->
+	<item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
+
 </resources>
