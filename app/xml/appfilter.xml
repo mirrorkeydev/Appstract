@@ -2572,8 +2572,8 @@
 	<!---phhhoto-->
 	<item component="ComponentInfo{com.phhhoto.android/com.phhhoto.android.ui.login.SplashActivity}" drawable="phhhoto" />
 
-	<!---philipps_hue-->
-	<item component="ComponentInfo{com.philips.lighting.hue2/com.philips.lighting.hue2.ContentActivity}" drawable="philipps_hue" />
+	<!---philips_hue-->
+	<item component="ComponentInfo{com.philips.lighting.hue2/com.philips.lighting.hue2.ContentActivity}" drawable="philips_hue" />
 
 	<!---now-->
 	<item component="ComponentInfo{com.phyora.apps.reddit_now/com.phyora.apps.reddit_now.activities.ActivityRedditNow}" drawable="now" />
