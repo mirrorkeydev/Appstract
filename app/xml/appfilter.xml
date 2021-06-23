@@ -6938,4 +6938,7 @@
 	<!-- trumf_medlem -->
 	<item component="ComponentInfo{no.norgesgruppen.apps.trumf.trumf/no.norgesgruppen.apps.trumf.MainActivity}" drawable="trumf_medlem"/>
 
+	<!-- foldersync -->
+	<item component="ComponentInfo{dk.tacit.android.foldersync.full/dk.tacit.android.foldersync.activity.MainActivity}" drawable="foldersync"/>
+
 </resources>
