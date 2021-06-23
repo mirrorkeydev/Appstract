@@ -6947,4 +6947,7 @@
 	<!-- sound_meter -->
 	<item component="ComponentInfo{com.gamebasic.decibel/com.gamebasic.decibel.DecibelActi}" drawable="sound_meter"/>
 
+	<!-- xz_closet -->
+	<item component="ComponentInfo{fashion.style.coordinate.app.xz/com.tns.NativeScriptActivity}" drawable="xz_closet"/>
+
 </resources>
