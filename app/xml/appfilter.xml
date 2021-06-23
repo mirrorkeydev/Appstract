@@ -6944,4 +6944,7 @@
 	<!-- onedrive -->
 	<item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
 
+	<!-- sound_meter -->
+	<item component="ComponentInfo{com.gamebasic.decibel/com.gamebasic.decibel.DecibelActi}" drawable="sound_meter"/>
+
 </resources>
