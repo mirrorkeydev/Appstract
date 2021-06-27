@@ -1555,6 +1555,13 @@
 
 	<!---pocket_mal-->
 	<item component="ComponentInfo{com.g.pocketmal/com.g.pocketmal.ui.SplashActivity}" drawable="pocket_mal" />
+	<item component="ComponentInfo{com.drutol.malclient/crc64538156a8cca88d64.MainActivity}" drawable="pocket_mal"/>
+	<item component="ComponentInfo{net.myanimelist.app/net.myanimelist.presentation.activity.HomeActivity}" drawable="pocket_mal"/>
+
+	<!-- mal_my_anime_list -->
+	<item component="ComponentInfo{com.g.pocketmal/com.g.pocketmal.ui.SplashActivity}" drawable="mal_my_anime_list" />
+	<item component="ComponentInfo{com.drutol.malclient/crc64538156a8cca88d64.MainActivity}" drawable="mal_my_anime_list"/>
+	<item component="ComponentInfo{net.myanimelist.app/net.myanimelist.presentation.activity.HomeActivity}" drawable="mal_my_anime_list"/>
 
 	<!---funhaus-->
 	<item component="ComponentInfo{com.GabrielR.grod46.Inside.Gaming/com.appyet.activity.SplashActivity}" drawable="funhaus"/>
