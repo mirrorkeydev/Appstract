@@ -6950,4 +6950,7 @@
 	<!-- xz_closet -->
 	<item component="ComponentInfo{fashion.style.coordinate.app.xz/com.tns.NativeScriptActivity}" drawable="xz_closet"/>
 
+	<!-- blob_lwp -->
+	<item component="ComponentInfo{com.maxelus.livewallpaper.blob/com.maxelus.libpref.MaxelusLuncherActivity}" drawable="blob_lwp"/>
+
 </resources>
