@@ -6956,4 +6956,7 @@
 	<!-- bubbles_lwp -->
 	<item component="ComponentInfo{cdev.bubbles/cdev.bubbles.MySettingsActivity}" drawable="bubbles_lwp"/>
 
+	<!-- clas_ohlson -->
+	<item component="ComponentInfo{com.clasohlson.app/com.clasohlson.app.MainActivity}" drawable="clas_ohlson"/>
+
 </resources>
