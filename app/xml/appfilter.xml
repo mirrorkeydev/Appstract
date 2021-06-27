@@ -6972,4 +6972,7 @@
 	<!-- norstat_panel -->
 	<item component="ComponentInfo{no.norstat.panelapp/crc6488dbf9ed225ce582.SplashActivity}" drawable="norstat_panel"/>
 
+	<!-- nrk -->
+	<item component="ComponentInfo{no.nrk.mobil.app/no.nrk.mobil.app.activity.SplashScreenActivity}" drawable="nrk"/>
+
 </resources>
