@@ -6969,4 +6969,7 @@
 	<!-- clas_ohlson -->
 	<item component="ComponentInfo{com.clasohlson.app/com.clasohlson.app.MainActivity}" drawable="clas_ohlson"/>
 
+	<!-- norstat_panel -->
+	<item component="ComponentInfo{no.norstat.panelapp/crc6488dbf9ed225ce582.SplashActivity}" drawable="norstat_panel"/>
+
 </resources>
