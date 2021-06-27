@@ -1664,6 +1664,9 @@
 	<!---chromecast-->
 	<item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="chromecast" />
 
+	<!-- google_home -->
+	<item component="ComponentInfo{com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity}" drawable="google_home"/>
+
 	<!---ComponentInfo{google_componentroom}-->
 	<item component="ComponentInfo{com.google.android.apps.componentroom/com.google.android.apps.componentroom.application.LauncherActivity}" drawable="ComponentInfo{google_componentroom}" />
 
