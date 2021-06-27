@@ -6984,4 +6984,7 @@
 	<!-- patient_sky -->
 	<item component="ComponentInfo{com.patientsky.patientsky/com.patientsky.patientsky.MainActivity}" drawable="patient_sky"/>
 
+	<!-- tes_blades -->
+	<item component="ComponentInfo{com.bethsoft.blade/com.bethesda-player.BgsPlayerActivity}" drawable="tes_blades"/>
+
 </resources>
