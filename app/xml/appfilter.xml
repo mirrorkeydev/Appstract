@@ -6978,4 +6978,7 @@
 	<!-- nrk_radio -->
 	<item component="ComponentInfo{no.nrk.mobil.radio/no.nrk.mobil.radio.MainActivity}" drawable="nrk_radio"/>
 
+	<!-- nrk_tv -->
+	<item component="ComponentInfo{no.nrk.tv/no.nrk.tv.view.MobileSplashScreenActivity}" drawable="nrk_tv"/>
+
 </resources>
