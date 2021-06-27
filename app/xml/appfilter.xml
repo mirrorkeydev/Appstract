@@ -6981,4 +6981,7 @@
 	<!-- nrk_tv -->
 	<item component="ComponentInfo{no.nrk.tv/no.nrk.tv.view.MobileSplashScreenActivity}" drawable="nrk_tv"/>
 
+	<!-- patient_sky -->
+	<item component="ComponentInfo{com.patientsky.patientsky/com.patientsky.patientsky.MainActivity}" drawable="patient_sky"/>
+
 </resources>
