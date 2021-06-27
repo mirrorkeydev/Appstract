@@ -6953,4 +6953,7 @@
 	<!-- blob_lwp -->
 	<item component="ComponentInfo{com.maxelus.livewallpaper.blob/com.maxelus.libpref.MaxelusLuncherActivity}" drawable="blob_lwp"/>
 
+	<!-- bubbles_lwp -->
+	<item component="ComponentInfo{cdev.bubbles/cdev.bubbles.MySettingsActivity}" drawable="bubbles_lwp"/>
+
 </resources>
