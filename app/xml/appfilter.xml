@@ -6593,9 +6593,6 @@
 	<!---zomato-->
 	<item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomato" />
 
-	<!---gopro-->
-	<item component="ComponentInfo{com.gopro.smarty/com.gopro.smarty.activity.HomeActivity}" drawable="gopro"/>
-
 	<!-- komoot -->
 
 	<item component="ComponentInfo{de.komoot.android/de.komoot.android.ui.inspiration.InspirationActivity}" drawable="komoot"/>
