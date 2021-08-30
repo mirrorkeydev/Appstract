@@ -7000,4 +7000,7 @@
 	<!-- run_pee -->
 	<item component="ComponentInfo{air.RunPee/air.RunPee.MainActivity}" drawable="run_pee"/>
 
+	<!-- sony_cinema_pro -->
+	<item component="ComponentInfo{com.sonymobile.cinemapro/com.sonymobile.cinemapro.CinemaProActivity}" drawable="sony_cinema_pro"/>
+
 </resources>
