@@ -6994,4 +6994,7 @@
 	<!-- booztlet -->
 	<item component="ComponentInfo{com.booztlet/com.booztlet.ui.SplashActivity}" drawable="booztlet"/>
 
+	<!-- posten_digipost -->
+	<item component="ComponentInfo{no.digipost.android/no.digipost.android.MainActivity}" drawable="posten_digipost"/>
+
 </resources>
