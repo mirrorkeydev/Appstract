@@ -6987,4 +6987,7 @@
 	<!-- tes_blades -->
 	<item component="ComponentInfo{com.bethsoft.blade/com.bethesda-player.BgsPlayerActivity}" drawable="tes_blades"/>
 
+	<!-- boozt -->
+	<item component="ComponentInfo{com.boozt/com.boozt.ui.BooztActivity}" drawable="boozt"/>
+
 </resources>
