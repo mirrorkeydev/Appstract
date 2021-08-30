@@ -6997,4 +6997,7 @@
 	<!-- posten_digipost -->
 	<item component="ComponentInfo{no.digipost.android/no.digipost.android.MainActivity}" drawable="posten_digipost"/>
 
+	<!-- run_pee -->
+	<item component="ComponentInfo{air.RunPee/air.RunPee.MainActivity}" drawable="run_pee"/>
+
 </resources>
