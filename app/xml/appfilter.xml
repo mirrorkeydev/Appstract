@@ -3060,6 +3060,7 @@
 
 	<!---tripadvisor-->
 	<item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity}" drawable="tripadvisor" />
+	<item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.android.ui.launcher.LauncherActivity}" drawable="tripadvisor"/>
 
 	<!---truecaller-->
 	<item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="phone"/>
