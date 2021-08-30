@@ -7007,4 +7007,7 @@
 	<!-- sony_cinema_pro -->
 	<item component="ComponentInfo{com.sonymobile.cinemapro/com.sonymobile.cinemapro.CinemaProActivity}" drawable="sony_cinema_pro"/>
 
+	<!-- sony_photo_pro -->
+	<item component="ComponentInfo{com.sonymobile.photopro/com.sonymobile.photopro.PhotoProActivity}" drawable="sony_photo_pro"/>
+
 </resources>
