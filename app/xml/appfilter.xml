@@ -6990,4 +6990,7 @@
 	<!-- boozt -->
 	<item component="ComponentInfo{com.boozt/com.boozt.ui.BooztActivity}" drawable="boozt"/>
 
+	<!-- booztlet -->
+	<item component="ComponentInfo{com.booztlet/com.booztlet.ui.SplashActivity}" drawable="booztlet"/>
+
 </resources>
