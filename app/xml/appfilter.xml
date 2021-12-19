@@ -6905,8 +6905,8 @@
 	<!-- star_walk2 -->
 	<item component="ComponentInfo{com.vitotechnology.StarWalk2Free/com.google.firebase.MessagingUnityPlayerActivity}" drawable="star_walk2"/>
 
-	<!-- 17track -->
-	<item component="ComponentInfo{yqtrack.app/yqtrack.app.ui.splash.SplashActivity}" drawable="17track"/>
+	<!-- seventeentrack -->
+	<item component="ComponentInfo{yqtrack.app/yqtrack.app.ui.splash.SplashActivity}" drawable="seventeentrack"/>
 
 	<!-- aftenposten -->
 	<item component="ComponentInfo{no.cita/com.schibsted.publishing.hermes.new_ui.MainActivity}" drawable="aftenposten"/>
