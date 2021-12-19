@@ -44,9 +44,14 @@
 		name="Artt-ies"
 		contribution="Viu, Roborock, Grab, Adobe Scan, Galaxy Labs"
 		link="https://github.com/Artt-ies" />
-		<contributor
-			name="Gleyson Abreu"
-			contribution="8 icons"
-			image="https://avatars2.githubusercontent.com/u/27729455"
-			link="https://github.com/gleysonabreu" />
+	<contributor
+		name="Gleyson Abreu"
+		contribution="8 icons"
+		image="https://avatars2.githubusercontent.com/u/27729455"
+		link="https://github.com/gleysonabreu" />
+	<contributor
+		name="Simen Opsahl"
+		contribution="~85 Icons"
+		image="https://avatars.githubusercontent.com/u/2676016"
+		link="https://github.com/simenopsahl"
 </resources>
