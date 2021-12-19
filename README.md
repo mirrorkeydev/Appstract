@@ -1,12 +1,3 @@
-<h2 align="center">
-⚠️ Attention: Appstract is in "no-merges" mode until 9/4/2021 ⚠️
-</h2>
-
-<p align="center">
-You may (and are encouraged to) continue to open contribution pull requests, but I cannot merge them until the day after my internship ends. My terms of employment prevent me from working on personal projects while employed unless I want to transfer all intellectual property rights to my employer. Rest assured though, that I will review and merge any and all changes at the end of the summer and they will make it into the next release of Appstract. Thank you for your understanding!
-</p>
-
-
 # Appstract Icon Pack
 
 An abstract Android icon pack. Built on [CandyBar Library](https://github.com/zixpo/candybar-sample). Available on the [Play Store](https://play.google.com/store/apps/details?id=com.melon.appstract).
@@ -48,6 +39,9 @@ Added more contributor icons. Added "old" icon versions so users can manually ap
 
 #### V4.0.5 June 2021
 Bump version of CandyBar. Add more icons.
+
+#### (Planned) V4.0.6 December 2021
+Bump version of CandyBar. Add more icons from contributors.
 
 # License
 All work in this repository is licensed under Apache 2.0.
