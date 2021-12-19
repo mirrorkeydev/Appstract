@@ -3,6 +3,7 @@ name: Lint Filenames
 on:
   pull_request:
     branches: [master]
+  workflow_dispatch:
 
 defaults:
   run:

@@ -2,6 +2,7 @@ name: Three Of Each Icon
 on:
   pull_request:
     branches: [master]
+  workflow_dispatch:
 
 defaults:
   run:
