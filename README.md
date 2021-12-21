@@ -38,10 +38,10 @@ Fourth major release. Ported to the maintained fork of CandyBar [here](https://g
 Added more contributor icons. Added "old" icon versions so users can manually apply them.
 
 #### V4.0.5 June 2021
-Bump version of CandyBar. Add more icons.
+Bump version of CandyBar to v3.11.0. Add more icons.
 
-#### (Planned) V4.0.6 December 2021
-Bump version of CandyBar. Add more icons from contributors.
+#### V4.0.6 December 2021
+Bump version of CandyBar to v2.13.1. Add more icons from contributors and improve bindings.
 
 # License
 All work in this repository is licensed under Apache 2.0.

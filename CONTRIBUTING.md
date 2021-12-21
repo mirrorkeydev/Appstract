@@ -108,3 +108,6 @@ round-capped and black or white
 
 I don't have any plans for code changes - Appstract is currently built on [Sarsa Murmu's](https://github.com/sarsamurmu) maintained Candybar fork: [zixpo/candybar-sample](https://github.com/zixpo/candybar-sample). If you want to contribute to that, head over to his repo :)
 
+## Disclaimer
+
+By contributing to this repository, you agree to have your work bound to the repository's license.
