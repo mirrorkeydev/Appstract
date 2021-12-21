@@ -41,7 +41,7 @@ Added more contributor icons. Added "old" icon versions so users can manually ap
 Bump version of CandyBar to v3.11.0. Add more icons.
 
 #### V4.0.6 December 2021
-Bump version of CandyBar to v2.13.1. Add more icons from contributors and improve bindings.
+Bump version of CandyBar to v3.13.1. Add more icons from contributors and improve bindings.
 
 # License
 All work in this repository is licensed under Apache 2.0.
