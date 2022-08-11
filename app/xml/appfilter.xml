@@ -7088,5 +7088,14 @@
 
 	<!-- sony_photo_pro -->
 	<item component="ComponentInfo{com.sonymobile.photopro/com.sonymobile.photopro.PhotoProActivity}" drawable="sony_photo_pro"/>
+	
+	<!-- brave -->
+	<item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave"/>
+	
+	<!-- brave - beta -->
+	<item component="ComponentInfo{com.brave.browser_beta/com.google.android.apps.chrome.Main}" drawable="brave_-_beta"/>
+	
+	<!-- brave - nightly -->
+	<item component="ComponentInfo{com.brave.browser_nightly/com.google.android.apps.chrome.Main}" drawable="brave_-_nightly"/>
 
 </resources>
