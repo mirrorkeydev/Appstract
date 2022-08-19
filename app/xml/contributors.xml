@@ -59,9 +59,4 @@
 		contribution="Waze"
 		image="https://avatars.githubusercontent.com/u/10571045"
 		link="https://github.com/mikky-cecil" />
-	<contributor
-		name="Patru"
-		contribution="Brave, including Beta and Nightly variants"
-		image="https://avatars.githubusercontent.com/u/67705705"
-		link="https://github.com/agustinpatrucco" />
 </resources>
