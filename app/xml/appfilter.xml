@@ -896,7 +896,13 @@
 	<item component="ComponentInfo{com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder}" drawable="sound_recorder"/>
 	<item component="ComponentInfo{com.rimidalv.dictaphone/com.rimidalv.dictaphone.activities.MainActivity}" drawable="sound_recorder"/>
 	<item component="ComponentInfo{com.smartmobitools.voicerecorder/com.smartmobitools.voicerecorder.ui.SplashActivity}" drawable="sound_recorder"/>
-
+	<item component="ComponentInfo{com.android.soundrecorder/com.spdr.soundrecorder.RecorderActivity}" drawable="sound_recorder" />
+	<item component="ComponentInfo{com.dimowner.audiorecorder/com.dimowner.audiorecorder.app.main.MainActivity}" drawable="sound_recorder" />
+	<item component="ComponentInfo{net.micode.soundrecorder/net.micode.soundrecorder.SoundRecorder}" drawable="sound_recorder" />
+	<item component="ComponentInfo{com.danielkim.soundrecorder/com.danielkim.soundrecorder.activities.MainActivity}" drawable="sound_recorder" />
+	<item component="ComponentInfo{com.github.axet.audiorecorder/com.github.axet.audiorecorder.activities.MainActivity}" drawable="sound_recorder" />
+	<item component="ComponentInfo{com.simplemobiletools.voicerecorder/com.simplemobiletools.voicerecorder.activities.SplashActivity.Orange}" drawable="sound_recorder" />
+	
 	<!---flashlight-->
 	<item component="ComponentInfo{com.htc.flashlight/com.htc.flashlight.FlashlightActivity}" drawable="flashlight" />
 	<item component="ComponentInfo{com.android.systemui/com.android.systemui.flashlight.FlashlightActivity}" drawable="flashlight" />
