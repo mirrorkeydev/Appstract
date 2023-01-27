@@ -1,4 +1,4 @@
-# Contributing
+# ⚠️ Not currently accepting contributions ⚠️
 
 Hello! Welcome to Appstract's contribution guide.
 
