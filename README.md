@@ -8,8 +8,11 @@ An abstract Android icon pack. Built on [CandyBar Library](https://github.com/zi
 If you'd like to request icons, please use the in-app icon request feature. I have a [script](https://github.com/mirrorkeydev/PythonScripts/tree/master/Appstract/requestanalyzer) that I periodically run on the request email to compile a list of the [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt).
 
 # Contributing
-Contributions are very welcome! You do NOT need to know how to code, just how to create .SVGs using [Inkscape](https://inkscape.org/) or other software.
-Please see the [contribution guide](https://github.com/mirrorkeydev/Appstract/blob/master/CONTRIBUTING.md) for instructions on how to contribute.
+
+⚠️ Not currently accepting contributions ⚠️
+
+~~Contributions are very welcome! You do NOT need to know how to code, just how to create .SVGs using [Inkscape](https://inkscape.org/) or other software.
+Please see the [contribution guide](https://github.com/mirrorkeydev/Appstract/blob/master/CONTRIBUTING.md) for instructions on how to contribute.~~
 
 # Acknowledgements
 Appstract is currently built on [Sarsa Murmu's](https://github.com/sarsamurmu) maintained Candybar fork: [zixpo/candybar-sample](https://github.com/zixpo/candybar-sample).
