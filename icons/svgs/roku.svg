@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 50.799999 50.799999"
+   version="1.1"
+   id="svg850"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="roku.svg"
+   inkscape:export-filename="C:\Users\Melanie\Documents\GitHub\Appstract\app\src\main\res\drawable-nodpi\roku.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs844" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4251553"
+     inkscape:cx="169.85134"
+     inkscape:cy="19.966537"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2834"
+     inkscape:window-height="1626"
+     inkscape:window-x="348"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata847">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.20002)">
+    <rect
+       style="fill:#bda5e6;fill-opacity:1;stroke:none;stroke-width:1.58749998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5750"
+       width="32.238914"
+       height="32.238914"
+       x="9.2805424"
+       y="255.48056" />
+    <g
+       id="g5764"
+       transform="translate(0,0.81124865)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5752"
+         d="M 13.201044,289.82664 V 251.7509"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.58749986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path5754"
+         d="m 24.247368,251.73968 c 7.034655,0 12.73737,5.70271 12.73737,12.73737 0,7.03466 -5.702715,12.73737 -12.73737,12.73737"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.58749974;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5759"
+         d="m 36.97911,289.82811 -4.745831,-8.34612"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.58749986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

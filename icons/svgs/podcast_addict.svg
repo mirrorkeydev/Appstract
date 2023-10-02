@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 192.00001 192.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\Melanie\Google Drive\MISC\Appstract\E - xxxhdpi - 192x192\podcast_addict.png"
+   inkscape:export-xdpi="95.800003"
+   inkscape:export-ydpi="95.800003"
+   sodipodi:docname="podcast_addict.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="-104.63524"
+     inkscape:cy="139.23486"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1507"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:window-width="3000"
+     inkscape:window-height="1875"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-860.36222)"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       id="g5381"
+       transform="translate(0,860.36222)">
+      <rect
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#666666;stroke-width:0.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4140"
+         width="183.86781"
+         height="183.86781"
+         x="4.0660992"
+         y="4.0660992" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g5415"
+       transform="translate(0.57921141,3.9295562)">
+      <g
+         id="g6140"
+         transform="matrix(1.1530717,0,0,1.1530717,-14.606222,-16.938387)">
+        <g
+           id="g6172"
+           transform="matrix(1.0887817,0,0,1.0887817,-8.4716205,-8.3932267)">
+          <g
+             id="g6179"
+             transform="matrix(0.94988002,0,0,0.94988002,4.7824882,4.7382316)">
+            <g
+               id="g1507"
+               transform="matrix(1.171249,0,0,1.171249,-15.524545,-12.445202)"
+               style="stroke-width:0.85378939">
+              <circle
+                 style="fill:#fec283;fill-opacity:1;stroke:none;stroke-width:4.29572153"
+                 id="path1808-9"
+                 cx="94.723953"
+                 cy="91.340935"
+                 r="50.832253" />
+              <path
+                 style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.29572153;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 56.957398,146.29038 V 70.39929"
+                 id="path1904"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cc" />
+              <circle
+                 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.29572153"
+                 id="path1906"
+                 cx="64.270859"
+                 cy="72.525627"
+                 r="29.869083" />
+              <circle
+                 style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.29572153"
+                 id="path1906-6"
+                 cx="128.00293"
+                 cy="110.15624"
+                 r="29.869083" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

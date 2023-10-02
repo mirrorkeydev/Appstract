@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 50.799999 50.799999"
+   version="1.1"
+   id="svg850"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="twitch.svg"
+   inkscape:export-filename="C:\Users\Melanie\Documents\GitHub\Appstract\app\src\main\res\drawable-nodpi\twitch.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs844" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.8503106"
+     inkscape:cx="146.1161"
+     inkscape:cy="50.379282"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g5921"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2834"
+     inkscape:window-height="1626"
+     inkscape:window-x="348"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="false" />
+  <metadata
+     id="metadata847">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.20002)">
+    <g
+       id="g5799"
+       transform="translate(0,-0.23671677)">
+      <g
+         id="g5852"
+         transform="matrix(0.59783245,0,0,0.60357662,-5.4879736,106.27205)"
+         style="stroke-width:1.66473091">
+        <g
+           id="g5921"
+           transform="matrix(1.217806,0,0,1.217806,-11.253298,-59.745495)"
+           style="stroke-width:1.36699188">
+          <rect
+             style="fill:#c1a7e7;fill-opacity:1;stroke:none;stroke-width:2.17009974;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect5935"
+             width="50.360264"
+             height="40.826958"
+             x="26.486475"
+             y="253.89252" />
+          <path
+             style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.1700995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 37.008753,289.78953 v 14.24858 l 11.613604,-14.24858"
+             id="path5937"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.1700995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 53.567506,266.06831 v 12.02258"
+             id="path5939"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.1700995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 67.129199,266.06831 v 12.02258"
+             id="path5939-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

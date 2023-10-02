@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 50.799999 50.799999"
+   version="1.1"
+   id="svg850"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="ali_express.svg"
+   inkscape:export-filename="C:\Users\Melanie\Documents\GitHub\Appstract\app\src\main\res\drawable-nodpi\ali_express.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs844" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.4296875"
+     inkscape:cx="78.499012"
+     inkscape:cy="64.897963"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g5921"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2834"
+     inkscape:window-height="1626"
+     inkscape:window-x="348"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata847">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.20002)">
+    <g
+       id="g5799"
+       transform="translate(0,-0.23671677)">
+      <g
+         id="g5852"
+         transform="matrix(0.59783245,0,0,0.60357662,-5.4879736,106.27205)"
+         style="stroke-width:1.66473091">
+        <g
+           id="g5921"
+           transform="matrix(1.217806,0,0,1.217806,-11.253298,-59.745495)"
+           style="stroke-width:1.36699188">
+          <rect
+             style="fill:#ff8978;fill-opacity:1;stroke:none;stroke-width:2.17009997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect7222"
+             width="49.590237"
+             height="41.981445"
+             x="26.871489"
+             y="255.3094" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#0c0c0c;stroke-width:2.17009974;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 67.350677,250.01403 c 0,8.52399 -7.121802,15.43405 -15.906991,15.43405 -8.78519,0 -15.906993,-6.91006 -15.906992,-15.43405"
+             id="path7224"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="csc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
