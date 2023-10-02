@@ -1,6 +1,6 @@
 # Appstract Icon Pack
 
-> **IMPORTANT:** This project is now archived, but all nearly 600 icons will continue to be available for public use and enjoyment [here](https://github.com/mirrorkeydev/Appstract/tree/master/icons). Please use these in whatever fashion you like, but FOSS applications are particularly encouraged.
+> **IMPORTANT:** This project is now archived, but all nearly 600 icons will continue to be available for public use and enjoyment [here](https://github.com/mirrorkeydev/Appstract/tree/master/icons). Please use these in whatever fashion you like -- FOSS applications are particularly encouraged.
 
 An abstract Android icon pack. Built on [CandyBar Library](https://github.com/zixpo/candybar-sample). Available on the [Play Store](https://play.google.com/store/apps/details?id=com.melon.appstract).
 
