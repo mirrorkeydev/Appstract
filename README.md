@@ -1,18 +1,13 @@
 # Appstract Icon Pack
 
+> **IMPORTANT:** This project is now archived, but all nearly 600 icons will continue to be available for public use and enjoyment [here](https://github.com/mirrorkeydev/Appstract/tree/master/icons). Please use these in whatever fashion you like, but FOSS applications are particularly encouraged.
+
 An abstract Android icon pack. Built on [CandyBar Library](https://github.com/zixpo/candybar-sample). Available on the [Play Store](https://play.google.com/store/apps/details?id=com.melon.appstract).
 
 ![Icon Preview](https://github.com/mirrorkeydev/Appstract/blob/master/bothimage.png)
 
-# Icon Requests
-If you'd like to request icons, please use the in-app icon request feature. I have a [script](https://github.com/mirrorkeydev/PythonScripts/tree/master/Appstract/requestanalyzer) that I periodically run on the request email to compile a list of the [most-requested icons](https://github.com/mirrorkeydev/Appstract/blob/master/icons/most-requested-icons.txt).
-
-# Contributing
-
-⚠️ Not currently accepting contributions ⚠️
-
-~~Contributions are very welcome! You do NOT need to know how to code, just how to create .SVGs using [Inkscape](https://inkscape.org/) or other software.
-Please see the [contribution guide](https://github.com/mirrorkeydev/Appstract/blob/master/CONTRIBUTING.md) for instructions on how to contribute.~~
+# Design Ethos
+The design ethos is explained in the former [contribution guide](https://github.com/mirrorkeydev/Appstract/blob/master/CONTRIBUTING.md).
 
 # Acknowledgements
 Appstract is currently built on [Sarsa Murmu's](https://github.com/sarsamurmu) maintained Candybar fork: [zixpo/candybar-sample](https://github.com/zixpo/candybar-sample).
